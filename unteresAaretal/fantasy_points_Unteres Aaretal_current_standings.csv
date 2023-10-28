@@ -1,8 +1,8 @@
-fantasy_team,fantasy_points,rank
-Melissa,113,1.0
-Maurus,88,2.0
-Simon,70,3.0
-Sarah,44,4.0
-Lena,41,5.0
-Lea,35,6.0
-Dominik,15,7.0
+Rang,Team,Fantasy Punkte
+1.0,Melissa,113
+2.0,Maurus,88
+3.0,Simon,70
+4.0,Sarah,44
+5.0,Lena,41
+6.0,Lea,35
+7.0,Dominik,15

@@ -1,13 +1,13 @@
-fantasy_team,fantasy_points,rank
-Meile,72,1.0
-Zappella,70,2.0
-Bürgler,65,3.0
-Rissi,57,4.0
-Manser,45,5.0
-Bulleri,43,6.0
-Helfenberger,40,7.0
-Knuchel,26,8.0
-Helbling,22,9.0
-Reich,20,10.0
-Woerlen,15,11.0
-Fehr,9,12.0
+Rang,Team,Fantasy Punkte
+1.0,Meile,72
+2.0,Zappella,70
+3.0,Bürgler,65
+4.0,Rissi,57
+5.0,Manser,45
+6.0,Bulleri,43
+7.0,Helfenberger,40
+8.0,Knuchel,26
+9.0,Helbling,22
+10.0,Reich,20
+11.0,Woerlen,15
+12.0,Fehr,9
