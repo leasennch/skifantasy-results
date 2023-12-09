@@ -1,29 +1,54 @@
 Datum,Ort,Disziplin,Rang,Fahrer/in,Fantasy Punkte,Weltcup Punkte,Team
 2023-12-09,St. Moritz,Downhill,1,Shiffrin Mikaela,55,100,Helfenberger
+2023-12-09,Val d'Isere,Giant Slalom,1,Odermatt Marco,55,100,Reich
 2023-12-09,St. Moritz,Downhill,2,Goggia Sofia,48,80,Woerlen
+2023-12-09,Val d'Isere,Giant Slalom,2,Schwarz Marco,48,80,Rissi
 2023-12-09,St. Moritz,Downhill,3,Brignone Federica,43,60,Zappella
+2023-12-09,Val d'Isere,Giant Slalom,3,Verdu Joan,43,60,
 2023-12-09,St. Moritz,Downhill,4,Huetter Cornelia,38,50,Manser
+2023-12-09,Val d'Isere,Giant Slalom,4,Zubcic Filip,38,50,Rissi
 2023-12-09,St. Moritz,Downhill,5,Puchner Mirjam,35,45,Meile
+2023-12-09,Val d'Isere,Giant Slalom,5,Pinturault Alexis,35,45,Zappella
 2023-12-09,St. Moritz,Downhill,6,Aicher Emma,32,40,Zappella
+2023-12-09,Val d'Isere,Giant Slalom,6,Meillard Loic,32,40,Bürgler
 2023-12-09,St. Moritz,Downhill,7,Venier Stephanie,29,36,Rissi
+2023-12-09,Val d'Isere,Giant Slalom,7,Kranjec Zan,29,36,Conzett
 2023-12-09,St. Moritz,Downhill,8,Gisin Michelle,26,32,Bürgler
+2023-12-09,Val d'Isere,Giant Slalom,8,Kristoffersen Henrik,26,32,Conzett
 2023-12-09,St. Moritz,Downhill,9,Weidle Kira,24,29,Woerlen
+2023-12-09,Val d'Isere,Giant Slalom,9,Schmid Alexander,24,29,Helbling
 2023-12-09,St. Moritz,Downhill,10,Bassino Marta,22,26,Rissi
+2023-12-09,Val d'Isere,Giant Slalom,10,Radamus River,22,26,
 2023-12-09,St. Moritz,Downhill,11,Suter Corinne,20,24,Helbling
+2023-12-09,Val d'Isere,Giant Slalom,11,Feller Manuel,20,24,Meile
 2023-12-09,St. Moritz,Downhill,12,Wright Isabella,19,22,Rissi
+2023-12-09,Val d'Isere,Giant Slalom,12,Mcgrath Atle Lie,19,22,Knuchel
 2023-12-09,St. Moritz,Downhill,13,Gut-Behrami Lara,18,20,Meile
+2023-12-09,Val d'Isere,Giant Slalom,13,Zwischenbrugger Noel,18,20,
 2023-12-09,St. Moritz,Downhill,14,Stuhec Ilka,17,18,Reich
+2023-12-09,Val d'Isere,Giant Slalom,14,Vinatzer Alex,17,18,Bulleri
 2023-12-09,St. Moritz,Downhill,15,Lie Kajsa Vickhoff,16,16,Fehr
+2023-12-09,Val d'Isere,Giant Slalom,15,Borsotti Giovanni,16,16,
 2023-12-09,St. Moritz,Downhill,16,Raedler Ariane,15,15,Zappella
+2023-12-09,Val d'Isere,Giant Slalom,16,Feurstein Patrick,15,15,
 2023-12-09,St. Moritz,Downhill,17,Nufer Priska,14,14,Woerlen
+2023-12-09,Val d'Isere,Giant Slalom,17,Zurbruegg Sandro,14,14,
 2023-12-09,St. Moritz,Downhill,18,Flury Jasmine,13,13,Fehr
+2023-12-09,Val d'Isere,Giant Slalom,18,Windingstad Rasmus,13,13,Reich
 2023-12-09,St. Moritz,Downhill,19,Durrer Delia,12,12,Meile
+2023-12-09,Val d'Isere,Giant Slalom,19,Read Erik,12,12,Knuchel
 2023-12-09,St. Moritz,Downhill,20,Delago Nicol,11,11,Reich
+2023-12-09,Val d'Isere,Giant Slalom,20,Tumler Thomas,11,11,
 2023-12-09,St. Moritz,Downhill,21,Ager Christina,10,10,
+2023-12-09,Val d'Isere,Giant Slalom,21,Anguenot Leo,10,10,
 2023-12-09,St. Moritz,Downhill,22,Ledecka Ester,9,9,Bürgler
+2023-12-09,Val d'Isere,Giant Slalom,22,Janutin Fadri,9,9,
 2023-12-09,St. Moritz,Downhill,23,Gauche Laura,8,8,Manser
+2023-12-09,Val d'Isere,Giant Slalom,23,Grammel Anton,8,8,
 2023-12-09,St. Moritz,Downhill,24,Pirovano Laura,7,7,Conzett
+2023-12-09,Val d'Isere,Giant Slalom,24,Moeller Fredrik,7,7,
 2023-12-09,St. Moritz,Downhill,25,Haehlen Joana,6,6,Woerlen
+2023-12-09,Val d'Isere,Giant Slalom,25,Muffat-Jeandet Victor,6,6,
 2023-12-09,St. Moritz,Downhill,26,Delago Nadia,5,5,
 2023-12-09,St. Moritz,Downhill,27,Scheyer Christine,4,4,
 2023-12-09,St. Moritz,Downhill,28,Fleckenstein Stefanie,3,3,
