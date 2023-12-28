@@ -1,33 +1,62 @@
 Datum,Ort,Disziplin,Rang,Fahrer/in,Fantasy Punkte,Weltcup Punkte,Team
 2023-12-28,Bormio,Downhill,1,Sarrazin Cyprien,55,100,
+2023-12-28,Lienz,Giant Slalom,1,Shiffrin Mikaela,55,100,Lena
 2023-12-28,Bormio,Downhill,2,Odermatt Marco,48,80,Lea
+2023-12-28,Lienz,Giant Slalom,2,Brignone Federica,48,80,Simon
 2023-12-28,Bormio,Downhill,3,Alexander Cameron,43,60,
+2023-12-28,Lienz,Giant Slalom,3,Hector Sara,43,60,Melissa
 2023-12-28,Bormio,Downhill,4,Murisier Justin,38,50,
+2023-12-28,Lienz,Giant Slalom,4,Grenier Valerie,38,50,Maurus
 2023-12-28,Bormio,Downhill,5,Kriechmayr Vincent,35,45,Melissa
+2023-12-28,Lienz,Giant Slalom,5,Scheib Julia,35,45,
 2023-12-28,Bormio,Downhill,6,Casse Mattia,32,40,Maurus
+2023-12-28,Lienz,Giant Slalom,6,Gut-Behrami Lara,32,40,Melissa
 2023-12-28,Bormio,Downhill,7,Hintermann Niels,29,36,Lena
+2023-12-28,Lienz,Giant Slalom,7,Vlhova Petra,29,36,Maurus
 2023-12-28,Bormio,Downhill,8,Crawford James,26,32,Melissa
+2023-12-28,Lienz,Giant Slalom,8,Goggia Sofia,26,32,Dominik
 2023-12-28,Bormio,Downhill,9,Alphand Nils,24,29,
+2023-12-28,Lienz,Giant Slalom,9,Robinson Alice,24,29,Melissa
 2023-12-28,Bormio,Downhill,10,Kohler Marco,22,26,
+2023-12-28,Lienz,Giant Slalom,10,Ljutic Zrinka,22,26,Lea
 2023-12-28,Bormio,Downhill,11,Hrobat Miha,20,24,
+2023-12-28,Lienz,Giant Slalom,11,Hurt A J,20,24,
 2023-12-28,Bormio,Downhill,12,Maple Wiley,19,22,
+2023-12-28,Lienz,Giant Slalom,12,Gasienica-Daniel Maryna,19,22,
 2023-12-28,Bormio,Downhill,13,Monney Alexis,18,20,
+2023-12-28,Lienz,Giant Slalom,13,Mowinckel Ragnhild,18,20,Sarah
 2023-12-28,Bormio,Downhill,14,Haaser Raphael,17,18,
 2023-12-28,Bormio,Downhill,14,Schieder Florian,17,18,
+2023-12-28,Lienz,Giant Slalom,14,Rast Camille,17,18,
+2023-12-28,Lienz,Giant Slalom,14,Holtmann Mina Fuerst,17,18,Lena
 2023-12-28,Bormio,Downhill,16,Giezendanner Blaise,15,15,
 2023-12-28,Bormio,Downhill,16,Theaux Adrien,15,15,
+2023-12-28,Lienz,Giant Slalom,16,Moltzan Paula,15,15,Sarah
+2023-12-28,Lienz,Giant Slalom,17,Melesi Roberta,14,14,
 2023-12-28,Bormio,Downhill,18,Zazzi Pietro,13,13,
+2023-12-28,Lienz,Giant Slalom,18,Dvornik Neja,13,13,
 2023-12-28,Bormio,Downhill,19,Sander Andreas,12,12,Simon
+2023-12-28,Lienz,Giant Slalom,19,Gritsch Franziska,12,12,Simon
 2023-12-28,Bormio,Downhill,20,Danklmaier Daniel,11,11,
+2023-12-28,Lienz,Giant Slalom,20,Luczak Magdalena,11,11,
+2023-12-28,Lienz,Giant Slalom,20,Stjernesund Thea Louise,11,11,Maurus
 2023-12-28,Bormio,Downhill,21,Jocher Simon,10,10,
 2023-12-28,Bormio,Downhill,22,Boisset Arnaud,9,9,
 2023-12-28,Bormio,Downhill,22,Pinturault Alexis,9,9,Maurus
 2023-12-28,Bormio,Downhill,22,Bailet Matthieu,9,9,
+2023-12-28,Lienz,Giant Slalom,22,Colturi Lara,9,9,
+2023-12-28,Lienz,Giant Slalom,23,Bucik Ana,8,8,
+2023-12-28,Lienz,Giant Slalom,24,Gisin Michelle,7,7,Maurus
 2023-12-28,Bormio,Downhill,25,Allegre Nils,6,6,
+2023-12-28,Lienz,Giant Slalom,25,Platino Elisa,6,6,
+2023-12-28,Lienz,Giant Slalom,25,Zenere Asja,6,6,
 2023-12-28,Bormio,Downhill,26,Rogentin Stefan,5,5,Lena
 2023-12-28,Bormio,Downhill,27,Goldberg Jared,4,4,
+2023-12-28,Lienz,Giant Slalom,27,Jelinkova Adriana,4,4,
 2023-12-28,Bormio,Downhill,28,Lehto Elian,3,3,
+2023-12-28,Lienz,Giant Slalom,28,Meillard Melanie,3,3,
 2023-12-28,Bormio,Downhill,29,Innerhofer Christof,2,2,
+2023-12-28,Lienz,Giant Slalom,29,Della Mea Lara,2,2,
 2023-12-28,Bormio,Downhill,30,Bosca Guglielmo,1,1,
 2023-12-22,Madonna di Campiglio,Slalom,1,Schwarz Marco,55,100,Lena
 2023-12-22,Madonna di Campiglio,Slalom,2,Noel Clement,48,80,Simon
