@@ -1,30 +1,60 @@
 Datum,Ort,Disziplin,Rang,Fahrer/in,Fantasy Punkte,Weltcup Punkte,Team
 2024-01-06,Kranjska Gora,Giant Slalom,1,Grenier Valerie,55,100,Maurus
+2024-01-06,Adelboden,Giant Slalom,1,Odermatt Marco,55,100,Lea
 2024-01-06,Kranjska Gora,Giant Slalom,2,Gut-Behrami Lara,48,80,Melissa
+2024-01-06,Adelboden,Giant Slalom,2,Kilde Aleksander Aamodt,48,80,Simon
 2024-01-06,Kranjska Gora,Giant Slalom,3,Brignone Federica,43,60,Simon
+2024-01-06,Adelboden,Giant Slalom,3,Zubcic Filip,43,60,Maurus
 2024-01-06,Kranjska Gora,Giant Slalom,4,Vlhova Petra,38,50,Maurus
+2024-01-06,Adelboden,Giant Slalom,4,Radamus River,38,50,
 2024-01-06,Kranjska Gora,Giant Slalom,5,Stjernesund Thea Louise,35,45,Maurus
+2024-01-06,Adelboden,Giant Slalom,5,Kristoffersen Henrik,35,45,Dominik
 2024-01-06,Kranjska Gora,Giant Slalom,6,Hector Sara,32,40,Melissa
+2024-01-06,Adelboden,Giant Slalom,6,Steen Olsen Alexander,32,40,Lea
 2024-01-06,Kranjska Gora,Giant Slalom,7,Gritsch Franziska,29,36,Simon
+2024-01-06,Adelboden,Giant Slalom,7,Mcgrath Atle Lie,29,36,Lea
 2024-01-06,Kranjska Gora,Giant Slalom,8,Robinson Alice,26,32,Melissa
+2024-01-06,Adelboden,Giant Slalom,8,De Aliprandini Luca,26,32,
 2024-01-06,Kranjska Gora,Giant Slalom,9,Shiffrin Mikaela,24,29,Lena
+2024-01-06,Adelboden,Giant Slalom,9,Windingstad Rasmus,24,29,
 2024-01-06,Kranjska Gora,Giant Slalom,10,Bassino Marta,22,26,Lea
+2024-01-06,Adelboden,Giant Slalom,10,Schmid Alexander,22,26,
 2024-01-06,Kranjska Gora,Giant Slalom,11,Direz Clara,20,24,
+2024-01-06,Adelboden,Giant Slalom,11,Vinatzer Alex,20,24,
 2024-01-06,Kranjska Gora,Giant Slalom,12,Goggia Sofia,19,22,Dominik
+2024-01-06,Adelboden,Giant Slalom,12,Caviezel Gino,19,22,Sarah
 2024-01-06,Kranjska Gora,Giant Slalom,13,Brunner Stephanie,18,20,
+2024-01-06,Adelboden,Giant Slalom,13,Murisier Justin,18,20,
 2024-01-06,Kranjska Gora,Giant Slalom,14,Liensberger Katharina,17,18,Simon
+2024-01-06,Adelboden,Giant Slalom,14,Borgnaes Christian,17,18,
 2024-01-06,Kranjska Gora,Giant Slalom,15,Aicher Emma,16,16,Simon
+2024-01-06,Adelboden,Giant Slalom,15,Haaser Raphael,16,16,
 2024-01-06,Kranjska Gora,Giant Slalom,16,Haaser Ricarda,15,15,
 2024-01-06,Kranjska Gora,Giant Slalom,16,Gasienica-Daniel Maryna,15,15,
+2024-01-06,Adelboden,Giant Slalom,16,Favrot Thibaut,15,15,
+2024-01-06,Adelboden,Giant Slalom,17,Ford Tommy,14,14,
 2024-01-06,Kranjska Gora,Giant Slalom,18,Hurt A J,13,13,
+2024-01-06,Adelboden,Giant Slalom,18,Feurstein Patrick,13,13,
 2024-01-06,Kranjska Gora,Giant Slalom,19,Richardson Britt,12,12,
+2024-01-06,Adelboden,Giant Slalom,19,Brennsteiner Stefan,12,12,
 2024-01-06,Kranjska Gora,Giant Slalom,20,Gisin Michelle,11,11,Maurus
+2024-01-06,Adelboden,Giant Slalom,20,Maes Sam,11,11,
 2024-01-06,Kranjska Gora,Giant Slalom,21,Mowinckel Ragnhild,10,10,Sarah
+2024-01-06,Adelboden,Giant Slalom,21,Kranjec Zan,10,10,Dominik
 2024-01-06,Kranjska Gora,Giant Slalom,22,Ljutic Zrinka,9,9,Lea
+2024-01-06,Adelboden,Giant Slalom,22,Simonet Livio,9,9,
+2024-01-06,Adelboden,Giant Slalom,22,Borsotti Giovanni,9,9,
 2024-01-06,Kranjska Gora,Giant Slalom,23,Holtmann Mina Fuerst,8,8,Lena
 2024-01-06,Kranjska Gora,Giant Slalom,24,Luczak Magdalena,7,7,
+2024-01-06,Adelboden,Giant Slalom,24,Moeller Fredrik,7,7,
 2024-01-06,Kranjska Gora,Giant Slalom,25,Colturi Lara,6,6,
+2024-01-06,Adelboden,Giant Slalom,25,Tumler Thomas,6,6,
 2024-01-06,Kranjska Gora,Giant Slalom,26,Platino Elisa,5,5,
+2024-01-06,Adelboden,Giant Slalom,26,Gratz Fabian,5,5,
+2024-01-06,Adelboden,Giant Slalom,27,Feller Manuel,4,4,Simon
+2024-01-06,Adelboden,Giant Slalom,28,Stockinger Jonas,3,3,
+2024-01-06,Adelboden,Giant Slalom,29,Zingerle Hannes,2,2,
+2024-01-06,Adelboden,Giant Slalom,30,Anguenot Leo,1,1,
 2023-12-29,Bormio,Super G,1,Odermatt Marco,55,100,Lea
 2023-12-29,Lienz,Slalom,1,Shiffrin Mikaela,55,100,Lena
 2023-12-29,Bormio,Super G,2,Haaser Raphael,48,80,
