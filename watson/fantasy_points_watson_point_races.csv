@@ -1,4 +1,63 @@
 Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
+2024-01-20,Kitzbuehel,Downhill,1,Sarrazin Cyprien,M,55,100,Zappella
+2024-01-20,Jasna,Giant Slalom,1,Hector Sara,W,55,100,Manser
+2024-01-20,Kitzbuehel,Downhill,2,Odermatt Marco,M,48,80,Reich
+2024-01-20,Jasna,Giant Slalom,2,Shiffrin Mikaela,W,48,80,Helfenberger
+2024-01-20,Kitzbuehel,Downhill,3,Paris Dominik,M,43,60,Bulleri
+2024-01-20,Jasna,Giant Slalom,3,Robinson Alice,W,43,60,Bürgler
+2024-01-20,Kitzbuehel,Downhill,4,Babinsky Stefan,M,38,50,Zappella
+2024-01-20,Jasna,Giant Slalom,4,Ljutic Zrinka,W,38,50,Meile
+2024-01-20,Kitzbuehel,Downhill,5,Muzaton Maxence,M,35,45,
+2024-01-20,Jasna,Giant Slalom,5,Stjernesund Thea Louise,W,35,45,Helbling
+2024-01-20,Kitzbuehel,Downhill,6,Kriechmayr Vincent,M,32,40,Woerlen
+2024-01-20,Jasna,Giant Slalom,6,Gut-Behrami Lara,W,32,40,Meile
+2024-01-20,Kitzbuehel,Downhill,7,Giezendanner Blaise,M,29,36,
+2024-01-20,Jasna,Giant Slalom,7,Hurt A J,W,29,36,Manser
+2024-01-20,Kitzbuehel,Downhill,8,Monney Alexis,M,26,32,Meile
+2024-01-20,Jasna,Giant Slalom,8,Mowinckel Ragnhild,W,26,32,Knuchel
+2024-01-20,Kitzbuehel,Downhill,9,Allegre Nils,M,24,29,Bürgler
+2024-01-20,Jasna,Giant Slalom,9,Rast Camille,W,24,29,
+2024-01-20,Kitzbuehel,Downhill,10,Rogentin Stefan,M,22,26,Fehr
+2024-01-20,Jasna,Giant Slalom,10,Lie Kajsa Vickhoff,W,22,26,Fehr
+2024-01-20,Kitzbuehel,Downhill,11,Lehto Elian,M,20,24,
+2024-01-20,Jasna,Giant Slalom,11,Grenier Valerie,W,20,24,Bürgler
+2024-01-20,Kitzbuehel,Downhill,12,Neumayer Christopher,M,19,22,
+2024-01-20,Jasna,Giant Slalom,12,Nyberg Lisa,W,19,22,
+2024-01-20,Kitzbuehel,Downhill,13,Bosca Guglielmo,M,18,20,
+2024-01-20,Kitzbuehel,Downhill,13,Casse Mattia,M,18,20,Helfenberger
+2024-01-20,Jasna,Giant Slalom,13,Meillard Melanie,W,18,20,Knuchel
+2024-01-20,Jasna,Giant Slalom,13,Colturi Lara,W,18,20,Fehr
+2024-01-20,Kitzbuehel,Downhill,15,Schieder Florian,M,16,16,Helbling
+2024-01-20,Jasna,Giant Slalom,15,Platino Elisa,W,16,16,
+2024-01-20,Kitzbuehel,Downhill,16,Cochran-Siegle Ryan,M,15,15,Meile
+2024-01-20,Jasna,Giant Slalom,16,Moltzan Paula,W,15,15,Reich
+2024-01-20,Kitzbuehel,Downhill,17,Morse Sam,M,14,14,
+2024-01-20,Jasna,Giant Slalom,17,Wild Simone,W,14,14,
+2024-01-20,Kitzbuehel,Downhill,18,Bailet Matthieu,M,13,13,
+2024-01-20,Jasna,Giant Slalom,18,Dvornik Neja,W,13,13,
+2024-01-20,Kitzbuehel,Downhill,19,Hemetsberger Daniel,M,12,12,
+2024-01-20,Jasna,Giant Slalom,19,Zenere Asja,W,12,12,
+2024-01-20,Kitzbuehel,Downhill,20,Boisset Arnaud,M,11,11,
+2024-01-20,Jasna,Giant Slalom,20,Suter Jasmina,W,11,11,
+2024-01-20,Kitzbuehel,Downhill,21,Hrobat Miha,M,10,10,
+2024-01-20,Jasna,Giant Slalom,21,Bucik Ana,W,10,10,Zappella
+2024-01-20,Kitzbuehel,Downhill,22,Murisier Justin,M,9,9,Knuchel
+2024-01-20,Jasna,Giant Slalom,22,Direz Clara,W,9,9,Reich
+2024-01-20,Kitzbuehel,Downhill,23,Sander Andreas,M,8,8,Bürgler
+2024-01-20,Jasna,Giant Slalom,23,Mcfarlane Caitlin,W,8,8,
+2024-01-20,Kitzbuehel,Downhill,24,Alexander Cameron,M,7,7,Knuchel
+2024-01-20,Jasna,Giant Slalom,24,Holtmann Mina Fuerst,W,7,7,Knuchel
+2024-01-20,Kitzbuehel,Downhill,25,Hintermann Niels,M,6,6,Reich
+2024-01-20,Jasna,Giant Slalom,25,Monsen Marte,W,6,6,
+2024-01-20,Kitzbuehel,Downhill,26,Danklmaier Daniel,M,5,5,
+2024-01-20,Jasna,Giant Slalom,26,Della Mea Lara,W,5,5,
+2024-01-20,Kitzbuehel,Downhill,27,Crawford James,M,4,4,Bulleri
+2024-01-20,Jasna,Giant Slalom,27,Luczak Magdalena,W,4,4,
+2024-01-20,Kitzbuehel,Downhill,28,Seger Brodie,M,3,3,
+2024-01-20,Kitzbuehel,Downhill,28,Jocher Simon,M,3,3,
+2024-01-20,Jasna,Giant Slalom,28,Jelinkova Adriana,W,3,3,
+2024-01-20,Jasna,Giant Slalom,29,Duerr Lena,W,2,2,Conzett
+2024-01-20,Kitzbuehel,Downhill,30,Theaux Adrien,M,1,1,
 2024-01-19,Kitzbuehel,Downhill,1,Sarrazin Cyprien,M,55,100,Zappella
 2024-01-19,Kitzbuehel,Downhill,2,Schieder Florian,M,48,80,Helbling
 2024-01-19,Kitzbuehel,Downhill,3,Odermatt Marco,M,43,60,Reich
