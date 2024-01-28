@@ -1,34 +1,64 @@
 Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-01-28,Cortina d'Ampezzo,Super G,1,Gut-Behrami Lara,W,55,100,Meile
+2024-01-28,Garmisch-Partenkirchen,Super G,1,Odermatt Marco,M,55,100,Reich
 2024-01-28,Cortina d'Ampezzo,Super G,2,Venier Stephanie,W,48,80,Rissi
+2024-01-28,Garmisch-Partenkirchen,Super G,2,Haaser Raphael,M,48,80,Rissi
 2024-01-28,Cortina d'Ampezzo,Super G,3,Miradoli Romane,W,43,60,
+2024-01-28,Garmisch-Partenkirchen,Super G,3,Von Allmen Franjo,M,43,60,
 2024-01-28,Cortina d'Ampezzo,Super G,4,Mowinckel Ragnhild,W,38,50,Knuchel
+2024-01-28,Garmisch-Partenkirchen,Super G,4,Kriechmayr Vincent,M,38,50,Woerlen
 2024-01-28,Cortina d'Ampezzo,Super G,5,Goggia Sofia,W,35,45,Woerlen
+2024-01-28,Garmisch-Partenkirchen,Super G,5,Crawford James,M,35,45,Bulleri
 2024-01-28,Cortina d'Ampezzo,Super G,6,Bassino Marta,W,32,40,Rissi
+2024-01-28,Garmisch-Partenkirchen,Super G,6,Sejersted Adrian Smiseth,M,32,40,Fehr
 2024-01-28,Cortina d'Ampezzo,Super G,7,Puchner Mirjam,W,29,36,Meile
+2024-01-28,Garmisch-Partenkirchen,Super G,7,Boisset Arnaud,M,29,36,
 2024-01-28,Cortina d'Ampezzo,Super G,8,Robinson Alice,W,26,32,Bürgler
+2024-01-28,Garmisch-Partenkirchen,Super G,8,Radamus River,M,26,32,Meile
+2024-01-28,Garmisch-Partenkirchen,Super G,8,Babinsky Stefan,M,26,32,Zappella
 2024-01-28,Cortina d'Ampezzo,Super G,9,Brignone Federica,W,24,29,Zappella
 2024-01-28,Cortina d'Ampezzo,Super G,10,Weidle Kira,W,22,26,Woerlen
+2024-01-28,Garmisch-Partenkirchen,Super G,10,Cochran-Siegle Ryan,M,22,26,Meile
 2024-01-28,Cortina d'Ampezzo,Super G,11,Gauche Laura,W,20,24,Zappella
+2024-01-28,Garmisch-Partenkirchen,Super G,11,Casse Mattia,M,20,24,Helfenberger
 2024-01-28,Cortina d'Ampezzo,Super G,12,Pirovano Laura,W,19,22,Conzett
+2024-01-28,Garmisch-Partenkirchen,Super G,12,Rogentin Stefan,M,19,22,Fehr
 2024-01-28,Cortina d'Ampezzo,Super G,13,Flury Jasmine,W,18,20,Fehr
+2024-01-28,Garmisch-Partenkirchen,Super G,13,Murisier Justin,M,18,20,Knuchel
 2024-01-28,Cortina d'Ampezzo,Super G,14,Muzaferija Elvedina,W,17,18,
+2024-01-28,Garmisch-Partenkirchen,Super G,14,Allegre Nils,M,17,18,Bürgler
 2024-01-28,Cortina d'Ampezzo,Super G,15,Macuga Lauren,W,16,16,
+2024-01-28,Garmisch-Partenkirchen,Super G,15,Read Jeffrey,M,16,16,
 2024-01-28,Cortina d'Ampezzo,Super G,16,Kolly Noemie,W,15,15,
+2024-01-28,Garmisch-Partenkirchen,Super G,16,Paris Dominik,M,15,15,Bulleri
 2024-01-28,Cortina d'Ampezzo,Super G,17,Haaser Ricarda,W,14,14,
+2024-01-28,Garmisch-Partenkirchen,Super G,17,Danklmaier Daniel,M,14,14,
 2024-01-28,Cortina d'Ampezzo,Super G,18,Bernardi Vicky,W,13,13,
+2024-01-28,Garmisch-Partenkirchen,Super G,18,Bosca Guglielmo,M,13,13,
 2024-01-28,Cortina d'Ampezzo,Super G,19,Suter Jasmina,W,12,12,
+2024-01-28,Garmisch-Partenkirchen,Super G,19,Meillard Loic,M,12,12,Bürgler
 2024-01-28,Cortina d'Ampezzo,Super G,20,Delago Nicol,W,11,11,Reich
+2024-01-28,Garmisch-Partenkirchen,Super G,20,Krenn Christoph,M,11,11,
 2024-01-28,Cortina d'Ampezzo,Super G,21,Cerutti Camille,W,10,10,
+2024-01-28,Garmisch-Partenkirchen,Super G,21,Caviezel Gino,M,10,10,Zappella
 2024-01-28,Cortina d'Ampezzo,Super G,22,Ager Christina,W,9,9,
+2024-01-28,Garmisch-Partenkirchen,Super G,22,Borsotti Giovanni,M,9,9,
 2024-01-28,Cortina d'Ampezzo,Super G,23,Nufer Priska,W,8,8,Woerlen
+2024-01-28,Garmisch-Partenkirchen,Super G,23,Morse Sam,M,8,8,
 2024-01-28,Cortina d'Ampezzo,Super G,24,Clement Karen,W,7,7,
+2024-01-28,Garmisch-Partenkirchen,Super G,24,Alexander Cameron,M,7,7,Knuchel
 2024-01-28,Cortina d'Ampezzo,Super G,25,Durrer Delia,W,6,6,Meile
+2024-01-28,Garmisch-Partenkirchen,Super G,25,Innerhofer Christof,M,6,6,
 2024-01-28,Cortina d'Ampezzo,Super G,26,Hoernblad Lisa,W,5,5,
+2024-01-28,Garmisch-Partenkirchen,Super G,26,Franzoni Giovanni,M,5,5,
 2024-01-28,Cortina d'Ampezzo,Super G,27,Scheyer Christine,W,4,4,
+2024-01-28,Garmisch-Partenkirchen,Super G,27,Loriot Florian,M,4,4,
 2024-01-28,Cortina d'Ampezzo,Super G,28,Delago Nadia,W,3,3,
+2024-01-28,Garmisch-Partenkirchen,Super G,28,Goldberg Jared,M,3,3,
 2024-01-28,Cortina d'Ampezzo,Super G,29,Gray Cassidy,W,2,2,
+2024-01-28,Garmisch-Partenkirchen,Super G,29,Bennett Bryce,M,2,2,
 2024-01-28,Cortina d'Ampezzo,Super G,30,Fest Nadine,W,1,1,
+2024-01-28,Garmisch-Partenkirchen,Super G,30,Alexander Kyle,M,1,1,
 2024-01-27,Cortina d'Ampezzo,Downhill,1,Mowinckel Ragnhild,W,55,100,Knuchel
 2024-01-27,Garmisch-Partenkirchen,Super G,1,Allegre Nils,M,55,100,Bürgler
 2024-01-27,Cortina d'Ampezzo,Downhill,2,Wiles Jacqueline,W,48,80,
