@@ -4,9 +4,9 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-02-17,Crans Montana,Downhill,2,Brignone Federica,W,48,80,Simon
 2024-02-17,Kvitfjell,Downhill,2,Kriechmayr Vincent,M,48,80,Melissa
 2024-02-17,Crans Montana,Downhill,3,Gut-Behrami Lara,W,43,60,Melissa
-2024-02-17,Kvitfjell,Downhill,3,Alexander Cameron,M,43,60,Lena
+2024-02-17,Kvitfjell,Downhill,3,Alexander Cameron,M,43,60,
 2024-02-17,Crans Montana,Downhill,4,Muzaferija Elvedina,W,38,50,
-2024-02-17,Kvitfjell,Downhill,4,Bennett Bryce,M,38,50,
+2024-02-17,Kvitfjell,Downhill,4,Bennett Bryce,M,38,50,Lena
 2024-02-17,Crans Montana,Downhill,5,Pirovano Laura,W,35,45,Lea
 2024-02-17,Kvitfjell,Downhill,5,Von Allmen Franjo,M,35,45,
 2024-02-17,Crans Montana,Downhill,6,Raedler Ariane,W,32,40,Dominik
@@ -109,7 +109,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-02-11,Soldeu,Slalom,17,Aronsson Elfman Hanna,W,14,14,
 2024-02-11,Soldeu,Slalom,18,Tschurtschenthaler Vera,W,13,13,
 2024-02-11,Soldeu,Slalom,19,St-Germain Laurence,W,12,12,
-2024-02-11,Soldeu,Slalom,20,Holtmann Mina Fuerst,W,11,11,Lena
+2024-02-11,Soldeu,Slalom,20,Holtmann Mina Fuerst,W,11,11,
 2024-02-11,Soldeu,Slalom,21,Chevrier Marion,W,10,10,
 2024-02-11,Soldeu,Slalom,22,Meillard Melanie,W,9,9,Maurus
 2024-02-11,Soldeu,Slalom,23,Colturi Lara,W,8,8,
@@ -130,7 +130,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-02-10,Bansko,Giant Slalom,6,Kristoffersen Henrik,M,32,40,Dominik
 2024-02-10,Soldeu,Giant Slalom,6,Bassino Marta,W,32,40,Lea
 2024-02-10,Bansko,Giant Slalom,7,Meillard Loic,M,29,36,Maurus
-2024-02-10,Soldeu,Giant Slalom,7,Holtmann Mina Fuerst,W,29,36,Lena
+2024-02-10,Soldeu,Giant Slalom,7,Holtmann Mina Fuerst,W,29,36,
 2024-02-10,Bansko,Giant Slalom,8,Tumler Thomas,M,26,32,
 2024-02-10,Soldeu,Giant Slalom,8,Haaser Ricarda,W,26,32,
 2024-02-10,Bansko,Giant Slalom,9,Zubcic Filip,M,24,29,Maurus
@@ -170,7 +170,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-02-10,Bansko,Giant Slalom,26,Ford Tommy,M,5,5,
 2024-02-10,Soldeu,Giant Slalom,26,Wild Simone,W,5,5,
 2024-02-10,Bansko,Giant Slalom,27,Vinatzer Alex,M,4,4,
-2024-02-10,Soldeu,Giant Slalom,27,Gritsch Franziska,W,4,4,
+2024-02-10,Soldeu,Giant Slalom,27,Gritsch Franziska,W,4,4,Lena
 2024-02-10,Bansko,Giant Slalom,28,Steffey George,M,3,3,
 2024-02-10,Soldeu,Giant Slalom,28,Gray Cassidy,W,3,3,
 2024-02-04,Chamonix,Slalom,1,Yule Daniel,M,55,100,Melissa
