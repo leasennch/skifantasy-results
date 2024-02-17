@@ -1,34 +1,65 @@
 Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-02-17,Crans Montana,Downhill,1,Bassino Marta,W,55,100,Lea
+2024-02-17,Kvitfjell,Downhill,1,Hintermann Niels,M,55,100,Lena
 2024-02-17,Crans Montana,Downhill,2,Brignone Federica,W,48,80,Simon
+2024-02-17,Kvitfjell,Downhill,2,Kriechmayr Vincent,M,48,80,Melissa
 2024-02-17,Crans Montana,Downhill,3,Gut-Behrami Lara,W,43,60,Melissa
+2024-02-17,Kvitfjell,Downhill,3,Alexander Cameron,M,43,60,Lena
 2024-02-17,Crans Montana,Downhill,4,Muzaferija Elvedina,W,38,50,
+2024-02-17,Kvitfjell,Downhill,4,Bennett Bryce,M,38,50,
 2024-02-17,Crans Montana,Downhill,5,Pirovano Laura,W,35,45,Lea
+2024-02-17,Kvitfjell,Downhill,5,Von Allmen Franjo,M,35,45,
 2024-02-17,Crans Montana,Downhill,6,Raedler Ariane,W,32,40,Dominik
+2024-02-17,Kvitfjell,Downhill,6,Read Jeffrey,M,32,40,
 2024-02-17,Crans Montana,Downhill,7,Mowinckel Ragnhild,W,29,36,Sarah
+2024-02-17,Kvitfjell,Downhill,7,Odermatt Marco,M,29,36,Lea
+2024-02-17,Kvitfjell,Downhill,7,Cochran-Siegle Ryan,M,29,36,Dominik
 2024-02-17,Crans Montana,Downhill,8,Lie Kajsa Vickhoff,W,26,32,Lea
 2024-02-17,Crans Montana,Downhill,9,Gauche Laura,W,24,29,Maurus
+2024-02-17,Kvitfjell,Downhill,9,Mettler Josua,M,24,29,
 2024-02-17,Crans Montana,Downhill,10,Stuhec Ilka,W,22,26,Lena
+2024-02-17,Kvitfjell,Downhill,10,Morse Sam,M,22,26,
 2024-02-17,Crans Montana,Downhill,11,Runggaldier Teresa,W,20,24,
 2024-02-17,Crans Montana,Downhill,11,Huetter Cornelia,W,20,24,Lena
+2024-02-17,Kvitfjell,Downhill,11,Hrobat Miha,M,20,24,
+2024-02-17,Kvitfjell,Downhill,11,Giezendanner Blaise,M,20,24,
 2024-02-17,Crans Montana,Downhill,13,Wiles Jacqueline,W,18,20,
+2024-02-17,Kvitfjell,Downhill,13,Alphand Nils,M,18,20,
 2024-02-17,Crans Montana,Downhill,14,Ledecka Ester,W,17,18,
+2024-02-17,Kvitfjell,Downhill,14,Bosca Guglielmo,M,17,18,
+2024-02-17,Kvitfjell,Downhill,14,Danklmaier Daniel,M,17,18,
 2024-02-17,Crans Montana,Downhill,15,Delago Nicol,W,16,16,
 2024-02-17,Crans Montana,Downhill,16,Puchner Mirjam,W,15,15,Dominik
+2024-02-17,Kvitfjell,Downhill,16,Murisier Justin,M,15,15,Sarah
 2024-02-17,Crans Montana,Downhill,17,Venier Stephanie,W,14,14,Simon
+2024-02-17,Kvitfjell,Downhill,17,Goldberg Jared,M,14,14,
 2024-02-17,Crans Montana,Downhill,18,Weidle Kira,W,13,13,Dominik
+2024-02-17,Kvitfjell,Downhill,18,Paris Dominik,M,13,13,Dominik
 2024-02-17,Crans Montana,Downhill,19,Flury Jasmine,W,12,12,Melissa
+2024-02-17,Kvitfjell,Downhill,19,Maple Wiley,M,12,12,
+2024-02-17,Kvitfjell,Downhill,19,Negomir Kyle,M,12,12,
 2024-02-17,Crans Montana,Downhill,20,Scheyer Christine,W,11,11,
 2024-02-17,Crans Montana,Downhill,21,Schoepf Emily,W,10,10,
+2024-02-17,Kvitfjell,Downhill,21,Innerhofer Christof,M,10,10,
+2024-02-17,Kvitfjell,Downhill,21,Rogentin Stefan,M,10,10,Lena
 2024-02-17,Crans Montana,Downhill,22,Miradoli Romane,W,9,9,
 2024-02-17,Crans Montana,Downhill,23,Macuga Lauren,W,8,8,
+2024-02-17,Kvitfjell,Downhill,23,Crawford James,M,8,8,Melissa
 2024-02-17,Crans Montana,Downhill,24,Jenal Stephanie,W,7,7,
+2024-02-17,Kvitfjell,Downhill,24,Boisset Arnaud,M,7,7,
 2024-02-17,Crans Montana,Downhill,25,Kolly Noemie,W,6,6,
+2024-02-17,Kvitfjell,Downhill,25,Zazzi Pietro,M,6,6,
 2024-02-17,Crans Montana,Downhill,26,Ager Christina,W,5,5,
+2024-02-17,Kvitfjell,Downhill,26,Casse Mattia,M,5,5,Maurus
+2024-02-17,Kvitfjell,Downhill,26,Monney Alexis,M,5,5,
 2024-02-17,Crans Montana,Downhill,27,Maier Sabrina,W,4,4,
 2024-02-17,Crans Montana,Downhill,27,Robinson Alice,W,4,4,Melissa
+2024-02-17,Kvitfjell,Downhill,28,Babinsky Stefan,M,3,3,Simon
 2024-02-17,Crans Montana,Downhill,29,Durrer Delia,W,2,2,
+2024-02-17,Kvitfjell,Downhill,29,Seger Brodie,M,2,2,
 2024-02-17,Crans Montana,Downhill,30,Clement Karen,W,1,1,
+2024-02-17,Kvitfjell,Downhill,30,Moeller Fredrik,M,1,1,
+2024-02-17,Kvitfjell,Downhill,30,Sander Andreas,M,1,1,
 2024-02-16,Crans Montana,Downhill,1,Gut-Behrami Lara,W,55,100,Melissa
 2024-02-16,Crans Montana,Downhill,2,Flury Jasmine,W,48,80,
 2024-02-16,Crans Montana,Downhill,2,Huetter Cornelia,W,48,80,Lena
