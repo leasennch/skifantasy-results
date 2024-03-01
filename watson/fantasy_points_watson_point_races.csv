@@ -27,7 +27,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-02-24,Palisades Tahoe,Giant Slalom,1,Odermatt Marco,M,55,100,Reich
 2024-02-24,Palisades Tahoe,Giant Slalom,2,Kristoffersen Henrik,M,48,80,Conzett
 2024-02-24,Palisades Tahoe,Giant Slalom,3,Radamus River,M,43,60,Meile
-2024-02-24,Palisades Tahoe,Giant Slalom,4,Tumler Thomas,M,38,50,
+2024-02-24,Palisades Tahoe,Giant Slalom,4,Tumler Thomas,M,38,50,Bürgler
 2024-02-24,Palisades Tahoe,Giant Slalom,5,Caviezel Gino,M,35,45,Zappella
 2024-02-24,Palisades Tahoe,Giant Slalom,6,Meillard Loic,M,32,40,Bürgler
 2024-02-24,Palisades Tahoe,Giant Slalom,7,Haaser Raphael,M,29,36,Rissi
@@ -233,7 +233,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-02-10,Soldeu,Giant Slalom,3,Hurt A J,W,43,60,Manser
 2024-02-10,Bansko,Giant Slalom,3,Feller Manuel,M,43,60,Meile
 2024-02-10,Soldeu,Giant Slalom,4,Brignone Federica,W,38,50,Zappella
-2024-02-10,Bansko,Giant Slalom,4,Brennsteiner Stefan,M,38,50,Bürgler
+2024-02-10,Bansko,Giant Slalom,4,Brennsteiner Stefan,M,38,50,
 2024-02-10,Soldeu,Giant Slalom,5,Stjernesund Thea Louise,W,35,45,Helbling
 2024-02-10,Bansko,Giant Slalom,5,Kranjec Zan,M,35,45,Conzett
 2024-02-10,Soldeu,Giant Slalom,6,Bassino Marta,W,32,40,Rissi
@@ -241,7 +241,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-02-10,Soldeu,Giant Slalom,7,Holtmann Mina Fuerst,W,29,36,Knuchel
 2024-02-10,Bansko,Giant Slalom,7,Meillard Loic,M,29,36,Bürgler
 2024-02-10,Soldeu,Giant Slalom,8,Haaser Ricarda,W,26,32,
-2024-02-10,Bansko,Giant Slalom,8,Tumler Thomas,M,26,32,
+2024-02-10,Bansko,Giant Slalom,8,Tumler Thomas,M,26,32,Bürgler
 2024-02-10,Soldeu,Giant Slalom,9,Hector Sara,W,24,29,Manser
 2024-02-10,Bansko,Giant Slalom,9,Zubcic Filip,M,24,29,Rissi
 2024-02-10,Soldeu,Giant Slalom,10,Ljutic Zrinka,W,22,26,Meile
