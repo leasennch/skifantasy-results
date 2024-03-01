@@ -226,62 +226,62 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-02-11,Soldeu,Slalom,25,Popovic Leona,W,6,6,Sarah
 2024-02-11,Soldeu,Slalom,26,Hilzinger Jessica,W,5,5,
 2024-02-11,Soldeu,Slalom,27,Peterlini Martina,W,4,4,
-2024-02-10,Bansko,Giant Slalom,1,Odermatt Marco,M,55,100,Lea
 2024-02-10,Soldeu,Giant Slalom,1,Gut-Behrami Lara,W,55,100,Melissa
-2024-02-10,Bansko,Giant Slalom,2,Steen Olsen Alexander,M,48,80,Lea
+2024-02-10,Bansko,Giant Slalom,1,Odermatt Marco,M,55,100,Lea
 2024-02-10,Soldeu,Giant Slalom,2,Robinson Alice,W,48,80,Melissa
-2024-02-10,Bansko,Giant Slalom,3,Feller Manuel,M,43,60,Simon
+2024-02-10,Bansko,Giant Slalom,2,Steen Olsen Alexander,M,48,80,Lea
 2024-02-10,Soldeu,Giant Slalom,3,Hurt A J,W,43,60,
-2024-02-10,Bansko,Giant Slalom,4,Brennsteiner Stefan,M,38,50,
+2024-02-10,Bansko,Giant Slalom,3,Feller Manuel,M,43,60,Simon
 2024-02-10,Soldeu,Giant Slalom,4,Brignone Federica,W,38,50,Simon
-2024-02-10,Bansko,Giant Slalom,5,Kranjec Zan,M,35,45,Dominik
+2024-02-10,Bansko,Giant Slalom,4,Brennsteiner Stefan,M,38,50,
 2024-02-10,Soldeu,Giant Slalom,5,Stjernesund Thea Louise,W,35,45,Maurus
-2024-02-10,Bansko,Giant Slalom,6,Kristoffersen Henrik,M,32,40,Dominik
+2024-02-10,Bansko,Giant Slalom,5,Kranjec Zan,M,35,45,Dominik
 2024-02-10,Soldeu,Giant Slalom,6,Bassino Marta,W,32,40,Lea
-2024-02-10,Bansko,Giant Slalom,7,Meillard Loic,M,29,36,Maurus
+2024-02-10,Bansko,Giant Slalom,6,Kristoffersen Henrik,M,32,40,Dominik
 2024-02-10,Soldeu,Giant Slalom,7,Holtmann Mina Fuerst,W,29,36,
-2024-02-10,Bansko,Giant Slalom,8,Tumler Thomas,M,26,32,
+2024-02-10,Bansko,Giant Slalom,7,Meillard Loic,M,29,36,Maurus
 2024-02-10,Soldeu,Giant Slalom,8,Haaser Ricarda,W,26,32,
-2024-02-10,Bansko,Giant Slalom,9,Zubcic Filip,M,24,29,Maurus
+2024-02-10,Bansko,Giant Slalom,8,Tumler Thomas,M,26,32,
 2024-02-10,Soldeu,Giant Slalom,9,Hector Sara,W,24,29,Melissa
-2024-02-10,Bansko,Giant Slalom,10,Della Vite Filippo,M,22,26,
+2024-02-10,Bansko,Giant Slalom,9,Zubcic Filip,M,24,29,Maurus
 2024-02-10,Soldeu,Giant Slalom,10,Ljutic Zrinka,W,22,26,Lea
-2024-02-10,Bansko,Giant Slalom,11,Windingstad Rasmus,M,20,24,
+2024-02-10,Bansko,Giant Slalom,10,Della Vite Filippo,M,22,26,
 2024-02-10,Soldeu,Giant Slalom,11,Moltzan Paula,W,20,24,Sarah
-2024-02-10,Bansko,Giant Slalom,12,Radamus River,M,19,22,Maurus
+2024-02-10,Bansko,Giant Slalom,11,Windingstad Rasmus,M,20,24,
 2024-02-10,Soldeu,Giant Slalom,12,Mowinckel Ragnhild,W,19,22,Sarah
-2024-02-10,Bansko,Giant Slalom,13,Caviezel Gino,M,18,20,Sarah
+2024-02-10,Bansko,Giant Slalom,12,Radamus River,M,19,22,Maurus
 2024-02-10,Soldeu,Giant Slalom,13,Scheib Julia,W,18,20,
-2024-02-10,Bansko,Giant Slalom,14,Haugan Timon,M,17,18,Sarah
+2024-02-10,Bansko,Giant Slalom,13,Caviezel Gino,M,18,20,Sarah
 2024-02-10,Soldeu,Giant Slalom,14,Richardson Britt,W,17,18,
-2024-02-10,Bansko,Giant Slalom,15,Anguenot Leo,M,16,16,
+2024-02-10,Bansko,Giant Slalom,14,Haugan Timon,M,17,18,Sarah
 2024-02-10,Soldeu,Giant Slalom,15,Rast Camille,W,16,16,Maurus
-2024-02-10,Bansko,Giant Slalom,16,Schmid Alexander,M,15,15,
+2024-02-10,Bansko,Giant Slalom,15,Anguenot Leo,M,16,16,
 2024-02-10,Soldeu,Giant Slalom,16,Platino Elisa,W,15,15,
-2024-02-10,Bansko,Giant Slalom,17,Borsotti Giovanni,M,14,14,
+2024-02-10,Bansko,Giant Slalom,16,Schmid Alexander,M,15,15,
 2024-02-10,Soldeu,Giant Slalom,17,Dvornik Neja,W,14,14,
-2024-02-10,Bansko,Giant Slalom,18,Janutin Fadri,M,13,13,
+2024-02-10,Bansko,Giant Slalom,17,Borsotti Giovanni,M,14,14,
 2024-02-10,Soldeu,Giant Slalom,18,Gasienica-Daniel Maryna,W,13,13,
-2024-02-10,Bansko,Giant Slalom,19,Favrot Thibaut,M,12,12,
+2024-02-10,Bansko,Giant Slalom,18,Janutin Fadri,M,13,13,
 2024-02-10,Soldeu,Giant Slalom,19,Luczak Magdalena,W,12,12,
-2024-02-10,Bansko,Giant Slalom,20,Haaser Raphael,M,11,11,Melissa
+2024-02-10,Bansko,Giant Slalom,19,Favrot Thibaut,M,12,12,
 2024-02-10,Soldeu,Giant Slalom,20,Lie Kajsa Vickhoff,W,11,11,Lea
-2024-02-10,Bansko,Giant Slalom,21,Feurstein Patrick,M,10,10,
+2024-02-10,Bansko,Giant Slalom,20,Haaser Raphael,M,11,11,Melissa
 2024-02-10,Soldeu,Giant Slalom,21,Bucik Ana,W,10,10,
-2024-02-10,Bansko,Giant Slalom,22,Murisier Justin,M,9,9,Sarah
+2024-02-10,Bansko,Giant Slalom,21,Feurstein Patrick,M,10,10,
 2024-02-10,Soldeu,Giant Slalom,22,Alphand Estelle,W,9,9,
-2024-02-10,Bansko,Giant Slalom,23,De Aliprandini Luca,M,8,8,
+2024-02-10,Bansko,Giant Slalom,22,Murisier Justin,M,9,9,Sarah
 2024-02-10,Soldeu,Giant Slalom,23,Brunner Stephanie,W,8,8,
-2024-02-10,Bansko,Giant Slalom,24,Zampa Andreas,M,7,7,
+2024-02-10,Bansko,Giant Slalom,23,De Aliprandini Luca,M,8,8,
 2024-02-10,Soldeu,Giant Slalom,24,Liensberger Katharina,W,7,7,Simon
-2024-02-10,Bansko,Giant Slalom,25,Simonet Livio,M,6,6,
+2024-02-10,Bansko,Giant Slalom,24,Zampa Andreas,M,7,7,
 2024-02-10,Soldeu,Giant Slalom,25,Lysdahl Kristin,W,6,6,
-2024-02-10,Bansko,Giant Slalom,26,Ford Tommy,M,5,5,
+2024-02-10,Bansko,Giant Slalom,25,Simonet Livio,M,6,6,
 2024-02-10,Soldeu,Giant Slalom,26,Wild Simone,W,5,5,
-2024-02-10,Bansko,Giant Slalom,27,Vinatzer Alex,M,4,4,
+2024-02-10,Bansko,Giant Slalom,26,Ford Tommy,M,5,5,
 2024-02-10,Soldeu,Giant Slalom,27,Gritsch Franziska,W,4,4,Lena
-2024-02-10,Bansko,Giant Slalom,28,Steffey George,M,3,3,
+2024-02-10,Bansko,Giant Slalom,27,Vinatzer Alex,M,4,4,
 2024-02-10,Soldeu,Giant Slalom,28,Gray Cassidy,W,3,3,
+2024-02-10,Bansko,Giant Slalom,28,Steffey George,M,3,3,
 2024-02-04,Chamonix,Slalom,1,Yule Daniel,M,55,100,Melissa
 2024-02-04,Chamonix,Slalom,2,Meillard Loic,M,48,80,Maurus
 2024-02-04,Chamonix,Slalom,3,Noel Clement,M,43,60,Simon
