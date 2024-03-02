@@ -1,30 +1,56 @@
 Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-03-02,Kvitfjell,Super G,1,Gut-Behrami Lara,W,55,100,Meile
+2024-03-02,Aspen,Giant Slalom,1,Odermatt Marco,M,55,100,Reich
 2024-03-02,Kvitfjell,Super G,2,Huetter Cornelia,W,48,80,Manser
+2024-03-02,Aspen,Giant Slalom,2,Meillard Loic,M,48,80,Bürgler
 2024-03-02,Kvitfjell,Super G,3,Puchner Mirjam,W,43,60,Meile
+2024-03-02,Aspen,Giant Slalom,3,Haugan Timon,M,43,60,Knuchel
 2024-03-02,Kvitfjell,Super G,4,Weidle Kira,W,38,50,Woerlen
 2024-03-02,Kvitfjell,Super G,4,Ledecka Ester,W,38,50,Bulleri
+2024-03-02,Aspen,Giant Slalom,4,De Aliprandini Luca,M,38,50,Rissi
+2024-03-02,Aspen,Giant Slalom,5,Vinatzer Alex,M,35,45,Bulleri
 2024-03-02,Kvitfjell,Super G,6,Brignone Federica,W,32,40,Zappella
+2024-03-02,Aspen,Giant Slalom,6,Zubcic Filip,M,32,40,Rissi
 2024-03-02,Kvitfjell,Super G,7,Macuga Lauren,W,29,36,
+2024-03-02,Aspen,Giant Slalom,7,Kranjec Zan,M,29,36,Conzett
 2024-03-02,Kvitfjell,Super G,8,Stuhec Ilka,W,26,32,Reich
+2024-03-02,Aspen,Giant Slalom,8,Tumler Thomas,M,26,32,Bürgler
 2024-03-02,Kvitfjell,Super G,9,Muzaferija Elvedina,W,24,29,
+2024-03-02,Aspen,Giant Slalom,9,Mcgrath Atle Lie,M,24,29,Knuchel
 2024-03-02,Kvitfjell,Super G,10,Ager Christina,W,22,26,Woerlen
+2024-03-02,Aspen,Giant Slalom,10,Caviezel Gino,M,22,26,Zappella
 2024-03-02,Kvitfjell,Super G,11,Venier Stephanie,W,20,24,Rissi
+2024-03-02,Aspen,Giant Slalom,11,Brennsteiner Stefan,M,20,24,
 2024-03-02,Kvitfjell,Super G,12,Mowinckel Ragnhild,W,19,22,Knuchel
+2024-03-02,Aspen,Giant Slalom,12,Schmid Alexander,M,19,22,Helbling
 2024-03-02,Kvitfjell,Super G,13,Runggaldier Teresa,W,18,20,
+2024-03-02,Aspen,Giant Slalom,13,Kristoffersen Henrik,M,18,20,Conzett
 2024-03-02,Kvitfjell,Super G,14,Robinson Alice,W,17,18,Bürgler
+2024-03-02,Aspen,Giant Slalom,14,Raschner Dominik,M,17,18,Helfenberger
 2024-03-02,Kvitfjell,Super G,15,Bassino Marta,W,16,16,Rissi
+2024-03-02,Aspen,Giant Slalom,15,Favrot Thibaut,M,16,16,
 2024-03-02,Kvitfjell,Super G,16,Clement Karen,W,15,15,
+2024-03-02,Aspen,Giant Slalom,16,Ford Tommy,M,15,15,
 2024-03-02,Kvitfjell,Super G,17,Miradoli Romane,W,14,14,Woerlen
+2024-03-02,Aspen,Giant Slalom,17,Steen Olsen Alexander,M,14,14,Fehr
 2024-03-02,Kvitfjell,Super G,18,Wright Isabella,W,13,13,Rissi
+2024-03-02,Aspen,Giant Slalom,18,Janutin Fadri,M,13,13,
 2024-03-02,Kvitfjell,Super G,19,Gauche Laura,W,12,12,Zappella
+2024-03-02,Aspen,Giant Slalom,19,Murisier Justin,M,12,12,Knuchel
 2024-03-02,Kvitfjell,Super G,20,Melesi Roberta,W,11,11,Bürgler
+2024-03-02,Aspen,Giant Slalom,20,Muffat-Jeandet Victor,M,11,11,
 2024-03-02,Kvitfjell,Super G,21,Durrer Delia,W,10,10,Meile
+2024-03-02,Aspen,Giant Slalom,21,Feurstein Lukas,M,10,10,
 2024-03-02,Kvitfjell,Super G,22,Fest Nadine,W,9,9,
+2024-03-02,Aspen,Giant Slalom,22,Radamus River,M,9,9,Meile
 2024-03-02,Kvitfjell,Super G,23,Aicher Emma,W,8,8,Zappella
+2024-03-02,Aspen,Giant Slalom,23,Feurstein Patrick,M,8,8,
 2024-03-02,Kvitfjell,Super G,24,Gasienica-Daniel Maryna,W,7,7,Helbling
+2024-03-02,Aspen,Giant Slalom,24,Gunleiksrud Halvor Hilde,M,7,7,
 2024-03-02,Kvitfjell,Super G,25,Suter Jasmina,W,6,6,
+2024-03-02,Aspen,Giant Slalom,25,Gratz Fabian,M,6,6,
 2024-03-02,Kvitfjell,Super G,26,Delago Nicol,W,5,5,Reich
+2024-03-02,Aspen,Giant Slalom,26,Hansson William,M,5,5,
 2024-03-02,Kvitfjell,Super G,27,Wechner Lena,W,4,4,
 2024-03-02,Kvitfjell,Super G,28,Heider Michaela,W,3,3,
 2024-03-02,Kvitfjell,Super G,29,Nufer Priska,W,2,2,Woerlen
@@ -32,7 +58,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-03-01,Aspen,Giant Slalom,1,Odermatt Marco,M,55,100,Reich
 2024-03-01,Aspen,Giant Slalom,2,Meillard Loic,M,48,80,Bürgler
 2024-03-01,Aspen,Giant Slalom,3,Mcgrath Atle Lie,M,43,60,Knuchel
-2024-03-01,Aspen,Giant Slalom,4,Tumler Thomas,M,38,50,Bürgler
+2024-03-01,Aspen,Giant Slalom,4,Tumler Thomas,M,38,50,
 2024-03-01,Aspen,Giant Slalom,5,De Aliprandini Luca,M,35,45,Rissi
 2024-03-01,Aspen,Giant Slalom,6,Vinatzer Alex,M,32,40,Bulleri
 2024-03-01,Aspen,Giant Slalom,7,Steen Olsen Alexander,M,29,36,Fehr
@@ -85,7 +111,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-02-24,Palisades Tahoe,Giant Slalom,1,Odermatt Marco,M,55,100,Reich
 2024-02-24,Palisades Tahoe,Giant Slalom,2,Kristoffersen Henrik,M,48,80,Conzett
 2024-02-24,Palisades Tahoe,Giant Slalom,3,Radamus River,M,43,60,Meile
-2024-02-24,Palisades Tahoe,Giant Slalom,4,Tumler Thomas,M,38,50,Bürgler
+2024-02-24,Palisades Tahoe,Giant Slalom,4,Tumler Thomas,M,38,50,
 2024-02-24,Palisades Tahoe,Giant Slalom,5,Caviezel Gino,M,35,45,Zappella
 2024-02-24,Palisades Tahoe,Giant Slalom,6,Meillard Loic,M,32,40,Bürgler
 2024-02-24,Palisades Tahoe,Giant Slalom,7,Haaser Raphael,M,29,36,Rissi
@@ -291,7 +317,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-02-10,Soldeu,Giant Slalom,3,Hurt A J,W,43,60,Manser
 2024-02-10,Bansko,Giant Slalom,3,Feller Manuel,M,43,60,Meile
 2024-02-10,Soldeu,Giant Slalom,4,Brignone Federica,W,38,50,Zappella
-2024-02-10,Bansko,Giant Slalom,4,Brennsteiner Stefan,M,38,50,
+2024-02-10,Bansko,Giant Slalom,4,Brennsteiner Stefan,M,38,50,Bürgler
 2024-02-10,Soldeu,Giant Slalom,5,Stjernesund Thea Louise,W,35,45,Helbling
 2024-02-10,Bansko,Giant Slalom,5,Kranjec Zan,M,35,45,Conzett
 2024-02-10,Soldeu,Giant Slalom,6,Bassino Marta,W,32,40,Rissi
@@ -299,7 +325,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-02-10,Soldeu,Giant Slalom,7,Holtmann Mina Fuerst,W,29,36,Knuchel
 2024-02-10,Bansko,Giant Slalom,7,Meillard Loic,M,29,36,Bürgler
 2024-02-10,Soldeu,Giant Slalom,8,Haaser Ricarda,W,26,32,
-2024-02-10,Bansko,Giant Slalom,8,Tumler Thomas,M,26,32,Bürgler
+2024-02-10,Bansko,Giant Slalom,8,Tumler Thomas,M,26,32,
 2024-02-10,Soldeu,Giant Slalom,9,Hector Sara,W,24,29,Manser
 2024-02-10,Bansko,Giant Slalom,9,Zubcic Filip,M,24,29,Rissi
 2024-02-10,Soldeu,Giant Slalom,10,Ljutic Zrinka,W,22,26,Meile
