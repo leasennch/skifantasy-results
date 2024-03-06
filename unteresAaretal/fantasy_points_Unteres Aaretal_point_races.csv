@@ -1,62 +1,32 @@
 Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
-2024-03-03,Kvitfjell,Super G,1,Brignone Federica,W,55,100,Simon
 2024-03-03,Aspen,Slalom,1,Meillard Loic,M,55,100,Maurus
-2024-03-03,Kvitfjell,Super G,2,Gut-Behrami Lara,W,48,80,Melissa
 2024-03-03,Aspen,Slalom,2,Strasser Linus,M,48,80,Sarah
-2024-03-03,Kvitfjell,Super G,3,Ledecka Ester,W,43,60,
 2024-03-03,Aspen,Slalom,3,Kristoffersen Henrik,M,43,60,Dominik
-2024-03-03,Kvitfjell,Super G,4,Lie Kajsa Vickhoff,W,38,50,Lea
 2024-03-03,Aspen,Slalom,4,Strolz Johannes,M,38,50,
-2024-03-03,Kvitfjell,Super G,5,Macuga Lauren,W,35,45,
 2024-03-03,Aspen,Slalom,5,Feller Manuel,M,35,45,Simon
-2024-03-03,Kvitfjell,Super G,6,Venier Stephanie,W,32,40,Simon
 2024-03-03,Aspen,Slalom,6,Haugan Timon,M,32,40,Sarah
-2024-03-03,Kvitfjell,Super G,7,Huetter Cornelia,W,29,36,Lena
 2024-03-03,Aspen,Slalom,7,Ryding Dave,M,29,36,Lena
-2024-03-03,Kvitfjell,Super G,8,Raedler Ariane,W,26,32,Dominik
 2024-03-03,Aspen,Slalom,8,Taylor Laurie,M,26,32,
-2024-03-03,Kvitfjell,Super G,9,Robinson Alice,W,24,29,Melissa
 2024-03-03,Aspen,Slalom,9,Amiez Steven,M,24,29,
-2024-03-03,Kvitfjell,Super G,10,Mowinckel Ragnhild,W,22,26,Sarah
 2024-03-03,Aspen,Slalom,10,Gstrein Fabio,M,22,26,
-2024-03-03,Kvitfjell,Super G,11,Weidle Kira,W,20,24,Dominik
 2024-03-03,Aspen,Slalom,11,Rochat Marc,M,20,24,
-2024-03-03,Kvitfjell,Super G,12,Miradoli Romane,W,19,22,
 2024-03-03,Aspen,Slalom,12,Marchant Armand,M,19,22,
-2024-03-03,Kvitfjell,Super G,13,Muzaferija Elvedina,W,18,20,
 2024-03-03,Aspen,Slalom,13,Steen Olsen Alexander,M,18,20,Lea
-2024-03-03,Kvitfjell,Super G,14,Gisin Michelle,W,17,18,Simon
 2024-03-03,Aspen,Slalom,14,Aerni Luca,M,17,18,
-2024-03-03,Kvitfjell,Super G,15,Bassino Marta,W,16,16,Lea
 2024-03-03,Aspen,Slalom,15,Rodes Istok,M,16,16,
-2024-03-03,Kvitfjell,Super G,16,Suter Jasmina,W,15,15,
 2024-03-03,Aspen,Slalom,16,Sala Tommaso,M,15,15,
-2024-03-03,Kvitfjell,Super G,17,Aicher Emma,W,14,14,
 2024-03-03,Aspen,Slalom,17,Del Campo Juan,M,14,14,
-2024-03-03,Kvitfjell,Super G,18,Melesi Roberta,W,13,13,
 2024-03-03,Aspen,Slalom,18,Raschner Dominik,M,13,13,Melissa
 2024-03-03,Aspen,Slalom,18,Vinatzer Alex,M,13,13,Melissa
-2024-03-03,Kvitfjell,Super G,19,Stuhec Ilka,W,12,12,Lena
-2024-03-03,Kvitfjell,Super G,20,Durrer Delia,W,11,11,
 2024-03-03,Aspen,Slalom,20,Foss-Solevaag Sebastian,M,11,11,
-2024-03-03,Kvitfjell,Super G,21,Gritsch Franziska,W,10,10,Lena
 2024-03-03,Aspen,Slalom,21,Sturm Joshua,M,10,10,
-2024-03-03,Kvitfjell,Super G,22,Pirovano Laura,W,9,9,Lea
 2024-03-03,Aspen,Slalom,22,Pramstaller Kilian,M,9,9,
-2024-03-03,Kvitfjell,Super G,23,Nufer Priska,W,8,8,
 2024-03-03,Aspen,Slalom,23,Zubcic Filip,M,8,8,Maurus
-2024-03-03,Kvitfjell,Super G,24,Mangan Tricia,W,7,7,
 2024-03-03,Aspen,Slalom,24,Holzmann Sebastian,M,7,7,
-2024-03-03,Kvitfjell,Super G,25,Haaser Ricarda,W,6,6,
 2024-03-03,Aspen,Slalom,25,Seymour Jett,M,6,6,
-2024-03-03,Kvitfjell,Super G,26,Runggaldier Teresa,W,5,5,
 2024-03-03,Aspen,Slalom,26,Matt Michael,M,5,5,
-2024-03-03,Kvitfjell,Super G,27,Puchner Mirjam,W,4,4,Dominik
 2024-03-03,Aspen,Slalom,27,Ritchie Benjamin,M,4,4,
-2024-03-03,Kvitfjell,Super G,28,Gasienica-Daniel Maryna,W,3,3,
-2024-03-03,Kvitfjell,Super G,28,Wechner Lena,W,3,3,
 2024-03-03,Aspen,Slalom,28,Yule Daniel,M,3,3,Melissa
-2024-03-03,Kvitfjell,Super G,30,Ager Christina,W,1,1,
 2024-03-02,Kvitfjell,Super G,1,Gut-Behrami Lara,W,55,100,Melissa
 2024-03-02,Aspen,Giant Slalom,1,Odermatt Marco,M,55,100,Lea
 2024-03-02,Kvitfjell,Super G,2,Huetter Cornelia,W,48,80,Lena
