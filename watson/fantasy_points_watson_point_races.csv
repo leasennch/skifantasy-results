@@ -57,7 +57,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-12-07,Beaver Creek,Super G,30,Alphand Nils,M,1,1,
 2024-12-06,Beaver Creek,Downhill,1,Murisier Justin,M,55,100,Fehr
 2024-12-06,Beaver Creek,Downhill,2,Odermatt Marco,M,48,80,Reich
-2024-12-06,Beaver Creek,Downhill,3,Hrobat Miha,M,43,60,Rizzi
+2024-12-06,Beaver Creek,Downhill,3,Hrobat Miha,M,43,60,
 2024-12-06,Beaver Creek,Downhill,4,Crawford James,M,38,50,Bürgler
 2024-12-06,Beaver Creek,Downhill,5,Kriechmayr Vincent,M,35,45,Käslin
 2024-12-06,Beaver Creek,Downhill,6,Bennett Bryce,M,32,40,Knuchel
@@ -78,7 +78,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-12-06,Beaver Creek,Downhill,21,Morse Sam,M,10,10,
 2024-12-06,Beaver Creek,Downhill,22,Sejersted Adrian Smiseth,M,9,9,Reich
 2024-12-06,Beaver Creek,Downhill,23,Schieder Florian,M,8,8,Käslin
-2024-12-06,Beaver Creek,Downhill,24,Hemetsberger Daniel,M,7,7,Bürgler
+2024-12-06,Beaver Creek,Downhill,24,Hemetsberger Daniel,M,7,7,
 2024-12-06,Beaver Creek,Downhill,25,Haaser Raphael,M,6,6,Helfenberger
 2024-12-06,Beaver Creek,Downhill,26,Casse Mattia,M,5,5,Helbling
 2024-12-06,Beaver Creek,Downhill,27,Franzoni Giovanni,M,4,4,
