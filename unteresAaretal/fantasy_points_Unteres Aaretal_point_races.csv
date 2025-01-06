@@ -114,35 +114,65 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2024-12-29,Bormio,Super G,28,Molteni Nicolo,M,3,3,
 2024-12-29,Bormio,Super G,29,Goldberg Jared,M,2,2,
 2024-12-29,Bormio,Super G,30,Windingstad Rasmus,M,1,1,
+2024-12-28,Bormio,Downhill,1,Monney Alexis,M,55,100,
 2024-12-28,Semmering,Giant Slalom,1,Brignone Federica,W,55,100,Maurus
+2024-12-28,Bormio,Downhill,2,Von Allmen Franjo,M,48,80,Simon
 2024-12-28,Semmering,Giant Slalom,2,Hector Sara,W,48,80,Melissa
+2024-12-28,Bormio,Downhill,3,Alexander Cameron,M,43,60,Lena
 2024-12-28,Semmering,Giant Slalom,3,Robinson Alice,W,43,60,Melissa
+2024-12-28,Bormio,Downhill,4,Casse Mattia,M,38,50,Maurus
 2024-12-28,Semmering,Giant Slalom,4,Grenier Valerie,W,38,50,Maurus
+2024-12-28,Bormio,Downhill,5,Odermatt Marco,M,35,45,Sarah
 2024-12-28,Semmering,Giant Slalom,5,Moltzan Paula,W,35,45,Sarah
+2024-12-28,Bormio,Downhill,6,Murisier Justin,M,32,40,Simon
 2024-12-28,Semmering,Giant Slalom,6,Scheib Julia,W,32,40,
+2024-12-28,Bormio,Downhill,7,Hrobat Miha,M,29,36,
 2024-12-28,Semmering,Giant Slalom,7,Bassino Marta,W,29,36,Simon
+2024-12-28,Bormio,Downhill,8,Kriechmayr Vincent,M,26,32,Melissa
 2024-12-28,Semmering,Giant Slalom,8,Ljutic Zrinka,W,26,32,Lea
+2024-12-28,Bormio,Downhill,9,Kohler Marco,M,24,29,
 2024-12-28,Semmering,Giant Slalom,9,Gut-Behrami Lara,W,24,29,Simon
+2024-12-28,Bormio,Downhill,10,Allegre Nils,M,22,26,Maurus
 2024-12-28,Semmering,Giant Slalom,10,Stjernesund Thea Louise,W,22,26,Sarah
+2024-12-28,Bormio,Downhill,11,Hemetsberger Daniel,M,20,24,
 2024-12-28,Semmering,Giant Slalom,11,Colturi Lara,W,20,24,Pasi
+2024-12-28,Bormio,Downhill,12,Rogentin Stefan,M,19,22,Melissa
 2024-12-28,Semmering,Giant Slalom,12,Haaser Ricarda,W,19,22,
+2024-12-28,Bormio,Downhill,13,Jocher Simon,M,18,20,
 2024-12-28,Semmering,Giant Slalom,13,Bucik Jogan Ana,W,18,20,
 2024-12-28,Semmering,Giant Slalom,13,Gasienica-Daniel Maryna,W,18,20,
+2024-12-28,Bormio,Downhill,14,Alphand Nils,M,17,18,
+2024-12-28,Bormio,Downhill,15,Babinsky Stefan,M,16,16,
 2024-12-28,Semmering,Giant Slalom,15,O Brien Nina,W,16,16,
+2024-12-28,Bormio,Downhill,16,Lehto Elian,M,15,15,
 2024-12-28,Semmering,Giant Slalom,16,Dvornik Neja,W,15,15,
+2024-12-28,Bormio,Downhill,17,Crawford James,M,14,14,Melissa
 2024-12-28,Semmering,Giant Slalom,17,Rast Camille,W,14,14,Maurus
+2024-12-28,Bormio,Downhill,18,Innerhofer Christof,M,13,13,
 2024-12-28,Semmering,Giant Slalom,18,Lie Kajsa Vickhoff,W,13,13,Pasi
+2024-12-28,Bormio,Downhill,19,Franzoni Giovanni,M,12,12,
 2024-12-28,Semmering,Giant Slalom,19,Holtmann Mina Fuerst,W,12,12,
+2024-12-28,Bormio,Downhill,20,Moeller Fredrik,M,11,11,
 2024-12-28,Semmering,Giant Slalom,20,Gray Cassidy,W,11,11,
+2024-12-28,Bormio,Downhill,21,Vogt Luis,M,10,10,
+2024-12-28,Bormio,Downhill,21,Bailet Matthieu,M,10,10,
 2024-12-28,Semmering,Giant Slalom,21,Holdener Wendy,W,10,10,Lena
 2024-12-28,Semmering,Giant Slalom,22,Duerr Lena,W,9,9,Melissa
+2024-12-28,Bormio,Downhill,23,Hacker Felix,M,8,8,
 2024-12-28,Semmering,Giant Slalom,23,Richardson Britt,W,8,8,
+2024-12-28,Bormio,Downhill,24,Wieser Vincent,M,7,7,
 2024-12-28,Semmering,Giant Slalom,24,Wild Simone,W,7,7,
+2024-12-28,Bormio,Downhill,25,Striedinger Otmar,M,6,6,
 2024-12-28,Semmering,Giant Slalom,25,Alphand Estelle,W,6,6,
+2024-12-28,Bormio,Downhill,26,Cater Martin,M,5,5,
+2024-12-28,Bormio,Downhill,26,Traninger Manuel,M,5,5,
 2024-12-28,Semmering,Giant Slalom,26,Direz Clara,W,5,5,
 2024-12-28,Semmering,Giant Slalom,27,Hurt A J,W,4,4,
+2024-12-28,Bormio,Downhill,28,Giezendanner Blaise,M,3,3,
 2024-12-28,Semmering,Giant Slalom,28,Hensien Katie,W,3,3,
+2024-12-28,Bormio,Downhill,29,Sejersted Adrian Smiseth,M,2,2,
 2024-12-28,Semmering,Giant Slalom,29,Gritsch Franziska,W,2,2,
+2024-12-28,Bormio,Downhill,30,Rieser Stefan,M,1,1,
 2024-12-23,Alta Badia,Slalom,1,Haugan Timon,M,55,100,Sarah
 2024-12-23,Alta Badia,Slalom,2,Meillard Loic,M,48,80,Lena
 2024-12-23,Alta Badia,Slalom,3,Mcgrath Atle Lie,M,43,60,Pasi
