@@ -1,3577 +1,895 @@
 Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
-2025-01-14,Flachau,Slalom,1,"Rast Camille
-
-
-Head",W,55,100,
-2025-01-14,Flachau,Slalom,2,"Holdener Wendy
-
-
-Head",W,48,80,
-2025-01-14,Flachau,Slalom,3,"Hector Sara
-
-
-Head",W,43,60,
-2025-01-14,Flachau,Slalom,4,"Liensberger Katharina
-
-
-Rossignol",W,38,50,
-2025-01-14,Flachau,Slalom,5,"Meillard Melanie
-
-
-Rossignol",W,35,45,
-2025-01-14,Flachau,Slalom,6,"Moltzan Paula
-
-
-Rossignol",W,32,40,
-2025-01-14,Flachau,Slalom,7,"Swenn Larsson Anna
-
-
-Head",W,29,36,
-2025-01-14,Flachau,Slalom,8,"Aicher Emma
-
-
-Head",W,26,32,
-2025-01-14,Flachau,Slalom,9,"Holtmann Mina Fuerst
-
-
-Atomic",W,24,29,
-2025-01-14,Flachau,Slalom,10,"Duerr Lena
-
-
-Head",W,22,26,
-2025-01-14,Flachau,Slalom,11,"St-Germain Laurence
-
-
-Rossignol",W,20,24,
-2025-01-14,Flachau,Slalom,12,"Oehlund Cornelia
-
-
-Head",W,19,22,
-2025-01-14,Flachau,Slalom,13,"Colturi Lara
-
-
-Blizzard",W,18,20,
-2025-01-14,Flachau,Slalom,14,"Breche Clarisse
-
-
-Rossignol",W,17,18,
-2025-01-14,Flachau,Slalom,15,"Huber Katharina
-
-
-Fischer",W,16,16,
-2025-01-14,Flachau,Slalom,16,"Della Mea Lara
-
-
-Fischer",W,15,15,
-2025-01-14,Flachau,Slalom,17,"Smart Amelia
-
-
-Atomic",W,14,14,
-2025-01-14,Flachau,Slalom,18,"Alphand Estelle
-
-
-Head",W,13,13,
-2025-01-14,Flachau,Slalom,19,"Peterlini Martina
-
-
-Rossignol",W,12,12,
-2025-01-14,Flachau,Slalom,20,"O Brien Nina
-
-
-Rossignol",W,11,11,
-2025-01-14,Flachau,Slalom,21,"Dvornik Neja
-
-
-Fischer",W,10,10,
-2025-01-14,Flachau,Slalom,22,"Mcfarlane Caitlin
-
-
-Rossignol",W,9,9,
-2025-01-14,Flachau,Slalom,23,"Gisin Michelle
-
-
-Salomon",W,8,8,
-2025-01-14,Flachau,Slalom,24,"Hoepli Aline
-
-
-Head",W,7,7,
-2025-01-14,Flachau,Slalom,25,"Aronsson Elfman Hanna
-
-
-Rossignol",W,6,6,
-2025-01-12,St. Anton,Super G,1,"Macuga Lauren
-
-
-Rossignol",W,55,100,
-2025-01-12,Adelboden,Giant Slalom,1,"Odermatt Marco
-
-
-Stoeckli",M,55,100,
-2025-01-12,St. Anton,Super G,2,"Venier Stephanie
-
-
-Head",W,48,80,
-2025-01-12,Adelboden,Giant Slalom,2,"Meillard Loic
-
-
-Rossignol",M,48,80,
-2025-01-12,St. Anton,Super G,3,"Brignone Federica
-
-
-Rossignol",W,43,60,
-2025-01-12,Adelboden,Giant Slalom,3,"De Aliprandini Luca
-
-
-Salomon",M,43,60,
-2025-01-12,St. Anton,Super G,4,"Vonn Lindsey
-
-
-Head",W,38,50,
-2025-01-12,Adelboden,Giant Slalom,4,"Tumler Thomas
-
-
-Stoeckli",M,38,50,
-2025-01-12,St. Anton,Super G,5,"Gut-Behrami Lara
-
-
-Head",W,35,45,
-2025-01-12,Adelboden,Giant Slalom,5,"Zubcic Filip
-
-
-Atomic",M,35,45,
-2025-01-12,St. Anton,Super G,6,"Weidle-Winkelmann Kira
-
-
-Rossignol",W,32,40,
-2025-01-12,Adelboden,Giant Slalom,6,"Haugan Timon
-
-
-Van Deer Racing",M,32,40,
-2025-01-12,St. Anton,Super G,7,"Lie Kajsa Vickhoff
-
-
-Head",W,29,36,
-2025-01-12,Adelboden,Giant Slalom,7,"Aerni Luca
-
-
-Fischer",M,29,36,
-2025-01-12,St. Anton,Super G,8,"Suter Corinne
-
-
-Head",W,26,32,
-2025-01-12,Adelboden,Giant Slalom,8,"Verdu Joan
-
-
-Head",M,26,32,
-2025-01-12,St. Anton,Super G,9,"Blanc Malorie
-
-
-Atomic",W,24,29,
-2025-01-12,St. Anton,Super G,9,"Haaser Ricarda
-
-
-Fischer",W,24,29,
-2025-01-12,Adelboden,Giant Slalom,9,"Schwarz Marco
-
-
-Atomic",M,24,29,
-2025-01-12,Adelboden,Giant Slalom,10,"Radamus River
-
-
-Rossignol",M,22,26,
-2025-01-12,St. Anton,Super G,11,"Robinson Alice
-
-
-Salomon",W,20,24,
-2025-01-12,Adelboden,Giant Slalom,11,"Della Vite Filippo
-
-
-Rossignol",M,20,24,
-2025-01-12,St. Anton,Super G,12,"Ledecka Ester
-
-
-Kaestle",W,19,22,
-2025-01-12,Adelboden,Giant Slalom,12,"Pinturault Alexis
-
-
-Head",M,19,22,
-2025-01-12,St. Anton,Super G,13,"Curtoni Elena
-
-
-Head",W,18,20,
-2025-01-12,Adelboden,Giant Slalom,13,"Favrot Thibaut
-
-
-Dynastar",M,18,20,
-2025-01-12,St. Anton,Super G,14,"Raedler Ariane
-
-
-Head",W,17,18,
-2025-01-12,Adelboden,Giant Slalom,14,"Kranjec Zan
-
-
-Rossignol",M,17,18,
-2025-01-12,St. Anton,Super G,15,"Pirovano Laura
-
-
-Head",W,16,16,
-2025-01-12,Adelboden,Giant Slalom,15,"Feller Manuel
-
-
-Atomic",M,16,16,
-2025-01-12,St. Anton,Super G,16,"Clement Karen
-
-
-Head",W,15,15,
-2025-01-12,Adelboden,Giant Slalom,16,"Grammel Anton
-
-
-Head",M,15,15,
-2025-01-12,St. Anton,Super G,17,"Aicher Emma
-
-
-Head",W,14,14,
-2025-01-12,Adelboden,Giant Slalom,17,"Feurstein Lukas
-
-
-Head",M,14,14,
-2025-01-12,St. Anton,Super G,18,"Stuhec Ilka
-
-
-Kaestle",W,13,13,
-2025-01-12,Adelboden,Giant Slalom,18,"Stockinger Jonas
-
-
-Voelkl",M,13,13,
-2025-01-12,Adelboden,Giant Slalom,18,"Maes Sam
-
-
-Voelkl",M,13,13,
-2025-01-12,Adelboden,Giant Slalom,18,"Vinatzer Alex
-
-
-Atomic",M,13,13,
-2025-01-12,St. Anton,Super G,19,"Suter Jasmina
-
-
-Stoeckli",W,12,12,
-2025-01-12,St. Anton,Super G,20,"Haehlen Joana
-
-
-Atomic",W,11,11,
-2025-01-12,St. Anton,Super G,21,"Miradoli Romane
-
-
-Dynastar",W,10,10,
-2025-01-12,Adelboden,Giant Slalom,21,"Feurstein Patrick
-
-
-Rossignol",M,10,10,
-2025-01-12,St. Anton,Super G,22,"Gauche Laura
-
-
-Head",W,9,9,
-2025-01-12,Adelboden,Giant Slalom,22,"Zwischenbrugger Noel
-
-
-Atomic",M,9,9,
-2025-01-12,St. Anton,Super G,23,"Huetter Cornelia
-
-
-Head",W,8,8,
-2025-01-12,Adelboden,Giant Slalom,23,"Kenney Patrick
-
-
-Voelkl",M,8,8,
-2025-01-12,St. Anton,Super G,24,"Wiles Jacqueline
-
-
-Rossignol",W,7,7,
-2025-01-12,Adelboden,Giant Slalom,24,"Gratz Fabian
-
-
-Fischer",M,7,7,
-2025-01-12,St. Anton,Super G,25,"Ming-Nufer Priska
-
-
-Kaestle",W,6,6,
-2025-01-12,Adelboden,Giant Slalom,25,"Laine Tormis
-
-
-Voelkl",M,6,6,
-2025-01-12,St. Anton,Super G,26,"Muzaferija Elvedina
-
-
-Atomic",W,5,5,
-2025-01-12,St. Anton,Super G,27,"Gisin Michelle
-
-
-Salomon",W,4,4,
-2025-01-12,St. Anton,Super G,28,"Cashman Keely
-
-
-Head",W,3,3,
-2025-01-12,St. Anton,Super G,29,"Cerutti Camille
-
-
-Atomic",W,2,2,
-2025-01-12,St. Anton,Super G,29,"Fest Nadine
-
-
-Head",W,2,2,
-2025-01-11,St. Anton,Downhill,1,"Brignone Federica
-
-
-Rossignol",W,55,100,
-2025-01-11,Adelboden,Slalom,1,"Noel Clement
-
-
-Dynastar",M,55,100,
-2025-01-11,St. Anton,Downhill,2,"Blanc Malorie
-
-
-Atomic",W,48,80,
-2025-01-11,Adelboden,Slalom,2,"Pinheiro Braathen Lucas
-
-
-Atomic",M,48,80,
-2025-01-11,St. Anton,Downhill,3,"Ledecka Ester
-
-
-Kaestle",W,43,60,
-2025-01-11,Adelboden,Slalom,3,"Kristoffersen Henrik
-
-
-Van Deer Racing",M,43,60,
-2025-01-11,St. Anton,Downhill,4,"Pirovano Laura
-
-
-Head",W,38,50,
-2025-01-11,Adelboden,Slalom,4,"Strasser Linus
-
-
-Rossignol",M,38,50,
-2025-01-11,St. Anton,Downhill,5,"Venier Stephanie
-
-
-Head",W,35,45,
-2025-01-11,Adelboden,Slalom,5,"Gstrein Fabio
-
-
-Atomic",M,35,45,
-2025-01-11,St. Anton,Downhill,6,"Vonn Lindsey
-
-
-Head",W,32,40,
-2025-01-11,Adelboden,Slalom,6,"Amiez Steven
-
-
-Rossignol",M,32,40,
-2025-01-11,St. Anton,Downhill,7,"Huetter Cornelia
-
-
-Head",W,29,36,
-2025-01-11,Adelboden,Slalom,7,"Zubcic Filip
-
-
-Atomic",M,29,36,
-2025-01-11,St. Anton,Downhill,8,"Ortlieb Nina
-
-
-Head",W,26,32,
-2025-01-11,Adelboden,Slalom,8,"Nef Tanguy
-
-
-Atomic",M,26,32,
-2025-01-11,St. Anton,Downhill,9,"Macuga Lauren
-
-
-Rossignol",W,24,29,
-2025-01-11,Adelboden,Slalom,9,"Matt Michael
-
-
-Blizzard",M,24,29,
-2025-01-11,St. Anton,Downhill,10,"Raedler Ariane
-
-
-Head",W,22,26,
-2025-01-11,Adelboden,Slalom,10,"Rochat Marc
-
-
-Nordica",M,22,26,
-2025-01-11,St. Anton,Downhill,11,"Johnson Breezy
-
-
-Atomic",W,20,24,
-2025-01-11,Adelboden,Slalom,11,"Muffat-Jeandet Victor
-
-
-Salomon",M,20,24,
-2025-01-11,St. Anton,Downhill,12,"Weidle-Winkelmann Kira
-
-
-Rossignol",W,19,22,
-2025-01-11,Adelboden,Slalom,12,"Yule Daniel
-
-
-Fischer",M,19,22,
-2025-01-11,St. Anton,Downhill,13,"Gut-Behrami Lara
-
-
-Head",W,18,20,
-2025-01-11,Adelboden,Slalom,13,"Haugan Timon
-
-
-Van Deer Racing",M,18,20,
-2025-01-11,St. Anton,Downhill,14,"Lie Kajsa Vickhoff
-
-
-Head",W,17,18,
-2025-01-11,Adelboden,Slalom,14,"Steen Olsen Alexander
-
-
-Rossignol",M,17,18,
-2025-01-11,St. Anton,Downhill,15,"Suter Corinne
-
-
-Head",W,16,16,
-2025-01-11,Adelboden,Slalom,15,"Strolz Johannes
-
-
-Head",M,16,16,
-2025-01-11,St. Anton,Downhill,16,"Gauche Laura
-
-
-Head",W,15,15,
-2025-01-11,Adelboden,Slalom,16,"Popov Albert
-
-
-Head",M,15,15,
-2025-01-11,St. Anton,Downhill,17,"Stuhec Ilka
-
-
-Kaestle",W,14,14,
-2025-01-11,Adelboden,Slalom,17,"Seymour Jett
-
-
-Fischer",M,14,14,
-2025-01-11,St. Anton,Downhill,18,"Puchner Mirjam
-
-
-Atomic",W,13,13,
-2025-01-11,Adelboden,Slalom,18,"Gross Stefano
-
-
-Voelkl",M,13,13,
-2025-01-11,St. Anton,Downhill,19,"Schmitt Janine
-
-
-Kaestle",W,12,12,
-2025-01-11,St. Anton,Downhill,19,"Curtoni Elena
-
-
-Head",W,12,12,
-2025-01-11,Adelboden,Slalom,19,"Marchant Armand
-
-
-Head",M,12,12,
-2025-01-11,Adelboden,Slalom,20,"Aerni Luca
-
-
-Fischer",M,11,11,
-2025-01-11,St. Anton,Downhill,21,"Gisin Michelle
-
-
-Salomon",W,10,10,
-2025-01-11,Adelboden,Slalom,21,"Ritchie Benjamin
-
-
-Head",M,10,10,
-2025-01-11,St. Anton,Downhill,22,"Miradoli Romane
-
-
-Dynastar",W,9,9,
-2025-01-11,Adelboden,Slalom,22,"Jakobsen Kristoffer
-
-
-Fischer",M,9,9,
-2025-01-11,St. Anton,Downhill,23,"Monsen Marte
-
-
-Rossignol",W,8,8,
-2025-01-11,Adelboden,Slalom,23,"Rodes Istok
-
-
-Voelkl",M,8,8,
-2025-01-11,St. Anton,Downhill,24,"Ager Christina
-
-
-Atomic",W,7,7,
-2025-01-11,Adelboden,Slalom,24,"Laine Tormis
-
-
-Voelkl",M,7,7,
-2025-01-11,St. Anton,Downhill,25,"Haaser Ricarda
-
-
-Fischer",W,6,6,
-2025-01-11,Adelboden,Slalom,25,"Schwarz Marco
-
-
-Atomic",M,6,6,
-2025-01-11,St. Anton,Downhill,26,"Fest Nadine
-
-
-Head",W,5,5,
-2025-01-11,Adelboden,Slalom,26,"Major Billy
-
-
-Fischer",M,5,5,
-2025-01-11,St. Anton,Downhill,27,"Clement Karen
-
-
-Head",W,4,4,
-2025-01-11,Adelboden,Slalom,27,"Ryding Dave
-
-
-Head",M,4,4,
-2025-01-11,St. Anton,Downhill,28,"Delago Nicol
-
-
-Atomic",W,3,3,
-2025-01-11,Adelboden,Slalom,28,"Vinatzer Alex
-
-
-Atomic",M,3,3,
-2025-01-11,St. Anton,Downhill,29,"Delago Nadia
-
-
-Atomic",W,2,2,
-2025-01-11,St. Anton,Downhill,30,"Thaler Sara
-
-
-Rossignol",W,1,1,
-2025-01-08,Madonna di Campiglio,Slalom,1,"Popov Albert
-
-
-Head",M,55,100,
-2025-01-08,Madonna di Campiglio,Slalom,2,"Meillard Loic
-
-
-Rossignol",M,48,80,
-2025-01-08,Madonna di Campiglio,Slalom,3,"Kolega Samuel
-
-
-Rossignol",M,43,60,
-2025-01-08,Madonna di Campiglio,Slalom,4,"Amiez Steven
-
-
-Rossignol",M,38,50,
-2025-01-08,Madonna di Campiglio,Slalom,5,"Kristoffersen Henrik
-
-
-Van Deer Racing",M,35,45,
-2025-01-08,Madonna di Campiglio,Slalom,6,"Strasser Linus
-
-
-Rossignol",M,32,40,
-2025-01-08,Madonna di Campiglio,Slalom,7,"Yule Daniel
-
-
-Fischer",M,29,36,
-2025-01-08,Madonna di Campiglio,Slalom,8,"Ritchie Benjamin
-
-
-Head",M,26,32,
-2025-01-08,Madonna di Campiglio,Slalom,9,"Pinheiro Braathen Lucas
-
-
-Atomic",M,24,29,
-2025-01-08,Madonna di Campiglio,Slalom,10,"Gstrein Fabio
-
-
-Atomic",M,22,26,
-2025-01-08,Madonna di Campiglio,Slalom,11,"Strolz Johannes
-
-
-Head",M,20,24,
-2025-01-08,Madonna di Campiglio,Slalom,12,"Rassat Paco
-
-
-Head",M,19,22,
-2025-01-08,Madonna di Campiglio,Slalom,13,"Raschner Dominik
-
-
-Fischer",M,18,20,
-2025-01-08,Madonna di Campiglio,Slalom,14,"Ryding Dave
-
-
-Head",M,17,18,
-2025-01-08,Madonna di Campiglio,Slalom,15,"Nef Tanguy
-
-
-Atomic",M,16,16,
-2025-01-08,Madonna di Campiglio,Slalom,16,"Pertl Adrian
-
-
-Atomic",M,15,15,
-2025-01-08,Madonna di Campiglio,Slalom,17,"Maes Sam
-
-
-Voelkl",M,14,14,
-2025-01-08,Madonna di Campiglio,Slalom,18,"Ax Swartz Fabian
-
-
-Van Deer Racing",M,13,13,
-2025-01-08,Madonna di Campiglio,Slalom,19,"Wissting Gustav
-
-
-Fischer",M,12,12,
-2025-01-08,Madonna di Campiglio,Slalom,20,"Muffat-Jeandet Victor
-
-
-Salomon",M,11,11,
-2025-01-08,Madonna di Campiglio,Slalom,21,"Gross Stefano
-
-
-Voelkl",M,10,10,
-2025-01-05,Kranjska Gora,Slalom,1,"Ljutic Zrinka
-
-
-Atomic",W,55,100,
-2025-01-05,Kranjska Gora,Slalom,2,"Holdener Wendy
-
-
-Head",W,48,80,
-2025-01-05,Kranjska Gora,Slalom,3,"Swenn Larsson Anna
-
-
-Head",W,43,60,
-2025-01-05,Kranjska Gora,Slalom,4,"Rast Camille
-
-
-Head",W,38,50,
-2025-01-05,Kranjska Gora,Slalom,5,"Meillard Melanie
-
-
-Rossignol",W,35,45,
-2025-01-05,Kranjska Gora,Slalom,6,"Hector Sara
-
-
-Head",W,32,40,
-2025-01-05,Kranjska Gora,Slalom,7,"Slokar Andreja
-
-
-Nordica",W,29,36,
-2025-01-05,Kranjska Gora,Slalom,8,"Truppe Katharina
-
-
-Voelkl",W,26,32,
-2025-01-05,Kranjska Gora,Slalom,9,"Liensberger Katharina
-
-
-Rossignol",W,24,29,
-2025-01-05,Kranjska Gora,Slalom,10,"Lamure Marie
-
-
-Rossignol",W,22,26,
-2025-01-05,Kranjska Gora,Slalom,11,"Huber Katharina
-
-
-Fischer",W,20,24,
-2025-01-05,Kranjska Gora,Slalom,12,"Hensien Katie
-
-
-Rossignol",W,19,22,
-2025-01-05,Kranjska Gora,Slalom,13,"Colturi Lara
-
-
-Blizzard",W,18,20,
-2025-01-05,Kranjska Gora,Slalom,14,"Holtmann Mina Fuerst
-
-
-Atomic",W,17,18,
-2025-01-05,Kranjska Gora,Slalom,15,"Christen Eliane
-
-
-Head",W,16,16,
-2025-01-05,Kranjska Gora,Slalom,16,"Oehlund Cornelia
-
-
-Head",W,15,15,
-2025-01-05,Kranjska Gora,Slalom,17,"Dvornik Neja
-
-
-Fischer",W,14,14,
-2025-01-05,Kranjska Gora,Slalom,18,"Stoffel Elena
-
-
-Dynastar",W,13,13,
-2025-01-05,Kranjska Gora,Slalom,19,"Gritsch Franziska
-
-
-Blizzard",W,12,12,
-2025-01-05,Kranjska Gora,Slalom,20,"Moltzan Paula
-
-
-Rossignol",W,11,11,
-2025-01-05,Kranjska Gora,Slalom,21,"Maechler Janine
-
-
-Head",W,10,10,
-2025-01-05,Kranjska Gora,Slalom,21,"Hilzinger Jessica
-
-
-Head",W,10,10,
-2025-01-05,Kranjska Gora,Slalom,23,"Dubovska Martina
-
-
-Kaestle",W,8,8,
-2025-01-05,Kranjska Gora,Slalom,24,"Peterlini Martina
-
-
-Rossignol",W,7,7,
-2025-01-05,Kranjska Gora,Slalom,25,"Pogneaux Chiara
-
-
-Rossignol",W,6,6,
-2025-01-05,Kranjska Gora,Slalom,26,"Alphand Estelle
-
-
-Head",W,5,5,
-2025-01-05,Kranjska Gora,Slalom,27,"Breche Clarisse
-
-
-Rossignol",W,4,4,
-2025-01-05,Kranjska Gora,Slalom,28,"Gisin Michelle
-
-
-Salomon",W,3,3,
-2025-01-04,Kranjska Gora,Giant Slalom,1,"Hector Sara
-
-
-Head",W,55,100,
-2025-01-04,Kranjska Gora,Giant Slalom,2,"Colturi Lara
-
-
-Blizzard",W,48,80,
-2025-01-04,Kranjska Gora,Giant Slalom,3,"Robinson Alice
-
-
-Salomon",W,43,60,
-2025-01-04,Kranjska Gora,Giant Slalom,4,"Scheib Julia
-
-
-Rossignol",W,38,50,
-2025-01-04,Kranjska Gora,Giant Slalom,5,"Goggia Sofia
-
-
-Atomic",W,35,45,
-2025-01-04,Kranjska Gora,Giant Slalom,6,"Gut-Behrami Lara
-
-
-Head",W,32,40,
-2025-01-04,Kranjska Gora,Giant Slalom,7,"Stjernesund Thea Louise
-
-
-Rossignol",W,29,36,
-2025-01-04,Kranjska Gora,Giant Slalom,8,"Dvornik Neja
-
-
-Fischer",W,26,32,
-2025-01-04,Kranjska Gora,Giant Slalom,8,"Rast Camille
-
-
-Head",W,26,32,
-2025-01-04,Kranjska Gora,Giant Slalom,10,"Hurt A J
-
-
-Head",W,22,26,
-2025-01-04,Kranjska Gora,Giant Slalom,11,"O Brien Nina
-
-
-Rossignol",W,20,24,
-2025-01-04,Kranjska Gora,Giant Slalom,12,"Ljutic Zrinka
-
-
-Atomic",W,19,22,
-2025-01-04,Kranjska Gora,Giant Slalom,13,"Nyberg Lisa
-
-
-Rossignol",W,18,20,
-2025-01-04,Kranjska Gora,Giant Slalom,14,"Haaser Ricarda
-
-
-Fischer",W,17,18,
-2025-01-04,Kranjska Gora,Giant Slalom,15,"Lie Kajsa Vickhoff
-
-
-Head",W,16,16,
-2025-01-04,Kranjska Gora,Giant Slalom,16,"Alphand Estelle
-
-
-Head",W,15,15,
-2025-01-04,Kranjska Gora,Giant Slalom,17,"Brunner Stephanie
-
-
-Head",W,14,14,
-2025-01-04,Kranjska Gora,Giant Slalom,18,"Holdener Wendy
-
-
-Head",W,13,13,
-2025-01-04,Kranjska Gora,Giant Slalom,19,"Della Mea Lara
-
-
-Fischer",W,12,12,
-2025-01-04,Kranjska Gora,Giant Slalom,20,"Sylvester-Davik Madeleine
-
-
-Atomic",W,11,11,
-2025-01-04,Kranjska Gora,Giant Slalom,21,"Bucik Jogan Ana
-
-
-Salomon",W,10,10,
-2025-01-04,Kranjska Gora,Giant Slalom,22,"Zenere Asja
-
-
-Salomon",W,9,9,
-2025-01-04,Kranjska Gora,Giant Slalom,23,"Ghisalberti Ilaria
-
-
-Head",W,8,8,
-2025-01-04,Kranjska Gora,Giant Slalom,24,"Aicher Emma
-
-
-Head",W,7,7,
-2025-01-04,Kranjska Gora,Giant Slalom,25,"Duerr Lena
-
-
-Head",W,6,6,
-2025-01-04,Kranjska Gora,Giant Slalom,26,"Gisin Michelle
-
-
-Salomon",W,5,5,
-2025-01-04,Kranjska Gora,Giant Slalom,27,"Hensien Katie
-
-
-Rossignol",W,4,4,
-2025-01-04,Kranjska Gora,Giant Slalom,28,"Melesi Roberta
-
-
-Dynastar",W,3,3,
-2025-01-04,Kranjska Gora,Giant Slalom,29,"Olivier Victoria
-
-
-Head",W,2,2,
-2025-01-04,Kranjska Gora,Giant Slalom,30,"Baruzzi Farriol Francesca
-
-
-Rossignol",W,1,1,
-2024-12-29,Bormio,Super G,1,"Moeller Fredrik
-
-
-Atomic",M,55,100,
-2024-12-29,Semmering,Slalom,1,"Ljutic Zrinka
-
-
-Atomic",W,55,100,
-2024-12-29,Bormio,Super G,2,"Kriechmayr Vincent
-
-
-Head",M,48,80,
-2024-12-29,Semmering,Slalom,2,"Duerr Lena
-
-
-Head",W,48,80,
-2024-12-29,Bormio,Super G,3,"Monney Alexis
-
-
-Stoeckli",M,43,60,
-2024-12-29,Semmering,Slalom,3,"Liensberger Katharina
-
-
-Rossignol",W,43,60,
-2024-12-29,Bormio,Super G,4,"Rogentin Stefan
-
-
-Fischer",M,38,50,
-2024-12-29,Semmering,Slalom,4,"Rast Camille
-
-
-Head",W,38,50,
-2024-12-29,Bormio,Super G,5,"Odermatt Marco
-
-
-Stoeckli",M,35,45,
-2024-12-29,Semmering,Slalom,5,"Hector Sara
-
-
-Head",W,35,45,
-2024-12-29,Bormio,Super G,6,"Von Allmen Franjo
-
-
-Head",M,32,40,
-2024-12-29,Semmering,Slalom,6,"Holdener Wendy
-
-
-Head",W,32,40,
-2024-12-29,Bormio,Super G,7,"Hemetsberger Daniel
-
-
-Fischer",M,29,36,
-2024-12-29,Semmering,Slalom,7,"Meillard Melanie
-
-
-Rossignol",W,29,36,
-2024-12-29,Bormio,Super G,8,"Allegre Nils
-
-
-Salomon",M,26,32,
-2024-12-29,Semmering,Slalom,8,"Aicher Emma
-
-
-Head",W,26,32,
-2024-12-29,Bormio,Super G,9,"Loriot Florian
-
-
-Rossignol",M,24,29,
-2024-12-29,Semmering,Slalom,9,"Slokar Andreja
-
-
-Nordica",W,24,29,
-2024-12-29,Bormio,Super G,10,"Babinsky Stefan
-
-
-Head",M,22,26,
-2024-12-29,Semmering,Slalom,10,"Huber Katharina
-
-
-Fischer",W,22,26,
-2024-12-29,Bormio,Super G,11,"Casse Mattia
-
-
-Rossignol",M,20,24,
-2024-12-29,Semmering,Slalom,11,"Gritsch Franziska
-
-
-Blizzard",W,20,24,
-2024-12-29,Bormio,Super G,12,"Alexander Cameron
-
-
-Rossignol",M,19,22,
-2024-12-29,Semmering,Slalom,12,"Christen Eliane
-
-
-Head",W,19,22,
-2024-12-29,Bormio,Super G,13,"Sejersted Adrian Smiseth
-
-
-Atomic",M,18,20,
-2024-12-29,Semmering,Slalom,13,"Truppe Katharina
-
-
-Voelkl",W,18,20,
-2024-12-29,Bormio,Super G,14,"Hacker Felix
-
-
-Atomic",M,17,18,
-2024-12-29,Semmering,Slalom,14,"Colturi Lara
-
-
-Blizzard",W,17,18,
-2024-12-29,Bormio,Super G,15,"Murisier Justin
-
-
-Head",M,16,16,
-2024-12-29,Semmering,Slalom,15,"Holtmann Mina Fuerst
-
-
-Atomic",W,16,16,
-2024-12-29,Bormio,Super G,16,"Paris Dominik
-
-
-Nordica",M,15,15,
-2024-12-29,Semmering,Slalom,16,"Oehlund Cornelia
-
-
-Head",W,15,15,
-2024-12-29,Bormio,Super G,17,"Giezendanner Blaise
-
-
-Atomic",M,14,14,
-2024-12-29,Bormio,Super G,17,"Franzoni Giovanni
-
-
-Rossignol",M,14,14,
-2024-12-29,Semmering,Slalom,17,"Aronsson Elfman Hanna
-
-
-Rossignol",W,14,14,
-2024-12-29,Semmering,Slalom,18,"Hurt A J
-
-
-Head",W,13,13,
-2024-12-29,Bormio,Super G,19,"Read Jeffrey
-
-
-Atomic",M,12,12,
-2024-12-29,Semmering,Slalom,19,"Dubovska Martina
-
-
-Kaestle",W,12,12,
-2024-12-29,Bormio,Super G,20,"Zabystran Jan
-
-
-Kaestle",M,11,11,
-2024-12-29,Semmering,Slalom,20,"Lamure Marie
-
-
-Rossignol",W,11,11,
-2024-12-29,Bormio,Super G,21,"Negomir Kyle
-
-
-Atomic",M,10,10,
-2024-12-29,Semmering,Slalom,21,"Bucik Jogan Ana
-
-
-Salomon",W,10,10,
-2024-12-29,Bormio,Super G,22,"Cochran-Siegle Ryan
-
-
-Head",M,9,9,
-2024-12-29,Semmering,Slalom,22,"Stjernesund Thea Louise
-
-
-Rossignol",W,9,9,
-2024-12-29,Bormio,Super G,23,"Wieser Vincent
-
-
-Salomon",M,8,8,
-2024-12-29,Semmering,Slalom,23,"Breche Clarisse
-
-
-Rossignol",W,8,8,
-2024-12-29,Bormio,Super G,24,"Baumann Romed
-
-
-Salomon",M,7,7,
-2024-12-29,Semmering,Slalom,24,"St-Germain Laurence
-
-
-Rossignol",W,7,7,
-2024-12-29,Bormio,Super G,25,"Kohler Marco
-
-
-Stoeckli",M,6,6,
-2024-12-29,Semmering,Slalom,25,"Pogneaux Chiara
-
-
-Rossignol",W,6,6,
-2024-12-29,Bormio,Super G,26,"Theaux Adrien
-
-
-Salomon",M,5,5,
-2024-12-29,Semmering,Slalom,26,"Maechler Janine
-
-
-Head",W,5,5,
-2024-12-29,Bormio,Super G,27,"Lehto Elian
-
-
-Fischer",M,4,4,
-2024-12-29,Semmering,Slalom,27,"Smart Amelia
-
-
-Atomic",W,4,4,
-2024-12-29,Bormio,Super G,28,"Molteni Nicolo
-
-
-Head",M,3,3,
-2024-12-29,Bormio,Super G,29,"Goldberg Jared
-
-
-Rossignol",M,2,2,
-2024-12-29,Bormio,Super G,30,"Windingstad Rasmus
-
-
-Atomic",M,1,1,
-2024-12-28,Bormio,Downhill,1,"Monney Alexis
-
-
-Stoeckli",M,55,100,
-2024-12-28,Semmering,Giant Slalom,1,"Brignone Federica
-
-
-Rossignol",W,55,100,
-2024-12-28,Bormio,Downhill,2,"Von Allmen Franjo
-
-
-Head",M,48,80,
-2024-12-28,Semmering,Giant Slalom,2,"Hector Sara
-
-
-Head",W,48,80,
-2024-12-28,Bormio,Downhill,3,"Alexander Cameron
-
-
-Rossignol",M,43,60,
-2024-12-28,Semmering,Giant Slalom,3,"Robinson Alice
-
-
-Salomon",W,43,60,
-2024-12-28,Bormio,Downhill,4,"Casse Mattia
-
-
-Rossignol",M,38,50,
-2024-12-28,Semmering,Giant Slalom,4,"Grenier Valerie
-
-
-Rossignol",W,38,50,
-2024-12-28,Bormio,Downhill,5,"Odermatt Marco
-
-
-Stoeckli",M,35,45,
-2024-12-28,Semmering,Giant Slalom,5,"Moltzan Paula
-
-
-Rossignol",W,35,45,
-2024-12-28,Bormio,Downhill,6,"Murisier Justin
-
-
-Head",M,32,40,
-2024-12-28,Semmering,Giant Slalom,6,"Scheib Julia
-
-
-Rossignol",W,32,40,
-2024-12-28,Bormio,Downhill,7,"Hrobat Miha
-
-
-Atomic",M,29,36,
-2024-12-28,Semmering,Giant Slalom,7,"Bassino Marta
-
-
-Salomon",W,29,36,
-2024-12-28,Bormio,Downhill,8,"Kriechmayr Vincent
-
-
-Head",M,26,32,
-2024-12-28,Semmering,Giant Slalom,8,"Ljutic Zrinka
-
-
-Atomic",W,26,32,
-2024-12-28,Bormio,Downhill,9,"Kohler Marco
-
-
-Stoeckli",M,24,29,
-2024-12-28,Semmering,Giant Slalom,9,"Gut-Behrami Lara
-
-
-Head",W,24,29,
-2024-12-28,Bormio,Downhill,10,"Allegre Nils
-
-
-Salomon",M,22,26,
-2024-12-28,Semmering,Giant Slalom,10,"Stjernesund Thea Louise
-
-
-Rossignol",W,22,26,
-2024-12-28,Bormio,Downhill,11,"Hemetsberger Daniel
-
-
-Fischer",M,20,24,
-2024-12-28,Semmering,Giant Slalom,11,"Colturi Lara
-
-
-Blizzard",W,20,24,
-2024-12-28,Bormio,Downhill,12,"Rogentin Stefan
-
-
-Fischer",M,19,22,
-2024-12-28,Semmering,Giant Slalom,12,"Haaser Ricarda
-
-
-Fischer",W,19,22,
-2024-12-28,Bormio,Downhill,13,"Jocher Simon
-
-
-Head",M,18,20,
-2024-12-28,Semmering,Giant Slalom,13,"Bucik Jogan Ana
-
-
-Salomon",W,18,20,
-2024-12-28,Semmering,Giant Slalom,13,"Gasienica-Daniel Maryna
-
-
-Atomic",W,18,20,
-2024-12-28,Bormio,Downhill,14,"Alphand Nils
-
-
-Head",M,17,18,
-2024-12-28,Bormio,Downhill,15,"Babinsky Stefan
-
-
-Head",M,16,16,
-2024-12-28,Semmering,Giant Slalom,15,"O Brien Nina
-
-
-Rossignol",W,16,16,
-2024-12-28,Bormio,Downhill,16,"Lehto Elian
-
-
-Fischer",M,15,15,
-2024-12-28,Semmering,Giant Slalom,16,"Dvornik Neja
-
-
-Fischer",W,15,15,
-2024-12-28,Bormio,Downhill,17,"Crawford James
-
-
-Head",M,14,14,
-2024-12-28,Semmering,Giant Slalom,17,"Rast Camille
-
-
-Head",W,14,14,
-2024-12-28,Bormio,Downhill,18,"Innerhofer Christof
-
-
-Rossignol",M,13,13,
-2024-12-28,Semmering,Giant Slalom,18,"Lie Kajsa Vickhoff
-
-
-Head",W,13,13,
-2024-12-28,Bormio,Downhill,19,"Franzoni Giovanni
-
-
-Rossignol",M,12,12,
-2024-12-28,Semmering,Giant Slalom,19,"Holtmann Mina Fuerst
-
-
-Atomic",W,12,12,
-2024-12-28,Bormio,Downhill,20,"Moeller Fredrik
-
-
-Atomic",M,11,11,
-2024-12-28,Semmering,Giant Slalom,20,"Gray Cassidy
-
-
-Atomic",W,11,11,
-2024-12-28,Bormio,Downhill,21,"Vogt Luis
-
-
-Rossignol",M,10,10,
-2024-12-28,Bormio,Downhill,21,"Bailet Matthieu
-
-
-Head",M,10,10,
-2024-12-28,Semmering,Giant Slalom,21,"Holdener Wendy
-
-
-Head",W,10,10,
-2024-12-28,Semmering,Giant Slalom,22,"Duerr Lena
-
-
-Head",W,9,9,
-2024-12-28,Bormio,Downhill,23,"Hacker Felix
-
-
-Atomic",M,8,8,
-2024-12-28,Semmering,Giant Slalom,23,"Richardson Britt
-
-
-Dynastar",W,8,8,
-2024-12-28,Bormio,Downhill,24,"Wieser Vincent
-
-
-Salomon",M,7,7,
-2024-12-28,Semmering,Giant Slalom,24,"Wild Simone
-
-
-Fischer",W,7,7,
-2024-12-28,Bormio,Downhill,25,"Striedinger Otmar
-
-
-Salomon",M,6,6,
-2024-12-28,Semmering,Giant Slalom,25,"Alphand Estelle
-
-
-Head",W,6,6,
-2024-12-28,Bormio,Downhill,26,"Cater Martin
-
-
-Salomon",M,5,5,
-2024-12-28,Bormio,Downhill,26,"Traninger Manuel
-
-
-Atomic",M,5,5,
-2024-12-28,Semmering,Giant Slalom,26,"Direz Clara
-
-
-Dynastar",W,5,5,
-2024-12-28,Semmering,Giant Slalom,27,"Hurt A J
-
-
-Head",W,4,4,
-2024-12-28,Bormio,Downhill,28,"Giezendanner Blaise
-
-
-Atomic",M,3,3,
-2024-12-28,Semmering,Giant Slalom,28,"Hensien Katie
-
-
-Rossignol",W,3,3,
-2024-12-28,Bormio,Downhill,29,"Sejersted Adrian Smiseth
-
-
-Atomic",M,2,2,
-2024-12-28,Semmering,Giant Slalom,29,"Gritsch Franziska
-
-
-Blizzard",W,2,2,
-2024-12-28,Bormio,Downhill,30,"Rieser Stefan
-
-
-Atomic",M,1,1,
-2024-12-23,Alta Badia,Slalom,1,"Haugan Timon
-
-
-Van Deer Racing",M,55,100,
-2024-12-23,Alta Badia,Slalom,2,"Meillard Loic
-
-
-Rossignol",M,48,80,
-2024-12-23,Alta Badia,Slalom,3,"Mcgrath Atle Lie
-
-
-Head",M,43,60,
-2024-12-23,Alta Badia,Slalom,4,"Kristoffersen Henrik
-
-
-Van Deer Racing",M,38,50,
-2024-12-23,Alta Badia,Slalom,5,"Kolega Samuel
-
-
-Rossignol",M,35,45,
-2024-12-23,Alta Badia,Slalom,6,"Noel Clement
-
-
-Dynastar",M,32,40,
-2024-12-23,Alta Badia,Slalom,7,"Feller Manuel
-
-
-Atomic",M,29,36,
-2024-12-23,Alta Badia,Slalom,8,"Ryding Dave
-
-
-Head",M,26,32,
-2024-12-23,Alta Badia,Slalom,9,"Yule Daniel
-
-
-Fischer",M,24,29,
-2024-12-23,Alta Badia,Slalom,10,"Popov Albert
-
-
-Head",M,22,26,
-2024-12-23,Alta Badia,Slalom,11,"Ax Swartz Fabian
-
-
-Van Deer Racing",M,20,24,
-2024-12-23,Alta Badia,Slalom,12,"Pinheiro Braathen Lucas
-
-
-Atomic",M,19,22,
-2024-12-23,Alta Badia,Slalom,13,"Seymour Jett
-
-
-Fischer",M,18,20,
-2024-12-23,Alta Badia,Slalom,14,"Rassat Paco
-
-
-Head",M,17,18,
-2024-12-23,Alta Badia,Slalom,15,"Salarich Joaquim
-
-
-Rossignol",M,16,16,
-2024-12-23,Alta Badia,Slalom,16,"Matt Michael
-
-
-Blizzard",M,15,15,
-2024-12-23,Alta Badia,Slalom,17,"Aerni Luca
-
-
-Fischer",M,14,14,
-2024-12-23,Alta Badia,Slalom,18,"Steen Olsen Alexander
-
-
-Rossignol",M,13,13,
-2024-12-23,Alta Badia,Slalom,19,"Strolz Johannes
-
-
-Head",M,12,12,
-2024-12-23,Alta Badia,Slalom,20,"Zubcic Filip
-
-
-Atomic",M,11,11,
-2024-12-23,Alta Badia,Slalom,21,"Maurberger Simon
-
-
-Blizzard",M,10,10,
-2024-12-23,Alta Badia,Slalom,22,"Nef Tanguy
-
-
-Atomic",M,9,9,
-2024-12-23,Alta Badia,Slalom,23,"Sturm Joshua
-
-
-Atomic",M,8,8,
-2024-12-23,Alta Badia,Slalom,24,"Kastlunger Tobias
-
-
-Head",M,7,7,
-2024-12-23,Alta Badia,Slalom,25,"Tremmel Anton
-
-
-Nordica",M,6,6,
-2024-12-23,Alta Badia,Slalom,26,"Rodes Istok
-
-
-Voelkl",M,5,5,
-2024-12-23,Alta Badia,Slalom,27,"Radamus River
-
-
-Rossignol",M,4,4,
-2024-12-22,Alta Badia,Giant Slalom,1,"Odermatt Marco
-
-
-Stoeckli",M,55,100,
-2024-12-22,Alta Badia,Giant Slalom,2,"Anguenot Leo
-
-
-Rossignol",M,48,80,
-2024-12-22,Alta Badia,Giant Slalom,3,"Steen Olsen Alexander
-
-
-Rossignol",M,43,60,
-2024-12-22,Alta Badia,Giant Slalom,4,"Zubcic Filip
-
-
-Atomic",M,38,50,
-2024-12-22,Alta Badia,Giant Slalom,5,"Haugan Timon
-
-
-Van Deer Racing",M,35,45,
-2024-12-22,Alta Badia,Giant Slalom,6,"Mcgrath Atle Lie
-
-
-Head",M,32,40,
-2024-12-22,Alta Badia,Giant Slalom,7,"Kranjec Zan
-
-
-Rossignol",M,29,36,
-2024-12-22,Alta Badia,Giant Slalom,8,"Vinatzer Alex
-
-
-Atomic",M,26,32,
-2024-12-22,Alta Badia,Giant Slalom,9,"Kristoffersen Henrik
-
-
-Van Deer Racing",M,24,29,
-2024-12-22,Alta Badia,Giant Slalom,10,"Favrot Thibaut
-
-
-Dynastar",M,22,26,
-2024-12-22,Alta Badia,Giant Slalom,11,"Grammel Anton
-
-
-Head",M,20,24,
-2024-12-22,Alta Badia,Giant Slalom,12,"Caviezel Gino
-
-
-Atomic",M,19,22,
-2024-12-22,Alta Badia,Giant Slalom,13,"De Aliprandini Luca
-
-
-Salomon",M,18,20,
-2024-12-22,Alta Badia,Giant Slalom,14,"Brennsteiner Stefan
-
-
-Fischer",M,17,18,
-2024-12-22,Alta Badia,Giant Slalom,15,"Radamus River
-
-
-Rossignol",M,16,16,
-2024-12-22,Alta Badia,Giant Slalom,16,"Meillard Loic
-
-
-Rossignol",M,15,15,
-2024-12-22,Alta Badia,Giant Slalom,17,"Aerni Luca
-
-
-Fischer",M,14,14,
-2024-12-22,Alta Badia,Giant Slalom,18,"Zampa Andreas
-
-
-Salomon",M,13,13,
-2024-12-22,Alta Badia,Giant Slalom,19,"Feurstein Patrick
-
-
-Rossignol",M,12,12,
-2024-12-22,Alta Badia,Giant Slalom,20,"Read Erik
-
-
-Atomic",M,11,11,
-2024-12-22,Alta Badia,Giant Slalom,20,"Laine Tormis
-
-
-Voelkl",M,11,11,
-2024-12-22,Alta Badia,Giant Slalom,22,"Pinheiro Braathen Lucas
-
-
-Atomic",M,9,9,
-2024-12-22,Alta Badia,Giant Slalom,23,"Pinturault Alexis
-
-
-Head",M,8,8,
-2024-12-22,Alta Badia,Giant Slalom,24,"Windingstad Rasmus
-
-
-Atomic",M,7,7,
-2024-12-22,Alta Badia,Giant Slalom,25,"Janutin Fadri
-
-
-Fischer",M,6,6,
-2024-12-22,Alta Badia,Giant Slalom,26,"Schwarz Marco
-
-
-Atomic",M,5,5,
-2024-12-22,Alta Badia,Giant Slalom,27,"Orecchioni Diego
-
-
-Rossignol",M,4,4,
-2024-12-22,Alta Badia,Giant Slalom,28,"Hansson William
-
-
-Rossignol",M,3,3,
-2024-12-22,Alta Badia,Giant Slalom,29,"Roenngren Mattias
-
-
-Head",M,2,2,
-2024-12-21,Val Gardena / Groeden,Downhill,1,"Odermatt Marco
-
-
-Stoeckli",M,55,100,
-2024-12-21,St. Moritz,Super G,1,"Huetter Cornelia
-
-
-Head",W,55,100,
-2024-12-21,Val Gardena / Groeden,Downhill,2,"Von Allmen Franjo
-
-
-Head",M,48,80,
-2024-12-21,St. Moritz,Super G,2,"Gut-Behrami Lara
-
-
-Head",W,48,80,
-2024-12-21,Val Gardena / Groeden,Downhill,3,"Cochran-Siegle Ryan
-
-
-Head",M,43,60,
-2024-12-21,St. Moritz,Super G,3,"Goggia Sofia
-
-
-Atomic",W,43,60,
-2024-12-21,Val Gardena / Groeden,Downhill,4,"Allegre Nils
-
-
-Salomon",M,38,50,
-2024-12-21,St. Moritz,Super G,4,"Curtoni Elena
-
-
-Head",W,38,50,
-2024-12-21,Val Gardena / Groeden,Downhill,5,"Cater Martin
-
-
-Salomon",M,35,45,
-2024-12-21,St. Moritz,Super G,5,"Brignone Federica
-
-
-Rossignol",W,35,45,
-2024-12-21,Val Gardena / Groeden,Downhill,6,"Eichberger Stefan
-
-
-Head",M,32,40,
-2024-12-21,St. Moritz,Super G,6,"Pirovano Laura
-
-
-Head",W,32,40,
-2024-12-21,Val Gardena / Groeden,Downhill,7,"Baumann Romed
-
-
-Salomon",M,29,36,
-2024-12-21,St. Moritz,Super G,7,"Macuga Lauren
-
-
-Rossignol",W,29,36,
-2024-12-21,St. Moritz,Super G,7,"Ledecka Ester
-
-
-Kaestle",W,29,36,
-2024-12-21,Val Gardena / Groeden,Downhill,8,"Bennett Bryce
-
-
-Fischer",M,26,32,
-2024-12-21,Val Gardena / Groeden,Downhill,9,"Alexander Cameron
-
-
-Rossignol",M,24,29,
-2024-12-21,St. Moritz,Super G,9,"Puchner Mirjam
-
-
-Atomic",W,24,29,
-2024-12-21,Val Gardena / Groeden,Downhill,10,"Rogentin Stefan
-
-
-Fischer",M,22,26,
-2024-12-21,St. Moritz,Super G,10,"Suter Corinne
-
-
-Head",W,22,26,
-2024-12-21,Val Gardena / Groeden,Downhill,11,"Seger Brodie
-
-
-Atomic",M,20,24,
-2024-12-21,St. Moritz,Super G,11,"Bassino Marta
-
-
-Salomon",W,20,24,
-2024-12-21,Val Gardena / Groeden,Downhill,12,"Hemetsberger Daniel
-
-
-Fischer",M,19,22,
-2024-12-21,Val Gardena / Groeden,Downhill,12,"Roesti Lars
-
-
-Stoeckli",M,19,22,
-2024-12-21,St. Moritz,Super G,12,"Robinson Alice
-
-
-Salomon",W,19,22,
-2024-12-21,St. Moritz,Super G,13,"Melesi Roberta
-
-
-Dynastar",W,18,20,
-2024-12-21,Val Gardena / Groeden,Downhill,14,"Casse Mattia
-
-
-Rossignol",M,17,18,
-2024-12-21,St. Moritz,Super G,14,"Vonn Lindsey
-
-
-Head",W,17,18,
-2024-12-21,Val Gardena / Groeden,Downhill,15,"Hrobat Miha
-
-
-Atomic",M,16,16,
-2024-12-21,St. Moritz,Super G,15,"Gisin Michelle
-
-
-Salomon",W,16,16,
-2024-12-21,Val Gardena / Groeden,Downhill,16,"Rieser Stefan
-
-
-Atomic",M,15,15,
-2024-12-21,St. Moritz,Super G,16,"Aicher Emma
-
-
-Head",W,15,15,
-2024-12-21,St. Moritz,Super G,16,"Lie Kajsa Vickhoff
-
-
-Head",W,15,15,
-2024-12-21,Val Gardena / Groeden,Downhill,17,"Vogt Luis
-
-
-Rossignol",M,14,14,
-2024-12-21,Val Gardena / Groeden,Downhill,17,"Hiltbrand Livio
-
-
-Fischer",M,14,14,
-2024-12-21,Val Gardena / Groeden,Downhill,17,"Sarrazin Cyprien
-
-
-Rossignol",M,14,14,
-2024-12-21,St. Moritz,Super G,18,"Stuhec Ilka
-
-
-Kaestle",W,13,13,
-2024-12-21,St. Moritz,Super G,19,"Haaser Ricarda
-
-
-Fischer",W,12,12,
-2024-12-21,St. Moritz,Super G,19,"Venier Stephanie
-
-
-Head",W,12,12,
-2024-12-21,Val Gardena / Groeden,Downhill,20,"Monsen Felix
-
-
-Atomic",M,11,11,
-2024-12-21,Val Gardena / Groeden,Downhill,20,"Theaux Adrien
-
-
-Salomon",M,11,11,
-2024-12-21,St. Moritz,Super G,21,"Durrer Delia
-
-
-Head",W,10,10,
-2024-12-21,Val Gardena / Groeden,Downhill,22,"Striedinger Otmar
-
-
-Salomon",M,9,9,
-2024-12-21,St. Moritz,Super G,22,"Weidle-Winkelmann Kira
-
-
-Rossignol",W,9,9,
-2024-12-21,Val Gardena / Groeden,Downhill,23,"Arvidsson Erik
-
-
-Head",M,8,8,
-2024-12-21,St. Moritz,Super G,23,"Cerutti Camille
-
-
-Atomic",W,8,8,
-2024-12-21,Val Gardena / Groeden,Downhill,24,"Mettler Josua
-
-
-Nordica",M,7,7,
-2024-12-21,St. Moritz,Super G,24,"Raedler Ariane
-
-
-Head",W,7,7,
-2024-12-21,Val Gardena / Groeden,Downhill,25,"Paris Dominik
-
-
-Nordica",M,6,6,
-2024-12-21,St. Moritz,Super G,25,"Mangan Tricia
-
-
-Head",W,6,6,
-2024-12-21,Val Gardena / Groeden,Downhill,26,"Zabystran Jan
-
-
-Kaestle",M,5,5,
-2024-12-21,St. Moritz,Super G,26,"Zenere Asja
-
-
-Salomon",W,5,5,
-2024-12-21,Val Gardena / Groeden,Downhill,27,"Pfiffner Marco
-
-
-Salomon",M,4,4,
-2024-12-21,Val Gardena / Groeden,Downhill,27,"Innerhofer Christof
-
-
-Rossignol",M,4,4,
-2024-12-21,St. Moritz,Super G,27,"Schmitt Janine
-
-
-Kaestle",W,4,4,
-2024-12-21,St. Moritz,Super G,28,"Grill Lisa
-
-
-Head",W,3,3,
-2024-12-21,St. Moritz,Super G,28,"Ager Christina
-
-
-Atomic",W,3,3,
-2024-12-21,Val Gardena / Groeden,Downhill,29,"Jocher Simon
-
-
-Head",M,2,2,
-2024-12-21,Val Gardena / Groeden,Downhill,29,"Hacker Felix
-
-
-Atomic",M,2,2,
-2024-12-21,Val Gardena / Groeden,Downhill,29,"Murisier Justin
-
-
-Head",M,2,2,
-2024-12-21,St. Moritz,Super G,30,"Cashman Keely
-
-
-Head",W,1,1,
-2024-12-20,Val Gardena / Groeden,Super G,1,"Casse Mattia
-
-
-Rossignol",M,55,100,
-2024-12-20,Val Gardena / Groeden,Super G,2,"Goldberg Jared
-
-
-Rossignol",M,48,80,
-2024-12-20,Val Gardena / Groeden,Super G,3,"Odermatt Marco
-
-
-Stoeckli",M,43,60,
-2024-12-20,Val Gardena / Groeden,Super G,4,"Moeller Fredrik
-
-
-Atomic",M,38,50,
-2024-12-20,Val Gardena / Groeden,Super G,5,"Rogentin Stefan
-
-
-Fischer",M,35,45,
-2024-12-20,Val Gardena / Groeden,Super G,5,"Alexander Cameron
-
-
-Rossignol",M,35,45,
-2024-12-20,Val Gardena / Groeden,Super G,7,"Allegre Nils
-
-
-Salomon",M,29,36,
-2024-12-20,Val Gardena / Groeden,Super G,8,"Roesti Lars
-
-
-Stoeckli",M,26,32,
-2024-12-20,Val Gardena / Groeden,Super G,9,"Giezendanner Blaise
-
-
-Atomic",M,24,29,
-2024-12-20,Val Gardena / Groeden,Super G,10,"Paris Dominik
-
-
-Nordica",M,22,26,
-2024-12-20,Val Gardena / Groeden,Super G,11,"Zazzi Pietro
-
-
-Salomon",M,20,24,
-2024-12-20,Val Gardena / Groeden,Super G,12,"Kriechmayr Vincent
-
-
-Head",M,19,22,
-2024-12-20,Val Gardena / Groeden,Super G,13,"Crawford James
-
-
-Head",M,18,20,
-2024-12-20,Val Gardena / Groeden,Super G,14,"Babinsky Stefan
-
-
-Head",M,17,18,
-2024-12-20,Val Gardena / Groeden,Super G,15,"Murisier Justin
-
-
-Head",M,16,16,
-2024-12-20,Val Gardena / Groeden,Super G,16,"Hrobat Miha
-
-
-Atomic",M,15,15,
-2024-12-20,Val Gardena / Groeden,Super G,16,"Vogt Luis
-
-
-Rossignol",M,15,15,
-2024-12-20,Val Gardena / Groeden,Super G,16,"Molteni Nicolo
-
-
-Head",M,15,15,
-2024-12-20,Val Gardena / Groeden,Super G,19,"Bailet Matthieu
-
-
-Head",M,12,12,
-2024-12-20,Val Gardena / Groeden,Super G,20,"Cochran-Siegle Ryan
-
-
-Head",M,11,11,
-2024-12-20,Val Gardena / Groeden,Super G,21,"Theaux Adrien
-
-
-Salomon",M,10,10,
-2024-12-20,Val Gardena / Groeden,Super G,21,"Monney Alexis
-
-
-Stoeckli",M,10,10,
-2024-12-20,Val Gardena / Groeden,Super G,23,"Von Allmen Franjo
-
-
-Head",M,8,8,
-2024-12-20,Val Gardena / Groeden,Super G,24,"Striedinger Otmar
-
-
-Salomon",M,7,7,
-2024-12-20,Val Gardena / Groeden,Super G,25,"Lehto Elian
-
-
-Fischer",M,6,6,
-2024-12-20,Val Gardena / Groeden,Super G,26,"Seger Brodie
-
-
-Atomic",M,5,5,
-2024-12-20,Val Gardena / Groeden,Super G,27,"Eichberger Stefan
-
-
-Head",M,4,4,
-2024-12-20,Val Gardena / Groeden,Super G,28,"Feurstein Lukas
-
-
-Head",M,3,3,
-2024-12-20,Val Gardena / Groeden,Super G,29,"Cater Martin
-
-
-Salomon",M,2,2,
-2024-12-20,Val Gardena / Groeden,Super G,30,"Franzoni Giovanni
-
-
-Rossignol",M,1,1,
-2024-12-15,Beaver Creek,Super G,1,"Goggia Sofia
-
-
-Atomic",W,55,100,
-2024-12-15,Val d'Isere,Slalom,1,"Kristoffersen Henrik
-
-
-Van Deer Racing",M,55,100,
-2024-12-15,Beaver Creek,Super G,2,"Gut-Behrami Lara
-
-
-Head",W,48,80,
-2024-12-15,Val d'Isere,Slalom,2,"Mcgrath Atle Lie
-
-
-Head",M,48,80,
-2024-12-15,Beaver Creek,Super G,3,"Raedler Ariane
-
-
-Head",W,43,60,
-2024-12-15,Val d'Isere,Slalom,3,"Meillard Loic
-
-
-Rossignol",M,43,60,
-2024-12-15,Beaver Creek,Super G,4,"Huetter Cornelia
-
-
-Head",W,38,50,
-2024-12-15,Val d'Isere,Slalom,4,"Pinheiro Braathen Lucas
-
-
-Atomic",M,38,50,
-2024-12-15,Val d'Isere,Slalom,4,"Feller Manuel
-
-
-Atomic",M,38,50,
-2024-12-15,Beaver Creek,Super G,5,"Brignone Federica
-
-
-Rossignol",W,35,45,
-2024-12-15,Beaver Creek,Super G,6,"Bassino Marta
-
-
-Salomon",W,32,40,
-2024-12-15,Val d'Isere,Slalom,6,"Kolega Samuel
-
-
-Rossignol",M,32,40,
-2024-12-15,Beaver Creek,Super G,7,"Lie Kajsa Vickhoff
-
-
-Head",W,29,36,
-2024-12-15,Val d'Isere,Slalom,7,"Kastlunger Tobias
-
-
-Head",M,29,36,
-2024-12-15,Beaver Creek,Super G,8,"Miradoli Romane
-
-
-Dynastar",W,26,32,
-2024-12-15,Val d'Isere,Slalom,8,"Haugan Timon
-
-
-Van Deer Racing",M,26,32,
-2024-12-15,Beaver Creek,Super G,9,"Gisin Michelle
-
-
-Salomon",W,24,29,
-2024-12-15,Beaver Creek,Super G,9,"Curtoni Elena
-
-
-Head",W,24,29,
-2024-12-15,Val d'Isere,Slalom,9,"Ryding Dave
-
-
-Head",M,24,29,
-2024-12-15,Val d'Isere,Slalom,10,"Vinatzer Alex
-
-
-Atomic",M,22,26,
-2024-12-15,Beaver Creek,Super G,11,"Melesi Roberta
-
-
-Dynastar",W,20,24,
-2024-12-15,Val d'Isere,Slalom,11,"Marchant Armand
-
-
-Head",M,20,24,
-2024-12-15,Beaver Creek,Super G,12,"Macuga Lauren
-
-
-Rossignol",W,19,22,
-2024-12-15,Val d'Isere,Slalom,12,"Taylor Laurie
-
-
-Head",M,19,22,
-2024-12-15,Beaver Creek,Super G,13,"Venier Stephanie
-
-
-Head",W,18,20,
-2024-12-15,Val d'Isere,Slalom,13,"Pertl Adrian
-
-
-Atomic",M,18,20,
-2024-12-15,Beaver Creek,Super G,14,"Ager Christina
-
-
-Atomic",W,17,18,
-2024-12-15,Val d'Isere,Slalom,14,"Strolz Johannes
-
-
-Head",M,17,18,
-2024-12-15,Beaver Creek,Super G,15,"Puchner Mirjam
-
-
-Atomic",W,16,16,
-2024-12-15,Val d'Isere,Slalom,15,"Matt Michael
-
-
-Blizzard",M,16,16,
-2024-12-15,Beaver Creek,Super G,16,"Ledecka Ester
-
-
-Kaestle",W,15,15,
-2024-12-15,Val d'Isere,Slalom,16,"Muffat-Jeandet Victor
-
-
-Salomon",M,15,15,
-2024-12-15,Beaver Creek,Super G,17,"Clement Karen
-
-
-Head",W,14,14,
-2024-12-15,Val d'Isere,Slalom,17,"Gross Stefano
-
-
-Voelkl",M,14,14,
-2024-12-15,Beaver Creek,Super G,18,"Pirovano Laura
-
-
-Head",W,13,13,
-2024-12-15,Val d'Isere,Slalom,18,"Aerni Luca
-
-
-Fischer",M,13,13,
-2024-12-15,Val d'Isere,Slalom,18,"Gstrein Fabio
-
-
-Atomic",M,13,13,
-2024-12-15,Beaver Creek,Super G,19,"Suter Corinne
-
-
-Head",W,12,12,
-2024-12-15,Beaver Creek,Super G,20,"Stuhec Ilka
-
-
-Kaestle",W,11,11,
-2024-12-15,Val d'Isere,Slalom,20,"Yule Daniel
-
-
-Fischer",M,11,11,
-2024-12-15,Beaver Creek,Super G,21,"Cashman Keely
-
-
-Head",W,10,10,
-2024-12-15,Val d'Isere,Slalom,21,"Seymour Jett
-
-
-Fischer",M,10,10,
-2024-12-15,Beaver Creek,Super G,22,"Haehlen Joana
-
-
-Atomic",W,9,9,
-2024-12-15,Val d'Isere,Slalom,22,"Laine Tormis
-
-
-Voelkl",M,9,9,
-2024-12-15,Beaver Creek,Super G,23,"Egger Magdalena
-
-
-Head",W,8,8,
-2024-12-15,Val d'Isere,Slalom,23,"Zubcic Filip
-
-
-Atomic",M,8,8,
-2024-12-15,Beaver Creek,Super G,24,"Bernardi Vicky
-
-
-Nordica",W,7,7,
-2024-12-15,Beaver Creek,Super G,25,"Suter Jasmina
-
-
-Stoeckli",W,6,6,
-2024-12-15,Beaver Creek,Super G,26,"Robinson Alice
-
-
-Salomon",W,5,5,
-2024-12-15,Beaver Creek,Super G,27,"Gauche Laura
-
-
-Head",W,4,4,
-2024-12-15,Beaver Creek,Super G,28,"Johnson Breezy
-
-
-Atomic",W,3,3,
-2024-12-15,Beaver Creek,Super G,28,"Aicher Emma
-
-
-Head",W,3,3,
-2024-12-15,Beaver Creek,Super G,30,"Grill Lisa
-
-
-Head",W,1,1,
-2024-12-14,Beaver Creek,Downhill,1,"Huetter Cornelia
-
-
-Head",W,55,100,
-2024-12-14,Val d'Isere,Giant Slalom,1,"Odermatt Marco
-
-
-Stoeckli",M,55,100,
-2024-12-14,Beaver Creek,Downhill,2,"Goggia Sofia
-
-
-Atomic",W,48,80,
-2024-12-14,Val d'Isere,Giant Slalom,2,"Feurstein Patrick
-
-
-Rossignol",M,48,80,
-2024-12-14,Beaver Creek,Downhill,3,"Gut-Behrami Lara
-
-
-Head",W,43,60,
-2024-12-14,Val d'Isere,Giant Slalom,3,"Brennsteiner Stefan
-
-
-Fischer",M,43,60,
-2024-12-14,Beaver Creek,Downhill,4,"Macuga Lauren
-
-
-Rossignol",W,38,50,
-2024-12-14,Val d'Isere,Giant Slalom,4,"Aerni Luca
-
-
-Fischer",M,38,50,
-2024-12-14,Beaver Creek,Downhill,5,"Haaser Ricarda
-
-
-Fischer",W,35,45,
-2024-12-14,Val d'Isere,Giant Slalom,5,"Kristoffersen Henrik
-
-
-Van Deer Racing",M,35,45,
-2024-12-14,Beaver Creek,Downhill,6,"Ledecka Ester
-
-
-Kaestle",W,32,40,
-2024-12-14,Val d'Isere,Giant Slalom,6,"De Aliprandini Luca
-
-
-Salomon",M,32,40,
-2024-12-14,Beaver Creek,Downhill,7,"Bassino Marta
-
-
-Salomon",W,29,36,
-2024-12-14,Val d'Isere,Giant Slalom,7,"Verdu Joan
-
-
-Head",M,29,36,
-2024-12-14,Beaver Creek,Downhill,8,"Gisin Michelle
-
-
-Salomon",W,26,32,
-2024-12-14,Val d'Isere,Giant Slalom,8,"Kranjec Zan
-
-
-Rossignol",M,26,32,
-2024-12-14,Beaver Creek,Downhill,9,"Brignone Federica
-
-
-Rossignol",W,24,29,
-2024-12-14,Val d'Isere,Giant Slalom,9,"Meillard Loic
-
-
-Rossignol",M,24,29,
-2024-12-14,Beaver Creek,Downhill,10,"Stuhec Ilka
-
-
-Kaestle",W,22,26,
-2024-12-14,Val d'Isere,Giant Slalom,10,"Zubcic Filip
-
-
-Atomic",M,22,26,
-2024-12-14,Beaver Creek,Downhill,11,"Pirovano Laura
-
-
-Head",W,20,24,
-2024-12-14,Val d'Isere,Giant Slalom,11,"Caviezel Gino
-
-
-Atomic",M,20,24,
-2024-12-14,Beaver Creek,Downhill,12,"Lie Kajsa Vickhoff
-
-
-Head",W,19,22,
-2024-12-14,Val d'Isere,Giant Slalom,12,"Haugan Timon
-
-
-Van Deer Racing",M,19,22,
-2024-12-14,Beaver Creek,Downhill,13,"Johnson Breezy
-
-
-Atomic",W,18,20,
-2024-12-14,Val d'Isere,Giant Slalom,13,"Borsotti Giovanni
-
-
-Rossignol",M,18,20,
-2024-12-14,Beaver Creek,Downhill,14,"Ming-Nufer Priska
-
-
-Kaestle",W,17,18,
-2024-12-14,Val d'Isere,Giant Slalom,14,"Laine Tormis
-
-
-Voelkl",M,17,18,
-2024-12-14,Beaver Creek,Downhill,15,"Puchner Mirjam
-
-
-Atomic",W,16,16,
-2024-12-14,Val d'Isere,Giant Slalom,15,"Schmid Alexander
-
-
-Head",M,16,16,
-2024-12-14,Beaver Creek,Downhill,16,"Suter Jasmina
-
-
-Stoeckli",W,15,15,
-2024-12-14,Val d'Isere,Giant Slalom,16,"Windingstad Rasmus
-
-
-Atomic",M,15,15,
-2024-12-14,Beaver Creek,Downhill,17,"Venier Stephanie
-
-
-Head",W,14,14,
-2024-12-14,Val d'Isere,Giant Slalom,17,"Radamus River
-
-
-Rossignol",M,14,14,
-2024-12-14,Beaver Creek,Downhill,18,"Melesi Roberta
-
-
-Dynastar",W,13,13,
-2024-12-14,Val d'Isere,Giant Slalom,18,"Ford Tommy
-
-
-Head",M,13,13,
-2024-12-14,Beaver Creek,Downhill,19,"Miradoli Romane
-
-
-Dynastar",W,12,12,
-2024-12-14,Val d'Isere,Giant Slalom,19,"Gratz Fabian
-
-
-Fischer",M,12,12,
-2024-12-14,Beaver Creek,Downhill,20,"Ager Christina
-
-
-Atomic",W,11,11,
-2024-12-14,Val d'Isere,Giant Slalom,20,"Stockinger Jonas
-
-
-Voelkl",M,11,11,
-2024-12-14,Beaver Creek,Downhill,21,"Suter Corinne
-
-
-Head",W,10,10,
-2024-12-14,Val d'Isere,Giant Slalom,21,"Mcgrath Atle Lie
-
-
-Head",M,10,10,
-2024-12-14,Beaver Creek,Downhill,22,"Ortlieb Nina
-
-
-Head",W,9,9,
-2024-12-14,Val d'Isere,Giant Slalom,22,"Favrot Thibaut
-
-
-Dynastar",M,9,9,
-2024-12-14,Beaver Creek,Downhill,23,"Raedler Ariane
-
-
-Head",W,8,8,
-2024-12-14,Val d'Isere,Giant Slalom,23,"Elezi Cannaferina Alban
-
-
-Rossignol",M,8,8,
-2024-12-14,Beaver Creek,Downhill,24,"Curtoni Elena
-
-
-Head",W,7,7,
-2024-12-14,Val d'Isere,Giant Slalom,24,"Zingerle Hannes
-
-
-Rossignol",M,7,7,
-2024-12-14,Beaver Creek,Downhill,25,"Monsen Marte
-
-
-Rossignol",W,6,6,
-2024-12-14,Beaver Creek,Downhill,25,"Muzaferija Elvedina
-
-
-Atomic",W,6,6,
-2024-12-14,Val d'Isere,Giant Slalom,25,"Anguenot Leo
-
-
-Rossignol",M,6,6,
-2024-12-14,Val d'Isere,Giant Slalom,25,"Tumler Thomas
-
-
-Stoeckli",M,6,6,
-2024-12-14,Beaver Creek,Downhill,27,"Delago Nadia
-
-
-Atomic",W,4,4,
-2024-12-14,Val d'Isere,Giant Slalom,27,"Maes Sam
-
-
-Voelkl",M,4,4,
-2024-12-14,Beaver Creek,Downhill,28,"Gauche Laura
-
-
-Head",W,3,3,
-2024-12-14,Val d'Isere,Giant Slalom,28,"Pinturault Alexis
-
-
-Head",M,3,3,
-2024-12-14,Beaver Creek,Downhill,29,"Wiles Jacqueline
-
-
-Rossignol",W,2,2,
-2024-12-14,Beaver Creek,Downhill,30,"Durrer Delia
-
-
-Head",W,1,1,
-2024-12-08,Beaver Creek,Giant Slalom,1,"Tumler Thomas
-
-
-Stoeckli",M,55,100,
-2024-12-08,Beaver Creek,Giant Slalom,2,"Pinheiro Braathen Lucas
-
-
-Atomic",M,48,80,
-2024-12-08,Beaver Creek,Giant Slalom,3,"Kranjec Zan
-
-
-Rossignol",M,43,60,
-2024-12-08,Beaver Creek,Giant Slalom,4,"Mcgrath Atle Lie
-
-
-Head",M,38,50,
-2024-12-08,Beaver Creek,Giant Slalom,5,"Kristoffersen Henrik
-
-
-Van Deer Racing",M,35,45,
-2024-12-08,Beaver Creek,Giant Slalom,6,"Zubcic Filip
-
-
-Atomic",M,32,40,
-2024-12-08,Beaver Creek,Giant Slalom,7,"Radamus River
-
-
-Rossignol",M,29,36,
-2024-12-08,Beaver Creek,Giant Slalom,8,"De Aliprandini Luca
-
-
-Salomon",M,26,32,
-2024-12-08,Beaver Creek,Giant Slalom,9,"Steen Olsen Alexander
-
-
-Rossignol",M,24,29,
-2024-12-08,Beaver Creek,Giant Slalom,10,"Brennsteiner Stefan
-
-
-Fischer",M,22,26,
-2024-12-08,Beaver Creek,Giant Slalom,11,"Favrot Thibaut
-
-
-Dynastar",M,20,24,
-2024-12-08,Beaver Creek,Giant Slalom,12,"Schmid Alexander
-
-
-Head",M,19,22,
-2024-12-08,Beaver Creek,Giant Slalom,13,"Meillard Loic
-
-
-Rossignol",M,18,20,
-2024-12-08,Beaver Creek,Giant Slalom,14,"Anguenot Leo
-
-
-Rossignol",M,17,18,
-2024-12-08,Beaver Creek,Giant Slalom,15,"Verdu Joan
-
-
-Head",M,16,16,
-2024-12-08,Beaver Creek,Giant Slalom,16,"Pinturault Alexis
-
-
-Head",M,15,15,
-2024-12-08,Beaver Creek,Giant Slalom,17,"Caviezel Gino
-
-
-Atomic",M,14,14,
-2024-12-08,Beaver Creek,Giant Slalom,18,"Maes Sam
-
-
-Voelkl",M,13,13,
-2024-12-08,Beaver Creek,Giant Slalom,19,"Gratz Fabian
-
-
-Fischer",M,12,12,
-2024-12-08,Beaver Creek,Giant Slalom,20,"Haaser Raphael
-
-
-Fischer",M,11,11,
-2024-12-08,Beaver Creek,Giant Slalom,21,"Janutin Fadri
-
-
-Fischer",M,10,10,
-2024-12-08,Beaver Creek,Giant Slalom,22,"Luitz Stefan
-
-
-Voelkl",M,9,9,
-2024-12-08,Beaver Creek,Giant Slalom,23,"Vinatzer Alex
-
-
-Atomic",M,8,8,
-2024-12-08,Beaver Creek,Giant Slalom,24,"Stockinger Jonas
-
-
-Voelkl",M,7,7,
-2024-12-08,Beaver Creek,Giant Slalom,25,"Hansson William
-
-
-Rossignol",M,6,6,
-2024-12-08,Beaver Creek,Giant Slalom,26,"Haugan Timon
-
-
-Van Deer Racing",M,5,5,
-2024-12-07,Beaver Creek,Super G,1,"Odermatt Marco
-
-
-Stoeckli",M,55,100,
-2024-12-07,Beaver Creek,Super G,2,"Sarrazin Cyprien
-
-
-Rossignol",M,48,80,
-2024-12-07,Beaver Creek,Super G,3,"Feurstein Lukas
-
-
-Head",M,43,60,
-2024-12-07,Beaver Creek,Super G,4,"Franzoni Giovanni
-
-
-Rossignol",M,38,50,
-2024-12-07,Beaver Creek,Super G,4,"Moeller Fredrik
-
-
-Atomic",M,38,50,
-2024-12-07,Beaver Creek,Super G,6,"Kriechmayr Vincent
-
-
-Head",M,32,40,
-2024-12-07,Beaver Creek,Super G,7,"Caviezel Gino
-
-
-Atomic",M,29,36,
-2024-12-07,Beaver Creek,Super G,8,"Radamus River
-
-
-Rossignol",M,26,32,
-2024-12-07,Beaver Creek,Super G,9,"Danklmaier Daniel
-
-
-Atomic",M,24,29,
-2024-12-07,Beaver Creek,Super G,10,"Pinturault Alexis
-
-
-Head",M,22,26,
-2024-12-07,Beaver Creek,Super G,11,"Cochran-Siegle Ryan
-
-
-Head",M,20,24,
-2024-12-07,Beaver Creek,Super G,12,"Zabystran Jan
-
-
-Kaestle",M,19,22,
-2024-12-07,Beaver Creek,Super G,13,"Loriot Florian
-
-
-Rossignol",M,18,20,
-2024-12-07,Beaver Creek,Super G,14,"Eichberger Stefan
-
-
-Head",M,17,18,
-2024-12-07,Beaver Creek,Super G,15,"Paris Dominik
-
-
-Nordica",M,16,16,
-2024-12-07,Beaver Creek,Super G,16,"Casse Mattia
-
-
-Rossignol",M,15,15,
-2024-12-07,Beaver Creek,Super G,17,"Monney Alexis
-
-
-Stoeckli",M,14,14,
-2024-12-07,Beaver Creek,Super G,17,"Murisier Justin
-
-
-Head",M,14,14,
-2024-12-07,Beaver Creek,Super G,19,"Negomir Kyle
-
-
-Atomic",M,12,12,
-2024-12-07,Beaver Creek,Super G,20,"Bailet Matthieu
-
-
-Head",M,11,11,
-2024-12-07,Beaver Creek,Super G,21,"Seger Brodie
-
-
-Atomic",M,10,10,
-2024-12-07,Beaver Creek,Super G,21,"Baumann Romed
-
-
-Salomon",M,10,10,
-2024-12-07,Beaver Creek,Super G,23,"Striedinger Otmar
-
-
-Salomon",M,8,8,
-2024-12-07,Beaver Creek,Super G,24,"Giezendanner Blaise
-
-
-Atomic",M,7,7,
-2024-12-07,Beaver Creek,Super G,25,"Hemetsberger Daniel
-
-
-Fischer",M,6,6,
-2024-12-07,Beaver Creek,Super G,26,"Rogentin Stefan
-
-
-Fischer",M,5,5,
-2024-12-07,Beaver Creek,Super G,26,"Meillard Loic
-
-
-Rossignol",M,5,5,
-2024-12-07,Beaver Creek,Super G,28,"Kohler Marco
-
-
-Stoeckli",M,3,3,
-2024-12-07,Beaver Creek,Super G,28,"Bennett Bryce
-
-
-Fischer",M,3,3,
-2024-12-07,Beaver Creek,Super G,30,"Alphand Nils
-
-
-Head",M,1,1,
-2024-12-06,Beaver Creek,Downhill,1,"Murisier Justin
-
-
-Head",M,55,100,
-2024-12-06,Beaver Creek,Downhill,2,"Odermatt Marco
-
-
-Stoeckli",M,48,80,
-2024-12-06,Beaver Creek,Downhill,3,"Hrobat Miha
-
-
-Atomic",M,43,60,
-2024-12-06,Beaver Creek,Downhill,4,"Crawford James
-
-
-Head",M,38,50,
-2024-12-06,Beaver Creek,Downhill,5,"Kriechmayr Vincent
-
-
-Head",M,35,45,
-2024-12-06,Beaver Creek,Downhill,6,"Bennett Bryce
-
-
-Fischer",M,32,40,
-2024-12-06,Beaver Creek,Downhill,7,"Giezendanner Blaise
-
-
-Atomic",M,29,36,
-2024-12-06,Beaver Creek,Downhill,8,"Allegre Nils
-
-
-Salomon",M,26,32,
-2024-12-06,Beaver Creek,Downhill,9,"Sarrazin Cyprien
-
-
-Rossignol",M,24,29,
-2024-12-06,Beaver Creek,Downhill,10,"Seger Brodie
-
-
-Atomic",M,22,26,
-2024-12-06,Beaver Creek,Downhill,11,"Zabystran Jan
-
-
-Kaestle",M,20,24,
-2024-12-06,Beaver Creek,Downhill,12,"Cochran-Siegle Ryan
-
-
-Head",M,19,22,
-2024-12-06,Beaver Creek,Downhill,13,"Rogentin Stefan
-
-
-Fischer",M,18,20,
-2024-12-06,Beaver Creek,Downhill,13,"Monney Alexis
-
-
-Stoeckli",M,18,20,
-2024-12-06,Beaver Creek,Downhill,15,"Kohler Marco
-
-
-Stoeckli",M,16,16,
-2024-12-06,Beaver Creek,Downhill,16,"Muzaton Maxence
-
-
-Rossignol",M,15,15,
-2024-12-06,Beaver Creek,Downhill,17,"Babinsky Stefan
-
-
-Head",M,14,14,
-2024-12-06,Beaver Creek,Downhill,18,"Roesti Lars
-
-
-Stoeckli",M,13,13,
-2024-12-06,Beaver Creek,Downhill,19,"Paris Dominik
-
-
-Nordica",M,12,12,
-2024-12-06,Beaver Creek,Downhill,20,"Eichberger Stefan
-
-
-Head",M,11,11,
-2024-12-06,Beaver Creek,Downhill,21,"Morse Sam
-
-
-Fischer",M,10,10,
-2024-12-06,Beaver Creek,Downhill,22,"Sejersted Adrian Smiseth
-
-
-Atomic",M,9,9,
-2024-12-06,Beaver Creek,Downhill,23,"Schieder Florian
-
-
-Atomic",M,8,8,
-2024-12-06,Beaver Creek,Downhill,24,"Hemetsberger Daniel
-
-
-Fischer",M,7,7,
-2024-12-06,Beaver Creek,Downhill,25,"Haaser Raphael
-
-
-Fischer",M,6,6,
-2024-12-06,Beaver Creek,Downhill,26,"Casse Mattia
-
-
-Rossignol",M,5,5,
-2024-12-06,Beaver Creek,Downhill,27,"Franzoni Giovanni
-
-
-Rossignol",M,4,4,
-2024-12-06,Beaver Creek,Downhill,28,"Von Allmen Franjo
-
-
-Head",M,3,3,
-2024-12-06,Beaver Creek,Downhill,29,"Alphand Nils
-
-
-Head",M,2,2,
-2024-12-06,Beaver Creek,Downhill,29,"Striedinger Otmar
-
-
-Salomon",M,2,2,
-2024-12-01,Killington,Slalom,1,"Rast Camille
-
-
-Head",W,55,100,
-2024-12-01,Killington,Slalom,2,"Swenn Larsson Anna
-
-
-Head",W,48,80,
-2024-12-01,Killington,Slalom,2,"Holdener Wendy
-
-
-Head",W,48,80,
-2024-12-01,Killington,Slalom,4,"Duerr Lena
-
-
-Head",W,38,50,
-2024-12-01,Killington,Slalom,5,"Meillard Melanie
-
-
-Rossignol",W,35,45,
-2024-12-01,Killington,Slalom,6,"Ljutic Zrinka
-
-
-Atomic",W,32,40,
-2024-12-01,Killington,Slalom,7,"St-Germain Laurence
-
-
-Rossignol",W,29,36,
-2024-12-01,Killington,Slalom,8,"Colturi Lara
-
-
-Blizzard",W,26,32,
-2024-12-01,Killington,Slalom,9,"Liensberger Katharina
-
-
-Rossignol",W,24,29,
-2024-12-01,Killington,Slalom,10,"Slokar Andreja
-
-
-Nordica",W,22,26,
-2024-12-01,Killington,Slalom,11,"Truppe Katharina
-
-
-Voelkl",W,20,24,
-2024-12-01,Killington,Slalom,12,"Hector Sara
-
-
-Head",W,19,22,
-2024-12-01,Killington,Slalom,13,"Huber Katharina
-
-
-Fischer",W,18,20,
-2024-12-01,Killington,Slalom,14,"Holtmann Mina Fuerst
-
-
-Atomic",W,17,18,
-2024-12-01,Killington,Slalom,15,"Hoepli Aline
-
-
-Head",W,16,16,
-2024-12-01,Killington,Slalom,16,"Collomb Giorgia
-
-
-Rossignol",W,15,15,
-2024-12-01,Killington,Slalom,17,"Lamure Marie
-
-
-Rossignol",W,14,14,
-2024-12-01,Killington,Slalom,18,"Dvornik Neja
-
-
-Fischer",W,13,13,
-2024-12-01,Killington,Slalom,19,"Gisin Michelle
-
-
-Salomon",W,12,12,
-2024-12-01,Killington,Slalom,20,"Pogneaux Chiara
-
-
-Rossignol",W,11,11,
-2024-12-01,Killington,Slalom,21,"Aronsson Elfman Hanna
-
-
-Rossignol",W,10,10,
-2024-12-01,Killington,Slalom,22,"Hoerhager Lisa
-
-
-Atomic",W,9,9,
-2024-12-01,Killington,Slalom,23,"Hilzinger Jessica
-
-
-Head",W,8,8,
-2024-12-01,Killington,Slalom,24,"Oehlund Cornelia
-
-
-Head",W,7,7,
-2024-12-01,Killington,Slalom,25,"Gritsch Franziska
-
-
-Blizzard",W,6,6,
-2024-12-01,Killington,Slalom,26,"Breche Clarisse
-
-
-Rossignol",W,5,5,
-2024-11-30,Killington,Giant Slalom,1,"Hector Sara
-
-
-Head",W,55,100,
-2024-11-30,Killington,Giant Slalom,2,"Ljutic Zrinka
-
-
-Atomic",W,48,80,
-2024-11-30,Killington,Giant Slalom,3,"Rast Camille
-
-
-Head",W,43,60,
-2024-11-30,Killington,Giant Slalom,4,"Stjernesund Thea Louise
-
-
-Rossignol",W,38,50,
-2024-11-30,Killington,Giant Slalom,5,"Moltzan Paula
-
-
-Rossignol",W,35,45,
-2024-11-30,Killington,Giant Slalom,6,"O Brien Nina
-
-
-Rossignol",W,32,40,
-2024-11-30,Killington,Giant Slalom,7,"Dvornik Neja
-
-
-Fischer",W,29,36,
-2024-11-30,Killington,Giant Slalom,8,"Haaser Ricarda
-
-
-Fischer",W,26,32,
-2024-11-30,Killington,Giant Slalom,9,"Colturi Lara
-
-
-Blizzard",W,24,29,
-2024-11-30,Killington,Giant Slalom,9,"Grenier Valerie
-
-
-Rossignol",W,24,29,
-2024-11-30,Killington,Giant Slalom,11,"Gasienica-Daniel Maryna
-
-
-Atomic",W,20,24,
-2024-11-30,Killington,Giant Slalom,12,"Holdener Wendy
-
-
-Head",W,19,22,
-2024-11-30,Killington,Giant Slalom,13,"Hensien Katie
-
-
-Rossignol",W,18,20,
-2024-11-30,Killington,Giant Slalom,13,"Gut-Behrami Lara
-
-
-Head",W,18,20,
-2024-11-30,Killington,Giant Slalom,15,"Alphand Estelle
-
-
-Head",W,16,16,
-2024-11-30,Killington,Giant Slalom,16,"Breche Clarisse
-
-
-Rossignol",W,15,15,
-2024-11-30,Killington,Giant Slalom,17,"Bucik Jogan Ana
-
-
-Salomon",W,14,14,
-2024-11-30,Killington,Giant Slalom,18,"Zenere Asja
-
-
-Salomon",W,13,13,
-2024-11-30,Killington,Giant Slalom,19,"Collomb Giorgia
-
-
-Rossignol",W,12,12,
-2024-11-30,Killington,Giant Slalom,19,"Aicher Emma
-
-
-Head",W,12,12,
-2024-11-30,Killington,Giant Slalom,21,"Ghisalberti Ilaria
-
-
-Head",W,10,10,
-2024-11-30,Killington,Giant Slalom,22,"Wild Simone
-
-
-Fischer",W,9,9,
-2024-11-30,Killington,Giant Slalom,23,"Bocock Elisabeth
-
-
-Rossignol",W,8,8,
-2024-11-30,Killington,Giant Slalom,24,"Lysdahl Kristin
-
-
-Rossignol",W,7,7,
-2024-11-30,Killington,Giant Slalom,25,"Gisin Michelle
-
-
-Salomon",W,6,6,
-2024-11-30,Killington,Giant Slalom,26,"Della Mea Lara
-
-
-Fischer",W,5,5,
-2024-11-30,Killington,Giant Slalom,27,"Richardson Britt
-
-
-Dynastar",W,4,4,
-2024-11-24,Gurgl,Slalom,1,"Noel Clement
-
-
-Dynastar",M,55,100,
-2024-11-24,Gurgl,Slalom,2,"Jakobsen Kristoffer
-
-
-Fischer",M,48,80,
-2024-11-24,Gurgl,Slalom,3,"Mcgrath Atle Lie
-
-
-Head",M,43,60,
-2024-11-24,Gurgl,Slalom,4,"Amiez Steven
-
-
-Rossignol",M,38,50,
-2024-11-24,Gurgl,Slalom,5,"Meillard Loic
-
-
-Rossignol",M,35,45,
-2024-11-24,Gurgl,Slalom,6,"Kristoffersen Henrik
-
-
-Van Deer Racing",M,32,40,
-2024-11-24,Gurgl,Slalom,7,"Ryding Dave
-
-
-Head",M,29,36,
-2024-11-24,Gurgl,Slalom,8,"Hallberg Eduard
-
-
-Fischer",M,26,32,
-2024-11-24,Gurgl,Slalom,9,"Gstrein Fabio
-
-
-Atomic",M,24,29,
-2024-11-24,Gurgl,Slalom,9,"Haugan Timon
-
-
-Van Deer Racing",M,24,29,
-2024-11-24,Gurgl,Slalom,11,"Marchant Armand
-
-
-Head",M,20,24,
-2024-11-24,Gurgl,Slalom,12,"Raschner Dominik
-
-
-Fischer",M,19,22,
-2024-11-24,Gurgl,Slalom,13,"Yule Daniel
-
-
-Fischer",M,18,20,
-2024-11-24,Gurgl,Slalom,14,"Rassat Paco
-
-
-Head",M,17,18,
-2024-11-24,Gurgl,Slalom,15,"Steen Olsen Alexander
-
-
-Rossignol",M,16,16,
-2024-11-24,Gurgl,Slalom,16,"Kolega Samuel
-
-
-Rossignol",M,15,15,
-2024-11-24,Gurgl,Slalom,17,"Vinatzer Alex
-
-
-Atomic",M,14,14,
-2024-11-24,Gurgl,Slalom,18,"Popov Albert
-
-
-Head",M,13,13,
-2024-11-24,Gurgl,Slalom,19,"Ginnis Aj
-
-
-Fischer",M,12,12,
-2024-11-24,Gurgl,Slalom,20,"Pertl Adrian
-
-
-Atomic",M,11,11,
-2024-11-24,Gurgl,Slalom,21,"Ritchie Benjamin
-
-
-Head",M,10,10,
-2024-11-24,Gurgl,Slalom,22,"Nef Tanguy
-
-
-Atomic",M,9,9,
-2024-11-24,Gurgl,Slalom,23,"Taylor Laurie
-
-
-Head",M,8,8,
-2024-11-24,Gurgl,Slalom,24,"Aerni Luca
-
-
-Fischer",M,7,7,
-2024-11-24,Gurgl,Slalom,25,"Sturm Joshua
-
-
-Atomic",M,6,6,
-2024-11-24,Gurgl,Slalom,26,"Kastlunger Tobias
-
-
-Head",M,5,5,
-2024-11-24,Gurgl,Slalom,27,"Ax Swartz Fabian
-
-
-Van Deer Racing",M,4,4,
-2024-11-24,Gurgl,Slalom,28,"Gross Stefano
-
-
-Voelkl",M,3,3,
-2024-11-24,Gurgl,Slalom,29,"Matt Michael
-
-
-Blizzard",M,2,2,
-2024-11-24,Gurgl,Slalom,30,"Zenhaeusern Ramon
-
-
-Rossignol",M,1,1,
-2024-11-23,Gurgl,Slalom,1,"Shiffrin Mikaela
-
-
-Atomic",W,55,100,
-2024-11-23,Gurgl,Slalom,2,"Colturi Lara
-
-
-Blizzard",W,48,80,
-2024-11-23,Gurgl,Slalom,3,"Rast Camille
-
-
-Head",W,43,60,
-2024-11-23,Gurgl,Slalom,4,"Holdener Wendy
-
-
-Head",W,38,50,
-2024-11-23,Gurgl,Slalom,5,"Duerr Lena
-
-
-Head",W,35,45,
-2024-11-23,Gurgl,Slalom,6,"Moltzan Paula
-
-
-Rossignol",W,32,40,
-2024-11-23,Gurgl,Slalom,7,"Liensberger Katharina
-
-
-Rossignol",W,29,36,
-2024-11-23,Gurgl,Slalom,8,"Hector Sara
-
-
-Head",W,26,32,
-2024-11-23,Gurgl,Slalom,9,"Ljutic Zrinka
-
-
-Atomic",W,24,29,
-2024-11-23,Gurgl,Slalom,10,"Meillard Melanie
-
-
-Rossignol",W,22,26,
-2024-11-23,Gurgl,Slalom,11,"St-Germain Laurence
-
-
-Rossignol",W,20,24,
-2024-11-23,Gurgl,Slalom,12,"Slokar Andreja
-
-
-Nordica",W,19,22,
-2024-11-23,Gurgl,Slalom,12,"Huber Katharina
-
-
-Fischer",W,19,22,
-2024-11-23,Gurgl,Slalom,14,"Oehlund Cornelia
-
-
-Head",W,17,18,
-2024-11-23,Gurgl,Slalom,15,"Swenn Larsson Anna
-
-
-Head",W,16,16,
-2024-11-23,Gurgl,Slalom,16,"Gallhuber Katharina
-
-
-Atomic",W,15,15,
-2024-11-23,Gurgl,Slalom,17,"Alphand Estelle
-
-
-Head",W,14,14,
-2024-11-23,Gurgl,Slalom,18,"Nullmeyer Ali
-
-
-Atomic",W,13,13,
-2024-11-23,Gurgl,Slalom,19,"Dvornik Neja
-
-
-Fischer",W,12,12,
-2024-11-23,Gurgl,Slalom,20,"Peterlini Martina
-
-
-Rossignol",W,11,11,
-2024-11-23,Gurgl,Slalom,21,"Sola Beatrice
-
-
-Rossignol",W,10,10,
-2024-11-23,Gurgl,Slalom,22,"Dubovska Martina
-
-
-Kaestle",W,9,9,
-2024-11-23,Gurgl,Slalom,23,"Breche Clarisse
-
-
-Rossignol",W,8,8,
-2024-11-23,Gurgl,Slalom,24,"Holtmann Mina Fuerst
-
-
-Atomic",W,7,7,
-2024-11-23,Gurgl,Slalom,25,"Popovic Leona
-
-
-Voelkl",W,6,6,
-2024-11-23,Gurgl,Slalom,26,"Pogneaux Chiara
-
-
-Rossignol",W,5,5,
-2024-11-17,Levi,Slalom,1,"Noel Clement
-
-
-Dynastar",M,55,100,
-2024-11-17,Levi,Slalom,2,"Kristoffersen Henrik
-
-
-Van Deer Racing",M,48,80,
-2024-11-17,Levi,Slalom,3,"Meillard Loic
-
-
-Rossignol",M,43,60,
-2024-11-17,Levi,Slalom,4,"Pinheiro Braathen Lucas
-
-
-Atomic",M,38,50,
-2024-11-17,Levi,Slalom,5,"Nef Tanguy
-
-
-Atomic",M,35,45,
-2024-11-17,Levi,Slalom,6,"Amiez Steven
-
-
-Rossignol",M,32,40,
-2024-11-17,Levi,Slalom,7,"Strasser Linus
-
-
-Rossignol",M,29,36,
-2024-11-17,Levi,Slalom,8,"Steen Olsen Alexander
-
-
-Rossignol",M,26,32,
-2024-11-17,Levi,Slalom,9,"Kolega Samuel
-
-
-Rossignol",M,24,29,
-2024-11-17,Levi,Slalom,10,"Zubcic Filip
-
-
-Atomic",M,22,26,
-2024-11-17,Levi,Slalom,11,"Jakobsen Kristoffer
-
-
-Fischer",M,20,24,
-2024-11-17,Levi,Slalom,12,"Mcgrath Atle Lie
-
-
-Head",M,19,22,
-2024-11-17,Levi,Slalom,13,"Ritchie Benjamin
-
-
-Head",M,18,20,
-2024-11-17,Levi,Slalom,14,"Haugan Timon
-
-
-Van Deer Racing",M,17,18,
-2024-11-17,Levi,Slalom,15,"Pertl Adrian
-
-
-Atomic",M,16,16,
-2024-11-17,Levi,Slalom,16,"Raschner Dominik
-
-
-Fischer",M,15,15,
-2024-11-17,Levi,Slalom,16,"Ryding Dave
-
-
-Head",M,15,15,
-2024-11-17,Levi,Slalom,18,"Popov Albert
-
-
-Head",M,13,13,
-2024-11-17,Levi,Slalom,19,"Foss-Solevaag Sebastian
-
-
-Salomon",M,12,12,
-2024-11-17,Levi,Slalom,20,"Zenhaeusern Ramon
-
-
-Rossignol",M,11,11,
-2024-11-17,Levi,Slalom,21,"Sturm Joshua
-
-
-Atomic",M,10,10,
-2024-11-17,Levi,Slalom,22,"Yule Daniel
-
-
-Fischer",M,9,9,
-2024-11-17,Levi,Slalom,23,"Solberg Eirik Hystad
-
-
-Fischer",M,8,8,
-2024-11-17,Levi,Slalom,24,"Hallberg Eduard
-
-
-Fischer",M,7,7,
-2024-11-17,Levi,Slalom,25,"Matt Michael
-
-
-Blizzard",M,6,6,
-2024-11-17,Levi,Slalom,26,"Rodes Istok
-
-
-Voelkl",M,5,5,
-2024-11-17,Levi,Slalom,27,"Laine Tormis
-
-
-Voelkl",M,4,4,
-2024-11-16,Levi,Slalom,1,"Shiffrin Mikaela
-
-
-Atomic",W,55,100,
-2024-11-16,Levi,Slalom,2,"Liensberger Katharina
-
-
-Rossignol",W,48,80,
-2024-11-16,Levi,Slalom,3,"Duerr Lena
-
-
-Head",W,43,60,
-2024-11-16,Levi,Slalom,4,"Swenn Larsson Anna
-
-
-Head",W,38,50,
-2024-11-16,Levi,Slalom,5,"Rast Camille
-
-
-Head",W,35,45,
-2024-11-16,Levi,Slalom,6,"Ljutic Zrinka
-
-
-Atomic",W,32,40,
-2024-11-16,Levi,Slalom,7,"Meillard Melanie
-
-
-Rossignol",W,29,36,
-2024-11-16,Levi,Slalom,8,"Moltzan Paula
-
-
-Rossignol",W,26,32,
-2024-11-16,Levi,Slalom,9,"Aicher Emma
-
-
-Head",W,24,29,
-2024-11-16,Levi,Slalom,10,"St-Germain Laurence
-
-
-Rossignol",W,22,26,
-2024-11-16,Levi,Slalom,11,"Lamure Marie
-
-
-Rossignol",W,20,24,
-2024-11-16,Levi,Slalom,12,"Breche Clarisse
-
-
-Rossignol",W,19,22,
-2024-11-16,Levi,Slalom,13,"Popovic Leona
-
-
-Voelkl",W,18,20,
-2024-11-16,Levi,Slalom,14,"Aronsson Elfman Hanna
-
-
-Rossignol",W,17,18,
-2024-11-16,Levi,Slalom,15,"Dvornik Neja
-
-
-Fischer",W,16,16,
-2024-11-16,Levi,Slalom,16,"Holdener Wendy
-
-
-Head",W,15,15,
-2024-11-16,Levi,Slalom,17,"Oehlund Cornelia
-
-
-Head",W,14,14,
-2024-11-16,Levi,Slalom,17,"Peterlini Martina
-
-
-Rossignol",W,14,14,
-2024-11-16,Levi,Slalom,19,"Truppe Katharina
-
-
-Voelkl",W,12,12,
-2024-11-16,Levi,Slalom,19,"Hector Sara
-
-
-Head",W,12,12,
-2024-11-16,Levi,Slalom,21,"Germane Dzenifera
-
-
-Head",W,10,10,
-2024-11-16,Levi,Slalom,22,"Bucik Jogan Ana
-
-
-Salomon",W,9,9,
-2024-11-16,Levi,Slalom,23,"Smart Amelia
-
-
-Atomic",W,8,8,
-2024-11-16,Levi,Slalom,24,"Gisin Michelle
-
-
-Salomon",W,7,7,
-2024-11-16,Levi,Slalom,25,"Gallhuber Katharina
-
-
-Atomic",W,6,6,
-2024-10-27,Soelden,Giant Slalom,1,"Steen Olsen Alexander
-
-
-Rossignol",M,55,100,
-2024-10-27,Soelden,Giant Slalom,2,"Kristoffersen Henrik
-
-
-Van Deer Racing",M,48,80,
-2024-10-27,Soelden,Giant Slalom,3,"Mcgrath Atle Lie
-
-
-Head",M,43,60,
-2024-10-27,Soelden,Giant Slalom,4,"Pinheiro Braathen Lucas
-
-
-Atomic",M,38,50,
-2024-10-27,Soelden,Giant Slalom,5,"Vinatzer Alex
-
-
-Atomic",M,35,45,
-2024-10-27,Soelden,Giant Slalom,6,"Kranjec Zan
-
-
-Rossignol",M,32,40,
-2024-10-27,Soelden,Giant Slalom,7,"Haaser Raphael
-
-
-Fischer",M,29,36,
-2024-10-27,Soelden,Giant Slalom,8,"Feurstein Patrick
-
-
-Rossignol",M,26,32,
-2024-10-27,Soelden,Giant Slalom,9,"Caviezel Gino
-
-
-Atomic",M,24,29,
-2024-10-27,Soelden,Giant Slalom,10,"De Aliprandini Luca
-
-
-Salomon",M,22,26,
-2024-10-27,Soelden,Giant Slalom,11,"Radamus River
-
-
-Rossignol",M,20,24,
-2024-10-27,Soelden,Giant Slalom,12,"Maes Sam
-
-
-Voelkl",M,19,22,
-2024-10-27,Soelden,Giant Slalom,12,"Haugan Timon
-
-
-Van Deer Racing",M,19,22,
-2024-10-27,Soelden,Giant Slalom,14,"Tumler Thomas
-
-
-Stoeckli",M,17,18,
-2024-10-27,Soelden,Giant Slalom,15,"Favrot Thibaut
-
-
-Dynastar",M,16,16,
-2024-10-27,Soelden,Giant Slalom,16,"Schmid Alexander
-
-
-Head",M,15,15,
-2024-10-27,Soelden,Giant Slalom,17,"Murisier Justin
-
-
-Head",M,14,14,
-2024-10-27,Soelden,Giant Slalom,18,"Hansson William
-
-
-Rossignol",M,13,13,
-2024-10-27,Soelden,Giant Slalom,19,"Borsotti Giovanni
-
-
-Rossignol",M,12,12,
-2024-10-27,Soelden,Giant Slalom,20,"Windingstad Rasmus
-
-
-Atomic",M,11,11,
-2024-10-27,Soelden,Giant Slalom,21,"Ford Tommy
-
-
-Head",M,10,10,
-2024-10-27,Soelden,Giant Slalom,22,"Strasser Linus
-
-
-Rossignol",M,9,9,
-2024-10-27,Soelden,Giant Slalom,23,"Hirscher Marcel
-
-
-Van Deer Racing",M,8,8,
-2024-10-27,Soelden,Giant Slalom,24,"Anguenot Leo
-
-
-Rossignol",M,7,7,
-2024-10-27,Soelden,Giant Slalom,25,"Stockinger Jonas
-
-
-Voelkl",M,6,6,
-2024-10-27,Soelden,Giant Slalom,26,"Muffat-Jeandet Victor
-
-
-Salomon",M,5,5,
-2024-10-27,Soelden,Giant Slalom,27,"Simonet Livio
-
-
-Rossignol",M,4,4,
-2024-10-27,Soelden,Giant Slalom,28,"Sarrazin Cyprien
-
-
-Rossignol",M,3,3,
-2024-10-26,Soelden,Giant Slalom,1,"Brignone Federica
-
-
-Rossignol",W,55,100,
-2024-10-26,Soelden,Giant Slalom,2,"Robinson Alice
-
-
-Salomon",W,48,80,
-2024-10-26,Soelden,Giant Slalom,3,"Scheib Julia
-
-
-Rossignol",W,43,60,
-2024-10-26,Soelden,Giant Slalom,4,"Hensien Katie
-
-
-Rossignol",W,38,50,
-2024-10-26,Soelden,Giant Slalom,5,"Shiffrin Mikaela
-
-
-Atomic",W,35,45,
-2024-10-26,Soelden,Giant Slalom,6,"Stjernesund Thea Louise
-
-
-Rossignol",W,32,40,
-2024-10-26,Soelden,Giant Slalom,7,"O Brien Nina
-
-
-Rossignol",W,29,36,
-2024-10-26,Soelden,Giant Slalom,8,"Liensberger Katharina
-
-
-Rossignol",W,26,32,
-2024-10-26,Soelden,Giant Slalom,9,"Holtmann Mina Fuerst
-
-
-Atomic",W,24,29,
-2024-10-26,Soelden,Giant Slalom,10,"Duerr Lena
-
-
-Head",W,22,26,
-2024-10-26,Soelden,Giant Slalom,11,"Moltzan Paula
-
-
-Rossignol",W,20,24,
-2024-10-26,Soelden,Giant Slalom,12,"Rast Camille
-
-
-Head",W,19,22,
-2024-10-26,Soelden,Giant Slalom,13,"Bassino Marta
-
-
-Salomon",W,18,20,
-2024-10-26,Soelden,Giant Slalom,14,"Brunner Stephanie
-
-
-Head",W,17,18,
-2024-10-26,Soelden,Giant Slalom,15,"Hector Sara
-
-
-Head",W,16,16,
-2024-10-26,Soelden,Giant Slalom,16,"Colturi Lara
-
-
-Blizzard",W,15,15,
-2024-10-26,Soelden,Giant Slalom,17,"Richardson Britt
-
-
-Dynastar",W,14,14,
-2024-10-26,Soelden,Giant Slalom,18,"Ljutic Zrinka
-
-
-Atomic",W,13,13,
-2024-10-26,Soelden,Giant Slalom,19,"Direz Clara
-
-
-Dynastar",W,12,12,
-2024-10-26,Soelden,Giant Slalom,20,"Zenere Asja
-
-
-Salomon",W,11,11,
-2024-10-26,Soelden,Giant Slalom,21,"Bucik Jogan Ana
-
-
-Salomon",W,10,10,
-2024-10-26,Soelden,Giant Slalom,22,"Gisin Michelle
-
-
-Salomon",W,9,9,
-2024-10-26,Soelden,Giant Slalom,23,"Alphand Estelle
-
-
-Head",W,8,8,
-2024-10-26,Soelden,Giant Slalom,24,"Dorigo Fabiana
-
-
-Atomic",W,7,7,
-2024-10-26,Soelden,Giant Slalom,25,"Holdener Wendy
-
-
-Head",W,6,6,
-2024-10-26,Soelden,Giant Slalom,25,"Gasienica-Daniel Maryna
-
-
-Atomic",W,6,6,
-2024-10-26,Soelden,Giant Slalom,27,"Gritsch Franziska
-
-
-Blizzard",W,4,4,
-2024-10-26,Soelden,Giant Slalom,28,"Wild Simone
-
-
-Fischer",W,3,3,
+2025-01-14,Flachau,Slalom,1,Rast Camille,W,55,100,Maurus
+2025-01-14,Flachau,Slalom,2,Holdener Wendy,W,48,80,Lena
+2025-01-14,Flachau,Slalom,3,Hector Sara,W,43,60,Melissa
+2025-01-14,Flachau,Slalom,4,Liensberger Katharina,W,38,50,Lea
+2025-01-14,Flachau,Slalom,5,Meillard Melanie,W,35,45,Lena
+2025-01-14,Flachau,Slalom,6,Moltzan Paula,W,32,40,Sarah
+2025-01-14,Flachau,Slalom,7,Swenn Larsson Anna,W,29,36,Sarah
+2025-01-14,Flachau,Slalom,8,Aicher Emma,W,26,32,
+2025-01-14,Flachau,Slalom,9,Holtmann Mina Fuerst,W,24,29,
+2025-01-14,Flachau,Slalom,10,Duerr Lena,W,22,26,Melissa
+2025-01-14,Flachau,Slalom,11,St-Germain Laurence,W,20,24,
+2025-01-14,Flachau,Slalom,12,Oehlund Cornelia,W,19,22,
+2025-01-14,Flachau,Slalom,13,Colturi Lara,W,18,20,Pasi
+2025-01-14,Flachau,Slalom,14,Breche Clarisse,W,17,18,
+2025-01-14,Flachau,Slalom,15,Huber Katharina,W,16,16,
+2025-01-14,Flachau,Slalom,16,Della Mea Lara,W,15,15,
+2025-01-14,Flachau,Slalom,17,Smart Amelia,W,14,14,
+2025-01-14,Flachau,Slalom,18,Alphand Estelle,W,13,13,
+2025-01-14,Flachau,Slalom,19,Peterlini Martina,W,12,12,
+2025-01-14,Flachau,Slalom,20,O Brien Nina,W,11,11,
+2025-01-14,Flachau,Slalom,21,Dvornik Neja,W,10,10,
+2025-01-14,Flachau,Slalom,22,Mcfarlane Caitlin,W,9,9,
+2025-01-14,Flachau,Slalom,23,Gisin Michelle,W,8,8,Pasi
+2025-01-14,Flachau,Slalom,24,Hoepli Aline,W,7,7,
+2025-01-14,Flachau,Slalom,25,Aronsson Elfman Hanna,W,6,6,
+2025-01-12,St. Anton,Super G,1,Macuga Lauren,W,55,100,Melissa
+2025-01-12,Adelboden,Giant Slalom,1,Odermatt Marco,M,55,100,Sarah
+2025-01-12,St. Anton,Super G,2,Venier Stephanie,W,48,80,Lena
+2025-01-12,Adelboden,Giant Slalom,2,Meillard Loic,M,48,80,Lena
+2025-01-12,St. Anton,Super G,3,Brignone Federica,W,43,60,Maurus
+2025-01-12,Adelboden,Giant Slalom,3,De Aliprandini Luca,M,43,60,
+2025-01-12,St. Anton,Super G,4,Vonn Lindsey,W,38,50,Lea
+2025-01-12,Adelboden,Giant Slalom,4,Tumler Thomas,M,38,50,
+2025-01-12,St. Anton,Super G,5,Gut-Behrami Lara,W,35,45,Simon
+2025-01-12,Adelboden,Giant Slalom,5,Zubcic Filip,M,35,45,Maurus
+2025-01-12,St. Anton,Super G,6,Weidle-Winkelmann Kira,W,32,40,
+2025-01-12,Adelboden,Giant Slalom,6,Haugan Timon,M,32,40,Sarah
+2025-01-12,St. Anton,Super G,7,Lie Kajsa Vickhoff,W,29,36,Pasi
+2025-01-12,Adelboden,Giant Slalom,7,Aerni Luca,M,29,36,
+2025-01-12,St. Anton,Super G,8,Suter Corinne,W,26,32,
+2025-01-12,Adelboden,Giant Slalom,8,Verdu Joan,M,26,32,
+2025-01-12,St. Anton,Super G,9,Blanc Malorie,W,24,29,
+2025-01-12,St. Anton,Super G,9,Haaser Ricarda,W,24,29,Simon
+2025-01-12,Adelboden,Giant Slalom,9,Schwarz Marco,M,24,29,Simon
+2025-01-12,Adelboden,Giant Slalom,10,Radamus River,M,22,26,Simon
+2025-01-12,St. Anton,Super G,11,Robinson Alice,W,20,24,Melissa
+2025-01-12,Adelboden,Giant Slalom,11,Della Vite Filippo,M,20,24,
+2025-01-12,St. Anton,Super G,12,Ledecka Ester,W,19,22,Simon
+2025-01-12,Adelboden,Giant Slalom,12,Pinturault Alexis,M,19,22,Pasi
+2025-01-12,St. Anton,Super G,13,Curtoni Elena,W,18,20,
+2025-01-12,Adelboden,Giant Slalom,13,Favrot Thibaut,M,18,20,
+2025-01-12,St. Anton,Super G,14,Raedler Ariane,W,17,18,
+2025-01-12,Adelboden,Giant Slalom,14,Kranjec Zan,M,17,18,Lena
+2025-01-12,St. Anton,Super G,15,Pirovano Laura,W,16,16,Maurus
+2025-01-12,Adelboden,Giant Slalom,15,Feller Manuel,M,16,16,Pasi
+2025-01-12,St. Anton,Super G,16,Clement Karen,W,15,15,
+2025-01-12,Adelboden,Giant Slalom,16,Grammel Anton,M,15,15,
+2025-01-12,St. Anton,Super G,17,Aicher Emma,W,14,14,
+2025-01-12,Adelboden,Giant Slalom,17,Feurstein Lukas,M,14,14,
+2025-01-12,St. Anton,Super G,18,Stuhec Ilka,W,13,13,
+2025-01-12,Adelboden,Giant Slalom,18,Stockinger Jonas,M,13,13,
+2025-01-12,Adelboden,Giant Slalom,18,Maes Sam,M,13,13,
+2025-01-12,Adelboden,Giant Slalom,18,Vinatzer Alex,M,13,13,Sarah
+2025-01-12,St. Anton,Super G,19,Suter Jasmina,W,12,12,
+2025-01-12,St. Anton,Super G,20,Haehlen Joana,W,11,11,
+2025-01-12,St. Anton,Super G,21,Miradoli Romane,W,10,10,
+2025-01-12,Adelboden,Giant Slalom,21,Feurstein Patrick,M,10,10,
+2025-01-12,St. Anton,Super G,22,Gauche Laura,W,9,9,
+2025-01-12,Adelboden,Giant Slalom,22,Zwischenbrugger Noel,M,9,9,
+2025-01-12,St. Anton,Super G,23,Huetter Cornelia,W,8,8,Sarah
+2025-01-12,Adelboden,Giant Slalom,23,Kenney Patrick,M,8,8,
+2025-01-12,St. Anton,Super G,24,Wiles Jacqueline,W,7,7,
+2025-01-12,Adelboden,Giant Slalom,24,Gratz Fabian,M,7,7,
+2025-01-12,St. Anton,Super G,25,Ming-Nufer Priska,W,6,6,
+2025-01-12,Adelboden,Giant Slalom,25,Laine Tormis,M,6,6,
+2025-01-12,St. Anton,Super G,26,Muzaferija Elvedina,W,5,5,
+2025-01-12,St. Anton,Super G,27,Gisin Michelle,W,4,4,Pasi
+2025-01-12,St. Anton,Super G,28,Cashman Keely,W,3,3,
+2025-01-12,St. Anton,Super G,29,Cerutti Camille,W,2,2,
+2025-01-12,St. Anton,Super G,29,Fest Nadine,W,2,2,
+2025-01-11,St. Anton,Downhill,1,Brignone Federica,W,55,100,Maurus
+2025-01-11,Adelboden,Slalom,1,Noel Clement,M,55,100,Lena
+2025-01-11,St. Anton,Downhill,2,Blanc Malorie,W,48,80,
+2025-01-11,Adelboden,Slalom,2,Pinheiro Braathen Lucas,M,48,80,Lea
+2025-01-11,St. Anton,Downhill,3,Ledecka Ester,W,43,60,Simon
+2025-01-11,Adelboden,Slalom,3,Kristoffersen Henrik,M,43,60,Maurus
+2025-01-11,St. Anton,Downhill,4,Pirovano Laura,W,38,50,Maurus
+2025-01-11,Adelboden,Slalom,4,Strasser Linus,M,38,50,Sarah
+2025-01-11,St. Anton,Downhill,5,Venier Stephanie,W,35,45,Lena
+2025-01-11,Adelboden,Slalom,5,Gstrein Fabio,M,35,45,
+2025-01-11,St. Anton,Downhill,6,Vonn Lindsey,W,32,40,Lea
+2025-01-11,Adelboden,Slalom,6,Amiez Steven,M,32,40,Pasi
+2025-01-11,St. Anton,Downhill,7,Huetter Cornelia,W,29,36,Sarah
+2025-01-11,Adelboden,Slalom,7,Zubcic Filip,M,29,36,Maurus
+2025-01-11,St. Anton,Downhill,8,Ortlieb Nina,W,26,32,
+2025-01-11,Adelboden,Slalom,8,Nef Tanguy,M,26,32,
+2025-01-11,St. Anton,Downhill,9,Macuga Lauren,W,24,29,Melissa
+2025-01-11,Adelboden,Slalom,9,Matt Michael,M,24,29,
+2025-01-11,St. Anton,Downhill,10,Raedler Ariane,W,22,26,
+2025-01-11,Adelboden,Slalom,10,Rochat Marc,M,22,26,
+2025-01-11,St. Anton,Downhill,11,Johnson Breezy,W,20,24,
+2025-01-11,Adelboden,Slalom,11,Muffat-Jeandet Victor,M,20,24,
+2025-01-11,St. Anton,Downhill,12,Weidle-Winkelmann Kira,W,19,22,
+2025-01-11,Adelboden,Slalom,12,Yule Daniel,M,19,22,Lena
+2025-01-11,St. Anton,Downhill,13,Gut-Behrami Lara,W,18,20,Simon
+2025-01-11,Adelboden,Slalom,13,Haugan Timon,M,18,20,Sarah
+2025-01-11,St. Anton,Downhill,14,Lie Kajsa Vickhoff,W,17,18,Pasi
+2025-01-11,Adelboden,Slalom,14,Steen Olsen Alexander,M,17,18,Lea
+2025-01-11,St. Anton,Downhill,15,Suter Corinne,W,16,16,
+2025-01-11,Adelboden,Slalom,15,Strolz Johannes,M,16,16,
+2025-01-11,St. Anton,Downhill,16,Gauche Laura,W,15,15,
+2025-01-11,Adelboden,Slalom,16,Popov Albert,M,15,15,
+2025-01-11,St. Anton,Downhill,17,Stuhec Ilka,W,14,14,
+2025-01-11,Adelboden,Slalom,17,Seymour Jett,M,14,14,
+2025-01-11,St. Anton,Downhill,18,Puchner Mirjam,W,13,13,Lena
+2025-01-11,Adelboden,Slalom,18,Gross Stefano,M,13,13,
+2025-01-11,St. Anton,Downhill,19,Schmitt Janine,W,12,12,
+2025-01-11,St. Anton,Downhill,19,Curtoni Elena,W,12,12,
+2025-01-11,Adelboden,Slalom,19,Marchant Armand,M,12,12,
+2025-01-11,Adelboden,Slalom,20,Aerni Luca,M,11,11,
+2025-01-11,St. Anton,Downhill,21,Gisin Michelle,W,10,10,Pasi
+2025-01-11,Adelboden,Slalom,21,Ritchie Benjamin,M,10,10,
+2025-01-11,St. Anton,Downhill,22,Miradoli Romane,W,9,9,
+2025-01-11,Adelboden,Slalom,22,Jakobsen Kristoffer,M,9,9,
+2025-01-11,St. Anton,Downhill,23,Monsen Marte,W,8,8,
+2025-01-11,Adelboden,Slalom,23,Rodes Istok,M,8,8,
+2025-01-11,St. Anton,Downhill,24,Ager Christina,W,7,7,
+2025-01-11,Adelboden,Slalom,24,Laine Tormis,M,7,7,
+2025-01-11,St. Anton,Downhill,25,Haaser Ricarda,W,6,6,Simon
+2025-01-11,Adelboden,Slalom,25,Schwarz Marco,M,6,6,Simon
+2025-01-11,St. Anton,Downhill,26,Fest Nadine,W,5,5,
+2025-01-11,Adelboden,Slalom,26,Major Billy,M,5,5,
+2025-01-11,St. Anton,Downhill,27,Clement Karen,W,4,4,
+2025-01-11,Adelboden,Slalom,27,Ryding Dave,M,4,4,
+2025-01-11,St. Anton,Downhill,28,Delago Nicol,W,3,3,
+2025-01-11,Adelboden,Slalom,28,Vinatzer Alex,M,3,3,Sarah
+2025-01-11,St. Anton,Downhill,29,Delago Nadia,W,2,2,
+2025-01-11,St. Anton,Downhill,30,Thaler Sara,W,1,1,
+2025-01-08,Madonna di Campiglio,Slalom,1,Popov Albert,M,55,100,
+2025-01-08,Madonna di Campiglio,Slalom,2,Meillard Loic,M,48,80,Lena
+2025-01-08,Madonna di Campiglio,Slalom,3,Kolega Samuel,M,43,60,Lea
+2025-01-08,Madonna di Campiglio,Slalom,4,Amiez Steven,M,38,50,Pasi
+2025-01-08,Madonna di Campiglio,Slalom,5,Kristoffersen Henrik,M,35,45,Maurus
+2025-01-08,Madonna di Campiglio,Slalom,6,Strasser Linus,M,32,40,Sarah
+2025-01-08,Madonna di Campiglio,Slalom,7,Yule Daniel,M,29,36,Lena
+2025-01-08,Madonna di Campiglio,Slalom,8,Ritchie Benjamin,M,26,32,
+2025-01-08,Madonna di Campiglio,Slalom,9,Pinheiro Braathen Lucas,M,24,29,Lea
+2025-01-08,Madonna di Campiglio,Slalom,10,Gstrein Fabio,M,22,26,
+2025-01-08,Madonna di Campiglio,Slalom,11,Strolz Johannes,M,20,24,
+2025-01-08,Madonna di Campiglio,Slalom,12,Rassat Paco,M,19,22,
+2025-01-08,Madonna di Campiglio,Slalom,13,Raschner Dominik,M,18,20,
+2025-01-08,Madonna di Campiglio,Slalom,14,Ryding Dave,M,17,18,
+2025-01-08,Madonna di Campiglio,Slalom,15,Nef Tanguy,M,16,16,
+2025-01-08,Madonna di Campiglio,Slalom,16,Pertl Adrian,M,15,15,
+2025-01-08,Madonna di Campiglio,Slalom,17,Maes Sam,M,14,14,
+2025-01-08,Madonna di Campiglio,Slalom,18,Ax Swartz Fabian,M,13,13,
+2025-01-08,Madonna di Campiglio,Slalom,19,Wissting Gustav,M,12,12,
+2025-01-08,Madonna di Campiglio,Slalom,20,Muffat-Jeandet Victor,M,11,11,
+2025-01-08,Madonna di Campiglio,Slalom,21,Gross Stefano,M,10,10,
+2025-01-05,Kranjska Gora,Slalom,1,Ljutic Zrinka,W,55,100,Lea
+2025-01-05,Kranjska Gora,Slalom,2,Holdener Wendy,W,48,80,Lena
+2025-01-05,Kranjska Gora,Slalom,3,Swenn Larsson Anna,W,43,60,Sarah
+2025-01-05,Kranjska Gora,Slalom,4,Rast Camille,W,38,50,Maurus
+2025-01-05,Kranjska Gora,Slalom,5,Meillard Melanie,W,35,45,Lena
+2025-01-05,Kranjska Gora,Slalom,6,Hector Sara,W,32,40,Melissa
+2025-01-05,Kranjska Gora,Slalom,7,Slokar Andreja,W,29,36,
+2025-01-05,Kranjska Gora,Slalom,8,Truppe Katharina,W,26,32,
+2025-01-05,Kranjska Gora,Slalom,9,Liensberger Katharina,W,24,29,Lea
+2025-01-05,Kranjska Gora,Slalom,10,Lamure Marie,W,22,26,
+2025-01-05,Kranjska Gora,Slalom,11,Huber Katharina,W,20,24,
+2025-01-05,Kranjska Gora,Slalom,12,Hensien Katie,W,19,22,
+2025-01-05,Kranjska Gora,Slalom,13,Colturi Lara,W,18,20,Pasi
+2025-01-05,Kranjska Gora,Slalom,14,Holtmann Mina Fuerst,W,17,18,
+2025-01-05,Kranjska Gora,Slalom,15,Christen Eliane,W,16,16,
+2025-01-05,Kranjska Gora,Slalom,16,Oehlund Cornelia,W,15,15,
+2025-01-05,Kranjska Gora,Slalom,17,Dvornik Neja,W,14,14,
+2025-01-05,Kranjska Gora,Slalom,18,Stoffel Elena,W,13,13,
+2025-01-05,Kranjska Gora,Slalom,19,Gritsch Franziska,W,12,12,
+2025-01-05,Kranjska Gora,Slalom,20,Moltzan Paula,W,11,11,Sarah
+2025-01-05,Kranjska Gora,Slalom,21,Maechler Janine,W,10,10,
+2025-01-05,Kranjska Gora,Slalom,21,Hilzinger Jessica,W,10,10,
+2025-01-05,Kranjska Gora,Slalom,23,Dubovska Martina,W,8,8,
+2025-01-05,Kranjska Gora,Slalom,24,Peterlini Martina,W,7,7,
+2025-01-05,Kranjska Gora,Slalom,25,Pogneaux Chiara,W,6,6,
+2025-01-05,Kranjska Gora,Slalom,26,Alphand Estelle,W,5,5,
+2025-01-05,Kranjska Gora,Slalom,27,Breche Clarisse,W,4,4,
+2025-01-05,Kranjska Gora,Slalom,28,Gisin Michelle,W,3,3,Pasi
+2025-01-04,Kranjska Gora,Giant Slalom,1,Hector Sara,W,55,100,Melissa
+2025-01-04,Kranjska Gora,Giant Slalom,2,Colturi Lara,W,48,80,Pasi
+2025-01-04,Kranjska Gora,Giant Slalom,3,Robinson Alice,W,43,60,Melissa
+2025-01-04,Kranjska Gora,Giant Slalom,4,Scheib Julia,W,38,50,
+2025-01-04,Kranjska Gora,Giant Slalom,5,Goggia Sofia,W,35,45,Pasi
+2025-01-04,Kranjska Gora,Giant Slalom,6,Gut-Behrami Lara,W,32,40,Simon
+2025-01-04,Kranjska Gora,Giant Slalom,7,Stjernesund Thea Louise,W,29,36,Sarah
+2025-01-04,Kranjska Gora,Giant Slalom,8,Dvornik Neja,W,26,32,
+2025-01-04,Kranjska Gora,Giant Slalom,8,Rast Camille,W,26,32,Maurus
+2025-01-04,Kranjska Gora,Giant Slalom,10,Hurt A J,W,22,26,
+2025-01-04,Kranjska Gora,Giant Slalom,11,O Brien Nina,W,20,24,
+2025-01-04,Kranjska Gora,Giant Slalom,12,Ljutic Zrinka,W,19,22,Lea
+2025-01-04,Kranjska Gora,Giant Slalom,13,Nyberg Lisa,W,18,20,
+2025-01-04,Kranjska Gora,Giant Slalom,14,Haaser Ricarda,W,17,18,Simon
+2025-01-04,Kranjska Gora,Giant Slalom,15,Lie Kajsa Vickhoff,W,16,16,Pasi
+2025-01-04,Kranjska Gora,Giant Slalom,16,Alphand Estelle,W,15,15,
+2025-01-04,Kranjska Gora,Giant Slalom,17,Brunner Stephanie,W,14,14,
+2025-01-04,Kranjska Gora,Giant Slalom,18,Holdener Wendy,W,13,13,Lena
+2025-01-04,Kranjska Gora,Giant Slalom,19,Della Mea Lara,W,12,12,
+2025-01-04,Kranjska Gora,Giant Slalom,20,Sylvester-Davik Madeleine,W,11,11,
+2025-01-04,Kranjska Gora,Giant Slalom,21,Bucik Jogan Ana,W,10,10,
+2025-01-04,Kranjska Gora,Giant Slalom,22,Zenere Asja,W,9,9,
+2025-01-04,Kranjska Gora,Giant Slalom,23,Ghisalberti Ilaria,W,8,8,
+2025-01-04,Kranjska Gora,Giant Slalom,24,Aicher Emma,W,7,7,
+2025-01-04,Kranjska Gora,Giant Slalom,25,Duerr Lena,W,6,6,Melissa
+2025-01-04,Kranjska Gora,Giant Slalom,26,Gisin Michelle,W,5,5,Pasi
+2025-01-04,Kranjska Gora,Giant Slalom,27,Hensien Katie,W,4,4,
+2025-01-04,Kranjska Gora,Giant Slalom,28,Melesi Roberta,W,3,3,
+2025-01-04,Kranjska Gora,Giant Slalom,29,Olivier Victoria,W,2,2,
+2025-01-04,Kranjska Gora,Giant Slalom,30,Baruzzi Farriol Francesca,W,1,1,
+2024-12-29,Bormio,Super G,1,Moeller Fredrik,M,55,100,
+2024-12-29,Semmering,Slalom,1,Ljutic Zrinka,W,55,100,Lea
+2024-12-29,Bormio,Super G,2,Kriechmayr Vincent,M,48,80,Melissa
+2024-12-29,Semmering,Slalom,2,Duerr Lena,W,48,80,Melissa
+2024-12-29,Bormio,Super G,3,Monney Alexis,M,43,60,
+2024-12-29,Semmering,Slalom,3,Liensberger Katharina,W,43,60,Lea
+2024-12-29,Bormio,Super G,4,Rogentin Stefan,M,38,50,Melissa
+2024-12-29,Semmering,Slalom,4,Rast Camille,W,38,50,Maurus
+2024-12-29,Bormio,Super G,5,Odermatt Marco,M,35,45,Sarah
+2024-12-29,Semmering,Slalom,5,Hector Sara,W,35,45,Melissa
+2024-12-29,Bormio,Super G,6,Von Allmen Franjo,M,32,40,Simon
+2024-12-29,Semmering,Slalom,6,Holdener Wendy,W,32,40,Lena
+2024-12-29,Bormio,Super G,7,Hemetsberger Daniel,M,29,36,
+2024-12-29,Semmering,Slalom,7,Meillard Melanie,W,29,36,Lena
+2024-12-29,Bormio,Super G,8,Allegre Nils,M,26,32,Maurus
+2024-12-29,Semmering,Slalom,8,Aicher Emma,W,26,32,
+2024-12-29,Bormio,Super G,9,Loriot Florian,M,24,29,
+2024-12-29,Semmering,Slalom,9,Slokar Andreja,W,24,29,
+2024-12-29,Bormio,Super G,10,Babinsky Stefan,M,22,26,
+2024-12-29,Semmering,Slalom,10,Huber Katharina,W,22,26,
+2024-12-29,Bormio,Super G,11,Casse Mattia,M,20,24,Maurus
+2024-12-29,Semmering,Slalom,11,Gritsch Franziska,W,20,24,
+2024-12-29,Bormio,Super G,12,Alexander Cameron,M,19,22,Lena
+2024-12-29,Semmering,Slalom,12,Christen Eliane,W,19,22,
+2024-12-29,Bormio,Super G,13,Sejersted Adrian Smiseth,M,18,20,
+2024-12-29,Semmering,Slalom,13,Truppe Katharina,W,18,20,
+2024-12-29,Bormio,Super G,14,Hacker Felix,M,17,18,
+2024-12-29,Semmering,Slalom,14,Colturi Lara,W,17,18,Pasi
+2024-12-29,Bormio,Super G,15,Murisier Justin,M,16,16,Simon
+2024-12-29,Semmering,Slalom,15,Holtmann Mina Fuerst,W,16,16,
+2024-12-29,Bormio,Super G,16,Paris Dominik,M,15,15,Lea
+2024-12-29,Semmering,Slalom,16,Oehlund Cornelia,W,15,15,
+2024-12-29,Bormio,Super G,17,Giezendanner Blaise,M,14,14,
+2024-12-29,Bormio,Super G,17,Franzoni Giovanni,M,14,14,
+2024-12-29,Semmering,Slalom,17,Aronsson Elfman Hanna,W,14,14,
+2024-12-29,Semmering,Slalom,18,Hurt A J,W,13,13,
+2024-12-29,Bormio,Super G,19,Read Jeffrey,M,12,12,
+2024-12-29,Semmering,Slalom,19,Dubovska Martina,W,12,12,
+2024-12-29,Bormio,Super G,20,Zabystran Jan,M,11,11,
+2024-12-29,Semmering,Slalom,20,Lamure Marie,W,11,11,
+2024-12-29,Bormio,Super G,21,Negomir Kyle,M,10,10,
+2024-12-29,Semmering,Slalom,21,Bucik Jogan Ana,W,10,10,
+2024-12-29,Bormio,Super G,22,Cochran-Siegle Ryan,M,9,9,Melissa
+2024-12-29,Semmering,Slalom,22,Stjernesund Thea Louise,W,9,9,Sarah
+2024-12-29,Bormio,Super G,23,Wieser Vincent,M,8,8,
+2024-12-29,Semmering,Slalom,23,Breche Clarisse,W,8,8,
+2024-12-29,Bormio,Super G,24,Baumann Romed,M,7,7,
+2024-12-29,Semmering,Slalom,24,St-Germain Laurence,W,7,7,
+2024-12-29,Bormio,Super G,25,Kohler Marco,M,6,6,
+2024-12-29,Semmering,Slalom,25,Pogneaux Chiara,W,6,6,
+2024-12-29,Bormio,Super G,26,Theaux Adrien,M,5,5,
+2024-12-29,Semmering,Slalom,26,Maechler Janine,W,5,5,
+2024-12-29,Bormio,Super G,27,Lehto Elian,M,4,4,
+2024-12-29,Semmering,Slalom,27,Smart Amelia,W,4,4,
+2024-12-29,Bormio,Super G,28,Molteni Nicolo,M,3,3,
+2024-12-29,Bormio,Super G,29,Goldberg Jared,M,2,2,
+2024-12-29,Bormio,Super G,30,Windingstad Rasmus,M,1,1,
+2024-12-28,Bormio,Downhill,1,Monney Alexis,M,55,100,
+2024-12-28,Semmering,Giant Slalom,1,Brignone Federica,W,55,100,Maurus
+2024-12-28,Bormio,Downhill,2,Von Allmen Franjo,M,48,80,Simon
+2024-12-28,Semmering,Giant Slalom,2,Hector Sara,W,48,80,Melissa
+2024-12-28,Bormio,Downhill,3,Alexander Cameron,M,43,60,Lena
+2024-12-28,Semmering,Giant Slalom,3,Robinson Alice,W,43,60,Melissa
+2024-12-28,Bormio,Downhill,4,Casse Mattia,M,38,50,Maurus
+2024-12-28,Semmering,Giant Slalom,4,Grenier Valerie,W,38,50,Maurus
+2024-12-28,Bormio,Downhill,5,Odermatt Marco,M,35,45,Sarah
+2024-12-28,Semmering,Giant Slalom,5,Moltzan Paula,W,35,45,Sarah
+2024-12-28,Bormio,Downhill,6,Murisier Justin,M,32,40,Simon
+2024-12-28,Semmering,Giant Slalom,6,Scheib Julia,W,32,40,
+2024-12-28,Bormio,Downhill,7,Hrobat Miha,M,29,36,
+2024-12-28,Semmering,Giant Slalom,7,Bassino Marta,W,29,36,Simon
+2024-12-28,Bormio,Downhill,8,Kriechmayr Vincent,M,26,32,Melissa
+2024-12-28,Semmering,Giant Slalom,8,Ljutic Zrinka,W,26,32,Lea
+2024-12-28,Bormio,Downhill,9,Kohler Marco,M,24,29,
+2024-12-28,Semmering,Giant Slalom,9,Gut-Behrami Lara,W,24,29,Simon
+2024-12-28,Bormio,Downhill,10,Allegre Nils,M,22,26,Maurus
+2024-12-28,Semmering,Giant Slalom,10,Stjernesund Thea Louise,W,22,26,Sarah
+2024-12-28,Bormio,Downhill,11,Hemetsberger Daniel,M,20,24,
+2024-12-28,Semmering,Giant Slalom,11,Colturi Lara,W,20,24,Pasi
+2024-12-28,Bormio,Downhill,12,Rogentin Stefan,M,19,22,Melissa
+2024-12-28,Semmering,Giant Slalom,12,Haaser Ricarda,W,19,22,
+2024-12-28,Bormio,Downhill,13,Jocher Simon,M,18,20,
+2024-12-28,Semmering,Giant Slalom,13,Bucik Jogan Ana,W,18,20,
+2024-12-28,Semmering,Giant Slalom,13,Gasienica-Daniel Maryna,W,18,20,
+2024-12-28,Bormio,Downhill,14,Alphand Nils,M,17,18,
+2024-12-28,Bormio,Downhill,15,Babinsky Stefan,M,16,16,
+2024-12-28,Semmering,Giant Slalom,15,O Brien Nina,W,16,16,
+2024-12-28,Bormio,Downhill,16,Lehto Elian,M,15,15,
+2024-12-28,Semmering,Giant Slalom,16,Dvornik Neja,W,15,15,
+2024-12-28,Bormio,Downhill,17,Crawford James,M,14,14,Melissa
+2024-12-28,Semmering,Giant Slalom,17,Rast Camille,W,14,14,Maurus
+2024-12-28,Bormio,Downhill,18,Innerhofer Christof,M,13,13,
+2024-12-28,Semmering,Giant Slalom,18,Lie Kajsa Vickhoff,W,13,13,Pasi
+2024-12-28,Bormio,Downhill,19,Franzoni Giovanni,M,12,12,
+2024-12-28,Semmering,Giant Slalom,19,Holtmann Mina Fuerst,W,12,12,
+2024-12-28,Bormio,Downhill,20,Moeller Fredrik,M,11,11,
+2024-12-28,Semmering,Giant Slalom,20,Gray Cassidy,W,11,11,
+2024-12-28,Bormio,Downhill,21,Vogt Luis,M,10,10,
+2024-12-28,Bormio,Downhill,21,Bailet Matthieu,M,10,10,
+2024-12-28,Semmering,Giant Slalom,21,Holdener Wendy,W,10,10,Lena
+2024-12-28,Semmering,Giant Slalom,22,Duerr Lena,W,9,9,Melissa
+2024-12-28,Bormio,Downhill,23,Hacker Felix,M,8,8,
+2024-12-28,Semmering,Giant Slalom,23,Richardson Britt,W,8,8,
+2024-12-28,Bormio,Downhill,24,Wieser Vincent,M,7,7,
+2024-12-28,Semmering,Giant Slalom,24,Wild Simone,W,7,7,
+2024-12-28,Bormio,Downhill,25,Striedinger Otmar,M,6,6,
+2024-12-28,Semmering,Giant Slalom,25,Alphand Estelle,W,6,6,
+2024-12-28,Bormio,Downhill,26,Cater Martin,M,5,5,
+2024-12-28,Bormio,Downhill,26,Traninger Manuel,M,5,5,
+2024-12-28,Semmering,Giant Slalom,26,Direz Clara,W,5,5,
+2024-12-28,Semmering,Giant Slalom,27,Hurt A J,W,4,4,
+2024-12-28,Bormio,Downhill,28,Giezendanner Blaise,M,3,3,
+2024-12-28,Semmering,Giant Slalom,28,Hensien Katie,W,3,3,
+2024-12-28,Bormio,Downhill,29,Sejersted Adrian Smiseth,M,2,2,
+2024-12-28,Semmering,Giant Slalom,29,Gritsch Franziska,W,2,2,
+2024-12-28,Bormio,Downhill,30,Rieser Stefan,M,1,1,
+2024-12-23,Alta Badia,Slalom,1,Haugan Timon,M,55,100,Sarah
+2024-12-23,Alta Badia,Slalom,2,Meillard Loic,M,48,80,Lena
+2024-12-23,Alta Badia,Slalom,3,Mcgrath Atle Lie,M,43,60,Pasi
+2024-12-23,Alta Badia,Slalom,4,Kristoffersen Henrik,M,38,50,Maurus
+2024-12-23,Alta Badia,Slalom,5,Kolega Samuel,M,35,45,
+2024-12-23,Alta Badia,Slalom,6,Noel Clement,M,32,40,Lena
+2024-12-23,Alta Badia,Slalom,7,Feller Manuel,M,29,36,Pasi
+2024-12-23,Alta Badia,Slalom,8,Ryding Dave,M,26,32,
+2024-12-23,Alta Badia,Slalom,9,Yule Daniel,M,24,29,
+2024-12-23,Alta Badia,Slalom,10,Popov Albert,M,22,26,
+2024-12-23,Alta Badia,Slalom,11,Ax Swartz Fabian,M,20,24,
+2024-12-23,Alta Badia,Slalom,12,Pinheiro Braathen Lucas,M,19,22,Lea
+2024-12-23,Alta Badia,Slalom,13,Seymour Jett,M,18,20,
+2024-12-23,Alta Badia,Slalom,14,Rassat Paco,M,17,18,
+2024-12-23,Alta Badia,Slalom,15,Salarich Joaquim,M,16,16,
+2024-12-23,Alta Badia,Slalom,16,Matt Michael,M,15,15,
+2024-12-23,Alta Badia,Slalom,17,Aerni Luca,M,14,14,
+2024-12-23,Alta Badia,Slalom,18,Steen Olsen Alexander,M,13,13,Lea
+2024-12-23,Alta Badia,Slalom,19,Strolz Johannes,M,12,12,
+2024-12-23,Alta Badia,Slalom,20,Zubcic Filip,M,11,11,Maurus
+2024-12-23,Alta Badia,Slalom,21,Maurberger Simon,M,10,10,
+2024-12-23,Alta Badia,Slalom,22,Nef Tanguy,M,9,9,
+2024-12-23,Alta Badia,Slalom,23,Sturm Joshua,M,8,8,
+2024-12-23,Alta Badia,Slalom,24,Kastlunger Tobias,M,7,7,
+2024-12-23,Alta Badia,Slalom,25,Tremmel Anton,M,6,6,
+2024-12-23,Alta Badia,Slalom,26,Rodes Istok,M,5,5,
+2024-12-23,Alta Badia,Slalom,27,Radamus River,M,4,4,Simon
+2024-12-22,Alta Badia,Giant Slalom,1,Odermatt Marco,M,55,100,Sarah
+2024-12-22,Alta Badia,Giant Slalom,2,Anguenot Leo,M,48,80,
+2024-12-22,Alta Badia,Giant Slalom,3,Steen Olsen Alexander,M,43,60,Lea
+2024-12-22,Alta Badia,Giant Slalom,4,Zubcic Filip,M,38,50,Maurus
+2024-12-22,Alta Badia,Giant Slalom,5,Haugan Timon,M,35,45,Sarah
+2024-12-22,Alta Badia,Giant Slalom,6,Mcgrath Atle Lie,M,32,40,Pasi
+2024-12-22,Alta Badia,Giant Slalom,7,Kranjec Zan,M,29,36,Lena
+2024-12-22,Alta Badia,Giant Slalom,8,Vinatzer Alex,M,26,32,Sarah
+2024-12-22,Alta Badia,Giant Slalom,9,Kristoffersen Henrik,M,24,29,Maurus
+2024-12-22,Alta Badia,Giant Slalom,10,Favrot Thibaut,M,22,26,
+2024-12-22,Alta Badia,Giant Slalom,11,Grammel Anton,M,20,24,
+2024-12-22,Alta Badia,Giant Slalom,12,Caviezel Gino,M,19,22,Lea
+2024-12-22,Alta Badia,Giant Slalom,13,De Aliprandini Luca,M,18,20,
+2024-12-22,Alta Badia,Giant Slalom,14,Brennsteiner Stefan,M,17,18,
+2024-12-22,Alta Badia,Giant Slalom,15,Radamus River,M,16,16,Simon
+2024-12-22,Alta Badia,Giant Slalom,16,Meillard Loic,M,15,15,Lena
+2024-12-22,Alta Badia,Giant Slalom,17,Aerni Luca,M,14,14,
+2024-12-22,Alta Badia,Giant Slalom,18,Zampa Andreas,M,13,13,
+2024-12-22,Alta Badia,Giant Slalom,19,Feurstein Patrick,M,12,12,
+2024-12-22,Alta Badia,Giant Slalom,20,Read Erik,M,11,11,
+2024-12-22,Alta Badia,Giant Slalom,20,Laine Tormis,M,11,11,
+2024-12-22,Alta Badia,Giant Slalom,22,Pinheiro Braathen Lucas,M,9,9,Lea
+2024-12-22,Alta Badia,Giant Slalom,23,Pinturault Alexis,M,8,8,Pasi
+2024-12-22,Alta Badia,Giant Slalom,24,Windingstad Rasmus,M,7,7,
+2024-12-22,Alta Badia,Giant Slalom,25,Janutin Fadri,M,6,6,
+2024-12-22,Alta Badia,Giant Slalom,26,Schwarz Marco,M,5,5,Simon
+2024-12-22,Alta Badia,Giant Slalom,27,Orecchioni Diego,M,4,4,
+2024-12-22,Alta Badia,Giant Slalom,28,Hansson William,M,3,3,
+2024-12-22,Alta Badia,Giant Slalom,29,Roenngren Mattias,M,2,2,
+2024-12-21,Val Gardena / Groeden,Downhill,1,Odermatt Marco,M,55,100,Sarah
+2024-12-21,St. Moritz,Super G,1,Huetter Cornelia,W,55,100,Sarah
+2024-12-21,Val Gardena / Groeden,Downhill,2,Von Allmen Franjo,M,48,80,Simon
+2024-12-21,St. Moritz,Super G,2,Gut-Behrami Lara,W,48,80,Simon
+2024-12-21,Val Gardena / Groeden,Downhill,3,Cochran-Siegle Ryan,M,43,60,
+2024-12-21,St. Moritz,Super G,3,Goggia Sofia,W,43,60,Pasi
+2024-12-21,Val Gardena / Groeden,Downhill,4,Allegre Nils,M,38,50,Maurus
+2024-12-21,St. Moritz,Super G,4,Curtoni Elena,W,38,50,
+2024-12-21,Val Gardena / Groeden,Downhill,5,Cater Martin,M,35,45,
+2024-12-21,St. Moritz,Super G,5,Brignone Federica,W,35,45,Maurus
+2024-12-21,Val Gardena / Groeden,Downhill,6,Eichberger Stefan,M,32,40,
+2024-12-21,St. Moritz,Super G,6,Pirovano Laura,W,32,40,Maurus
+2024-12-21,Val Gardena / Groeden,Downhill,7,Baumann Romed,M,29,36,
+2024-12-21,St. Moritz,Super G,7,Macuga Lauren,W,29,36,
+2024-12-21,St. Moritz,Super G,7,Ledecka Ester,W,29,36,Simon
+2024-12-21,Val Gardena / Groeden,Downhill,8,Bennett Bryce,M,26,32,Pasi
+2024-12-21,Val Gardena / Groeden,Downhill,9,Alexander Cameron,M,24,29,
+2024-12-21,St. Moritz,Super G,9,Puchner Mirjam,W,24,29,Lena
+2024-12-21,Val Gardena / Groeden,Downhill,10,Rogentin Stefan,M,22,26,Melissa
+2024-12-21,St. Moritz,Super G,10,Suter Corinne,W,22,26,
+2024-12-21,Val Gardena / Groeden,Downhill,11,Seger Brodie,M,20,24,
+2024-12-21,St. Moritz,Super G,11,Bassino Marta,W,20,24,Simon
+2024-12-21,Val Gardena / Groeden,Downhill,12,Hemetsberger Daniel,M,19,22,
+2024-12-21,Val Gardena / Groeden,Downhill,12,Roesti Lars,M,19,22,
+2024-12-21,St. Moritz,Super G,12,Robinson Alice,W,19,22,Melissa
+2024-12-21,St. Moritz,Super G,13,Melesi Roberta,W,18,20,
+2024-12-21,Val Gardena / Groeden,Downhill,14,Casse Mattia,M,17,18,Maurus
+2024-12-21,St. Moritz,Super G,14,Vonn Lindsey,W,17,18,Lea
+2024-12-21,Val Gardena / Groeden,Downhill,15,Hrobat Miha,M,16,16,
+2024-12-21,St. Moritz,Super G,15,Gisin Michelle,W,16,16,Pasi
+2024-12-21,Val Gardena / Groeden,Downhill,16,Rieser Stefan,M,15,15,
+2024-12-21,St. Moritz,Super G,16,Aicher Emma,W,15,15,
+2024-12-21,St. Moritz,Super G,16,Lie Kajsa Vickhoff,W,15,15,Pasi
+2024-12-21,Val Gardena / Groeden,Downhill,17,Vogt Luis,M,14,14,
+2024-12-21,Val Gardena / Groeden,Downhill,17,Hiltbrand Livio,M,14,14,
+2024-12-21,Val Gardena / Groeden,Downhill,17,Sarrazin Cyprien,M,14,14,Lena
+2024-12-21,St. Moritz,Super G,18,Stuhec Ilka,W,13,13,
+2024-12-21,St. Moritz,Super G,19,Haaser Ricarda,W,12,12,
+2024-12-21,St. Moritz,Super G,19,Venier Stephanie,W,12,12,Lena
+2024-12-21,Val Gardena / Groeden,Downhill,20,Monsen Felix,M,11,11,
+2024-12-21,Val Gardena / Groeden,Downhill,20,Theaux Adrien,M,11,11,
+2024-12-21,St. Moritz,Super G,21,Durrer Delia,W,10,10,
+2024-12-21,Val Gardena / Groeden,Downhill,22,Striedinger Otmar,M,9,9,
+2024-12-21,St. Moritz,Super G,22,Weidle-Winkelmann Kira,W,9,9,
+2024-12-21,Val Gardena / Groeden,Downhill,23,Arvidsson Erik,M,8,8,
+2024-12-21,St. Moritz,Super G,23,Cerutti Camille,W,8,8,
+2024-12-21,Val Gardena / Groeden,Downhill,24,Mettler Josua,M,7,7,
+2024-12-21,St. Moritz,Super G,24,Raedler Ariane,W,7,7,
+2024-12-21,Val Gardena / Groeden,Downhill,25,Paris Dominik,M,6,6,Lea
+2024-12-21,St. Moritz,Super G,25,Mangan Tricia,W,6,6,
+2024-12-21,Val Gardena / Groeden,Downhill,26,Zabystran Jan,M,5,5,
+2024-12-21,St. Moritz,Super G,26,Zenere Asja,W,5,5,
+2024-12-21,Val Gardena / Groeden,Downhill,27,Pfiffner Marco,M,4,4,
+2024-12-21,Val Gardena / Groeden,Downhill,27,Innerhofer Christof,M,4,4,
+2024-12-21,St. Moritz,Super G,27,Schmitt Janine,W,4,4,
+2024-12-21,St. Moritz,Super G,28,Grill Lisa,W,3,3,
+2024-12-21,St. Moritz,Super G,28,Ager Christina,W,3,3,
+2024-12-21,Val Gardena / Groeden,Downhill,29,Jocher Simon,M,2,2,
+2024-12-21,Val Gardena / Groeden,Downhill,29,Hacker Felix,M,2,2,
+2024-12-21,Val Gardena / Groeden,Downhill,29,Murisier Justin,M,2,2,Simon
+2024-12-21,St. Moritz,Super G,30,Cashman Keely,W,1,1,
+2024-12-20,Val Gardena / Groeden,Super G,1,Casse Mattia,M,55,100,Maurus
+2024-12-20,Val Gardena / Groeden,Super G,2,Goldberg Jared,M,48,80,
+2024-12-20,Val Gardena / Groeden,Super G,3,Odermatt Marco,M,43,60,Sarah
+2024-12-20,Val Gardena / Groeden,Super G,4,Moeller Fredrik,M,38,50,
+2024-12-20,Val Gardena / Groeden,Super G,5,Rogentin Stefan,M,35,45,Melissa
+2024-12-20,Val Gardena / Groeden,Super G,5,Alexander Cameron,M,35,45,
+2024-12-20,Val Gardena / Groeden,Super G,7,Allegre Nils,M,29,36,Maurus
+2024-12-20,Val Gardena / Groeden,Super G,8,Roesti Lars,M,26,32,
+2024-12-20,Val Gardena / Groeden,Super G,9,Giezendanner Blaise,M,24,29,
+2024-12-20,Val Gardena / Groeden,Super G,10,Paris Dominik,M,22,26,Lea
+2024-12-20,Val Gardena / Groeden,Super G,11,Zazzi Pietro,M,20,24,
+2024-12-20,Val Gardena / Groeden,Super G,12,Kriechmayr Vincent,M,19,22,Melissa
+2024-12-20,Val Gardena / Groeden,Super G,13,Crawford James,M,18,20,Melissa
+2024-12-20,Val Gardena / Groeden,Super G,14,Babinsky Stefan,M,17,18,
+2024-12-20,Val Gardena / Groeden,Super G,15,Murisier Justin,M,16,16,Simon
+2024-12-20,Val Gardena / Groeden,Super G,16,Hrobat Miha,M,15,15,
+2024-12-20,Val Gardena / Groeden,Super G,16,Vogt Luis,M,15,15,
+2024-12-20,Val Gardena / Groeden,Super G,16,Molteni Nicolo,M,15,15,
+2024-12-20,Val Gardena / Groeden,Super G,19,Bailet Matthieu,M,12,12,
+2024-12-20,Val Gardena / Groeden,Super G,20,Cochran-Siegle Ryan,M,11,11,
+2024-12-20,Val Gardena / Groeden,Super G,21,Theaux Adrien,M,10,10,
+2024-12-20,Val Gardena / Groeden,Super G,21,Monney Alexis,M,10,10,
+2024-12-20,Val Gardena / Groeden,Super G,23,Von Allmen Franjo,M,8,8,Simon
+2024-12-20,Val Gardena / Groeden,Super G,24,Striedinger Otmar,M,7,7,
+2024-12-20,Val Gardena / Groeden,Super G,25,Lehto Elian,M,6,6,
+2024-12-20,Val Gardena / Groeden,Super G,26,Seger Brodie,M,5,5,
+2024-12-20,Val Gardena / Groeden,Super G,27,Eichberger Stefan,M,4,4,
+2024-12-20,Val Gardena / Groeden,Super G,28,Feurstein Lukas,M,3,3,
+2024-12-20,Val Gardena / Groeden,Super G,29,Cater Martin,M,2,2,
+2024-12-20,Val Gardena / Groeden,Super G,30,Franzoni Giovanni,M,1,1,
+2024-12-15,Beaver Creek,Super G,1,Goggia Sofia,W,55,100,Pasi
+2024-12-15,Val d'Isere,Slalom,1,Kristoffersen Henrik,M,55,100,Maurus
+2024-12-15,Beaver Creek,Super G,2,Gut-Behrami Lara,W,48,80,Simon
+2024-12-15,Val d'Isere,Slalom,2,Mcgrath Atle Lie,M,48,80,Pasi
+2024-12-15,Beaver Creek,Super G,3,Raedler Ariane,W,43,60,
+2024-12-15,Val d'Isere,Slalom,3,Meillard Loic,M,43,60,Lena
+2024-12-15,Beaver Creek,Super G,4,Huetter Cornelia,W,38,50,Sarah
+2024-12-15,Val d'Isere,Slalom,4,Pinheiro Braathen Lucas,M,38,50,Lea
+2024-12-15,Val d'Isere,Slalom,4,Feller Manuel,M,38,50,Melissa
+2024-12-15,Beaver Creek,Super G,5,Brignone Federica,W,35,45,Maurus
+2024-12-15,Beaver Creek,Super G,6,Bassino Marta,W,32,40,Simon
+2024-12-15,Val d'Isere,Slalom,6,Kolega Samuel,M,32,40,
+2024-12-15,Beaver Creek,Super G,7,Lie Kajsa Vickhoff,W,29,36,Pasi
+2024-12-15,Val d'Isere,Slalom,7,Kastlunger Tobias,M,29,36,
+2024-12-15,Beaver Creek,Super G,8,Miradoli Romane,W,26,32,Melissa
+2024-12-15,Val d'Isere,Slalom,8,Haugan Timon,M,26,32,Sarah
+2024-12-15,Beaver Creek,Super G,9,Gisin Michelle,W,24,29,Pasi
+2024-12-15,Beaver Creek,Super G,9,Curtoni Elena,W,24,29,
+2024-12-15,Val d'Isere,Slalom,9,Ryding Dave,M,24,29,
+2024-12-15,Val d'Isere,Slalom,10,Vinatzer Alex,M,22,26,Sarah
+2024-12-15,Beaver Creek,Super G,11,Melesi Roberta,W,20,24,
+2024-12-15,Val d'Isere,Slalom,11,Marchant Armand,M,20,24,
+2024-12-15,Beaver Creek,Super G,12,Macuga Lauren,W,19,22,
+2024-12-15,Val d'Isere,Slalom,12,Taylor Laurie,M,19,22,
+2024-12-15,Beaver Creek,Super G,13,Venier Stephanie,W,18,20,Lena
+2024-12-15,Val d'Isere,Slalom,13,Pertl Adrian,M,18,20,
+2024-12-15,Beaver Creek,Super G,14,Ager Christina,W,17,18,
+2024-12-15,Val d'Isere,Slalom,14,Strolz Johannes,M,17,18,
+2024-12-15,Beaver Creek,Super G,15,Puchner Mirjam,W,16,16,Lena
+2024-12-15,Val d'Isere,Slalom,15,Matt Michael,M,16,16,
+2024-12-15,Beaver Creek,Super G,16,Ledecka Ester,W,15,15,Simon
+2024-12-15,Val d'Isere,Slalom,16,Muffat-Jeandet Victor,M,15,15,
+2024-12-15,Beaver Creek,Super G,17,Clement Karen,W,14,14,
+2024-12-15,Val d'Isere,Slalom,17,Gross Stefano,M,14,14,
+2024-12-15,Beaver Creek,Super G,18,Pirovano Laura,W,13,13,Maurus
+2024-12-15,Val d'Isere,Slalom,18,Aerni Luca,M,13,13,
+2024-12-15,Val d'Isere,Slalom,18,Gstrein Fabio,M,13,13,
+2024-12-15,Beaver Creek,Super G,19,Suter Corinne,W,12,12,
+2024-12-15,Beaver Creek,Super G,20,Stuhec Ilka,W,11,11,
+2024-12-15,Val d'Isere,Slalom,20,Yule Daniel,M,11,11,
+2024-12-15,Beaver Creek,Super G,21,Cashman Keely,W,10,10,
+2024-12-15,Val d'Isere,Slalom,21,Seymour Jett,M,10,10,
+2024-12-15,Beaver Creek,Super G,22,Haehlen Joana,W,9,9,
+2024-12-15,Val d'Isere,Slalom,22,Laine Tormis,M,9,9,
+2024-12-15,Beaver Creek,Super G,23,Egger Magdalena,W,8,8,
+2024-12-15,Val d'Isere,Slalom,23,Zubcic Filip,M,8,8,Maurus
+2024-12-15,Beaver Creek,Super G,24,Bernardi Vicky,W,7,7,
+2024-12-15,Beaver Creek,Super G,25,Suter Jasmina,W,6,6,
+2024-12-15,Beaver Creek,Super G,26,Robinson Alice,W,5,5,Melissa
+2024-12-15,Beaver Creek,Super G,27,Gauche Laura,W,4,4,
+2024-12-15,Beaver Creek,Super G,28,Johnson Breezy,W,3,3,
+2024-12-15,Beaver Creek,Super G,28,Aicher Emma,W,3,3,
+2024-12-15,Beaver Creek,Super G,30,Grill Lisa,W,1,1,
+2024-12-14,Beaver Creek,Downhill,1,Huetter Cornelia,W,55,100,Sarah
+2024-12-14,Val d'Isere,Giant Slalom,1,Odermatt Marco,M,55,100,Sarah
+2024-12-14,Beaver Creek,Downhill,2,Goggia Sofia,W,48,80,Pasi
+2024-12-14,Val d'Isere,Giant Slalom,2,Feurstein Patrick,M,48,80,
+2024-12-14,Beaver Creek,Downhill,3,Gut-Behrami Lara,W,43,60,Simon
+2024-12-14,Val d'Isere,Giant Slalom,3,Brennsteiner Stefan,M,43,60,
+2024-12-14,Beaver Creek,Downhill,4,Macuga Lauren,W,38,50,
+2024-12-14,Val d'Isere,Giant Slalom,4,Aerni Luca,M,38,50,
+2024-12-14,Beaver Creek,Downhill,5,Haaser Ricarda,W,35,45,
+2024-12-14,Val d'Isere,Giant Slalom,5,Kristoffersen Henrik,M,35,45,Maurus
+2024-12-14,Beaver Creek,Downhill,6,Ledecka Ester,W,32,40,Simon
+2024-12-14,Val d'Isere,Giant Slalom,6,De Aliprandini Luca,M,32,40,
+2024-12-14,Beaver Creek,Downhill,7,Bassino Marta,W,29,36,Simon
+2024-12-14,Val d'Isere,Giant Slalom,7,Verdu Joan,M,29,36,
+2024-12-14,Beaver Creek,Downhill,8,Gisin Michelle,W,26,32,Pasi
+2024-12-14,Val d'Isere,Giant Slalom,8,Kranjec Zan,M,26,32,Lena
+2024-12-14,Beaver Creek,Downhill,9,Brignone Federica,W,24,29,Maurus
+2024-12-14,Val d'Isere,Giant Slalom,9,Meillard Loic,M,24,29,Lena
+2024-12-14,Beaver Creek,Downhill,10,Stuhec Ilka,W,22,26,
+2024-12-14,Val d'Isere,Giant Slalom,10,Zubcic Filip,M,22,26,Maurus
+2024-12-14,Beaver Creek,Downhill,11,Pirovano Laura,W,20,24,Maurus
+2024-12-14,Val d'Isere,Giant Slalom,11,Caviezel Gino,M,20,24,Lea
+2024-12-14,Beaver Creek,Downhill,12,Lie Kajsa Vickhoff,W,19,22,Pasi
+2024-12-14,Val d'Isere,Giant Slalom,12,Haugan Timon,M,19,22,Sarah
+2024-12-14,Beaver Creek,Downhill,13,Johnson Breezy,W,18,20,
+2024-12-14,Val d'Isere,Giant Slalom,13,Borsotti Giovanni,M,18,20,
+2024-12-14,Beaver Creek,Downhill,14,Ming-Nufer Priska,W,17,18,
+2024-12-14,Val d'Isere,Giant Slalom,14,Laine Tormis,M,17,18,
+2024-12-14,Beaver Creek,Downhill,15,Puchner Mirjam,W,16,16,Lena
+2024-12-14,Val d'Isere,Giant Slalom,15,Schmid Alexander,M,16,16,
+2024-12-14,Beaver Creek,Downhill,16,Suter Jasmina,W,15,15,
+2024-12-14,Val d'Isere,Giant Slalom,16,Windingstad Rasmus,M,15,15,
+2024-12-14,Beaver Creek,Downhill,17,Venier Stephanie,W,14,14,Lena
+2024-12-14,Val d'Isere,Giant Slalom,17,Radamus River,M,14,14,
+2024-12-14,Beaver Creek,Downhill,18,Melesi Roberta,W,13,13,
+2024-12-14,Val d'Isere,Giant Slalom,18,Ford Tommy,M,13,13,
+2024-12-14,Beaver Creek,Downhill,19,Miradoli Romane,W,12,12,Melissa
+2024-12-14,Val d'Isere,Giant Slalom,19,Gratz Fabian,M,12,12,
+2024-12-14,Beaver Creek,Downhill,20,Ager Christina,W,11,11,
+2024-12-14,Val d'Isere,Giant Slalom,20,Stockinger Jonas,M,11,11,
+2024-12-14,Beaver Creek,Downhill,21,Suter Corinne,W,10,10,
+2024-12-14,Val d'Isere,Giant Slalom,21,Mcgrath Atle Lie,M,10,10,Pasi
+2024-12-14,Beaver Creek,Downhill,22,Ortlieb Nina,W,9,9,
+2024-12-14,Val d'Isere,Giant Slalom,22,Favrot Thibaut,M,9,9,
+2024-12-14,Beaver Creek,Downhill,23,Raedler Ariane,W,8,8,
+2024-12-14,Val d'Isere,Giant Slalom,23,Elezi Cannaferina Alban,M,8,8,
+2024-12-14,Beaver Creek,Downhill,24,Curtoni Elena,W,7,7,
+2024-12-14,Val d'Isere,Giant Slalom,24,Zingerle Hannes,M,7,7,
+2024-12-14,Beaver Creek,Downhill,25,Monsen Marte,W,6,6,
+2024-12-14,Beaver Creek,Downhill,25,Muzaferija Elvedina,W,6,6,
+2024-12-14,Val d'Isere,Giant Slalom,25,Anguenot Leo,M,6,6,
+2024-12-14,Val d'Isere,Giant Slalom,25,Tumler Thomas,M,6,6,
+2024-12-14,Beaver Creek,Downhill,27,Delago Nadia,W,4,4,
+2024-12-14,Val d'Isere,Giant Slalom,27,Maes Sam,M,4,4,
+2024-12-14,Beaver Creek,Downhill,28,Gauche Laura,W,3,3,
+2024-12-14,Val d'Isere,Giant Slalom,28,Pinturault Alexis,M,3,3,Pasi
+2024-12-14,Beaver Creek,Downhill,29,Wiles Jacqueline,W,2,2,
+2024-12-14,Beaver Creek,Downhill,30,Durrer Delia,W,1,1,
+2024-12-08,Beaver Creek,Giant Slalom,1,Tumler Thomas,M,55,100,
+2024-12-08,Beaver Creek,Giant Slalom,2,Pinheiro Braathen Lucas,M,48,80,Lea
+2024-12-08,Beaver Creek,Giant Slalom,3,Kranjec Zan,M,43,60,Lena
+2024-12-08,Beaver Creek,Giant Slalom,4,Mcgrath Atle Lie,M,38,50,Pasi
+2024-12-08,Beaver Creek,Giant Slalom,5,Kristoffersen Henrik,M,35,45,Maurus
+2024-12-08,Beaver Creek,Giant Slalom,6,Zubcic Filip,M,32,40,Maurus
+2024-12-08,Beaver Creek,Giant Slalom,7,Radamus River,M,29,36,
+2024-12-08,Beaver Creek,Giant Slalom,8,De Aliprandini Luca,M,26,32,
+2024-12-08,Beaver Creek,Giant Slalom,9,Steen Olsen Alexander,M,24,29,Lea
+2024-12-08,Beaver Creek,Giant Slalom,10,Brennsteiner Stefan,M,22,26,
+2024-12-08,Beaver Creek,Giant Slalom,11,Favrot Thibaut,M,20,24,
+2024-12-08,Beaver Creek,Giant Slalom,12,Schmid Alexander,M,19,22,
+2024-12-08,Beaver Creek,Giant Slalom,13,Meillard Loic,M,18,20,Lena
+2024-12-08,Beaver Creek,Giant Slalom,14,Anguenot Leo,M,17,18,
+2024-12-08,Beaver Creek,Giant Slalom,15,Verdu Joan,M,16,16,
+2024-12-08,Beaver Creek,Giant Slalom,16,Pinturault Alexis,M,15,15,Pasi
+2024-12-08,Beaver Creek,Giant Slalom,17,Caviezel Gino,M,14,14,Lea
+2024-12-08,Beaver Creek,Giant Slalom,18,Maes Sam,M,13,13,
+2024-12-08,Beaver Creek,Giant Slalom,19,Gratz Fabian,M,12,12,
+2024-12-08,Beaver Creek,Giant Slalom,20,Haaser Raphael,M,11,11,Simon
+2024-12-08,Beaver Creek,Giant Slalom,21,Janutin Fadri,M,10,10,
+2024-12-08,Beaver Creek,Giant Slalom,22,Luitz Stefan,M,9,9,
+2024-12-08,Beaver Creek,Giant Slalom,23,Vinatzer Alex,M,8,8,Sarah
+2024-12-08,Beaver Creek,Giant Slalom,24,Stockinger Jonas,M,7,7,
+2024-12-08,Beaver Creek,Giant Slalom,25,Hansson William,M,6,6,
+2024-12-08,Beaver Creek,Giant Slalom,26,Haugan Timon,M,5,5,Sarah
+2024-12-07,Beaver Creek,Super G,1,Odermatt Marco,M,55,100,Sarah
+2024-12-07,Beaver Creek,Super G,2,Sarrazin Cyprien,M,48,80,Lena
+2024-12-07,Beaver Creek,Super G,3,Feurstein Lukas,M,43,60,
+2024-12-07,Beaver Creek,Super G,4,Franzoni Giovanni,M,38,50,
+2024-12-07,Beaver Creek,Super G,4,Moeller Fredrik,M,38,50,
+2024-12-07,Beaver Creek,Super G,6,Kriechmayr Vincent,M,32,40,Melissa
+2024-12-07,Beaver Creek,Super G,7,Caviezel Gino,M,29,36,Lea
+2024-12-07,Beaver Creek,Super G,8,Radamus River,M,26,32,
+2024-12-07,Beaver Creek,Super G,9,Danklmaier Daniel,M,24,29,
+2024-12-07,Beaver Creek,Super G,10,Pinturault Alexis,M,22,26,Pasi
+2024-12-07,Beaver Creek,Super G,11,Cochran-Siegle Ryan,M,20,24,
+2024-12-07,Beaver Creek,Super G,12,Zabystran Jan,M,19,22,
+2024-12-07,Beaver Creek,Super G,13,Loriot Florian,M,18,20,
+2024-12-07,Beaver Creek,Super G,14,Eichberger Stefan,M,17,18,
+2024-12-07,Beaver Creek,Super G,15,Paris Dominik,M,16,16,Lea
+2024-12-07,Beaver Creek,Super G,16,Casse Mattia,M,15,15,Maurus
+2024-12-07,Beaver Creek,Super G,17,Monney Alexis,M,14,14,
+2024-12-07,Beaver Creek,Super G,17,Murisier Justin,M,14,14,Simon
+2024-12-07,Beaver Creek,Super G,19,Negomir Kyle,M,12,12,
+2024-12-07,Beaver Creek,Super G,20,Bailet Matthieu,M,11,11,
+2024-12-07,Beaver Creek,Super G,21,Seger Brodie,M,10,10,
+2024-12-07,Beaver Creek,Super G,21,Baumann Romed,M,10,10,
+2024-12-07,Beaver Creek,Super G,23,Striedinger Otmar,M,8,8,
+2024-12-07,Beaver Creek,Super G,24,Giezendanner Blaise,M,7,7,
+2024-12-07,Beaver Creek,Super G,25,Hemetsberger Daniel,M,6,6,
+2024-12-07,Beaver Creek,Super G,26,Rogentin Stefan,M,5,5,Melissa
+2024-12-07,Beaver Creek,Super G,26,Meillard Loic,M,5,5,Lena
+2024-12-07,Beaver Creek,Super G,28,Kohler Marco,M,3,3,
+2024-12-07,Beaver Creek,Super G,28,Bennett Bryce,M,3,3,Pasi
+2024-12-07,Beaver Creek,Super G,30,Alphand Nils,M,1,1,
+2024-12-06,Beaver Creek,Downhill,1,Murisier Justin,M,55,100,Simon
+2024-12-06,Beaver Creek,Downhill,2,Odermatt Marco,M,48,80,Sarah
+2024-12-06,Beaver Creek,Downhill,3,Hrobat Miha,M,43,60,
+2024-12-06,Beaver Creek,Downhill,4,Crawford James,M,38,50,Melissa
+2024-12-06,Beaver Creek,Downhill,5,Kriechmayr Vincent,M,35,45,Melissa
+2024-12-06,Beaver Creek,Downhill,6,Bennett Bryce,M,32,40,
+2024-12-06,Beaver Creek,Downhill,7,Giezendanner Blaise,M,29,36,
+2024-12-06,Beaver Creek,Downhill,8,Allegre Nils,M,26,32,Maurus
+2024-12-06,Beaver Creek,Downhill,9,Sarrazin Cyprien,M,24,29,Lena
+2024-12-06,Beaver Creek,Downhill,10,Seger Brodie,M,22,26,
+2024-12-06,Beaver Creek,Downhill,11,Zabystran Jan,M,20,24,
+2024-12-06,Beaver Creek,Downhill,12,Cochran-Siegle Ryan,M,19,22,
+2024-12-06,Beaver Creek,Downhill,13,Rogentin Stefan,M,18,20,Melissa
+2024-12-06,Beaver Creek,Downhill,13,Monney Alexis,M,18,20,
+2024-12-06,Beaver Creek,Downhill,15,Kohler Marco,M,16,16,
+2024-12-06,Beaver Creek,Downhill,16,Muzaton Maxence,M,15,15,
+2024-12-06,Beaver Creek,Downhill,17,Babinsky Stefan,M,14,14,
+2024-12-06,Beaver Creek,Downhill,18,Roesti Lars,M,13,13,
+2024-12-06,Beaver Creek,Downhill,19,Paris Dominik,M,12,12,Lea
+2024-12-06,Beaver Creek,Downhill,20,Eichberger Stefan,M,11,11,
+2024-12-06,Beaver Creek,Downhill,21,Morse Sam,M,10,10,
+2024-12-06,Beaver Creek,Downhill,22,Sejersted Adrian Smiseth,M,9,9,
+2024-12-06,Beaver Creek,Downhill,23,Schieder Florian,M,8,8,
+2024-12-06,Beaver Creek,Downhill,24,Hemetsberger Daniel,M,7,7,
+2024-12-06,Beaver Creek,Downhill,25,Haaser Raphael,M,6,6,Simon
+2024-12-06,Beaver Creek,Downhill,26,Casse Mattia,M,5,5,Maurus
+2024-12-06,Beaver Creek,Downhill,27,Franzoni Giovanni,M,4,4,
+2024-12-06,Beaver Creek,Downhill,28,Von Allmen Franjo,M,3,3,Simon
+2024-12-06,Beaver Creek,Downhill,29,Alphand Nils,M,2,2,
+2024-12-06,Beaver Creek,Downhill,29,Striedinger Otmar,M,2,2,
+2024-12-01,Killington,Slalom,1,Rast Camille,W,55,100,Maurus
+2024-12-01,Killington,Slalom,2,Swenn Larsson Anna,W,48,80,Sarah
+2024-12-01,Killington,Slalom,2,Holdener Wendy,W,48,80,Lena
+2024-12-01,Killington,Slalom,4,Duerr Lena,W,38,50,Melissa
+2024-12-01,Killington,Slalom,5,Meillard Melanie,W,35,45,
+2024-12-01,Killington,Slalom,6,Ljutic Zrinka,W,32,40,Lea
+2024-12-01,Killington,Slalom,7,St-Germain Laurence,W,29,36,
+2024-12-01,Killington,Slalom,8,Colturi Lara,W,26,32,Pasi
+2024-12-01,Killington,Slalom,9,Liensberger Katharina,W,24,29,Lea
+2024-12-01,Killington,Slalom,10,Slokar Andreja,W,22,26,
+2024-12-01,Killington,Slalom,11,Truppe Katharina,W,20,24,
+2024-12-01,Killington,Slalom,12,Hector Sara,W,19,22,Melissa
+2024-12-01,Killington,Slalom,13,Huber Katharina,W,18,20,
+2024-12-01,Killington,Slalom,14,Holtmann Mina Fuerst,W,17,18,Lea
+2024-12-01,Killington,Slalom,15,Hoepli Aline,W,16,16,
+2024-12-01,Killington,Slalom,16,Collomb Giorgia,W,15,15,
+2024-12-01,Killington,Slalom,17,Lamure Marie,W,14,14,
+2024-12-01,Killington,Slalom,18,Dvornik Neja,W,13,13,
+2024-12-01,Killington,Slalom,19,Gisin Michelle,W,12,12,Pasi
+2024-12-01,Killington,Slalom,20,Pogneaux Chiara,W,11,11,
+2024-12-01,Killington,Slalom,21,Aronsson Elfman Hanna,W,10,10,
+2024-12-01,Killington,Slalom,22,Hoerhager Lisa,W,9,9,
+2024-12-01,Killington,Slalom,23,Hilzinger Jessica,W,8,8,
+2024-12-01,Killington,Slalom,24,Oehlund Cornelia,W,7,7,
+2024-12-01,Killington,Slalom,25,Gritsch Franziska,W,6,6,
+2024-12-01,Killington,Slalom,26,Breche Clarisse,W,5,5,
+2024-11-30,Killington,Giant Slalom,1,Hector Sara,W,55,100,Melissa
+2024-11-30,Killington,Giant Slalom,2,Ljutic Zrinka,W,48,80,Lea
+2024-11-30,Killington,Giant Slalom,3,Rast Camille,W,43,60,Maurus
+2024-11-30,Killington,Giant Slalom,4,Stjernesund Thea Louise,W,38,50,Sarah
+2024-11-30,Killington,Giant Slalom,5,Moltzan Paula,W,35,45,Sarah
+2024-11-30,Killington,Giant Slalom,6,O Brien Nina,W,32,40,
+2024-11-30,Killington,Giant Slalom,7,Dvornik Neja,W,29,36,
+2024-11-30,Killington,Giant Slalom,8,Haaser Ricarda,W,26,32,
+2024-11-30,Killington,Giant Slalom,9,Colturi Lara,W,24,29,Pasi
+2024-11-30,Killington,Giant Slalom,9,Grenier Valerie,W,24,29,Maurus
+2024-11-30,Killington,Giant Slalom,11,Gasienica-Daniel Maryna,W,20,24,
+2024-11-30,Killington,Giant Slalom,12,Holdener Wendy,W,19,22,Lena
+2024-11-30,Killington,Giant Slalom,13,Hensien Katie,W,18,20,
+2024-11-30,Killington,Giant Slalom,13,Gut-Behrami Lara,W,18,20,Simon
+2024-11-30,Killington,Giant Slalom,15,Alphand Estelle,W,16,16,
+2024-11-30,Killington,Giant Slalom,16,Breche Clarisse,W,15,15,
+2024-11-30,Killington,Giant Slalom,17,Bucik Jogan Ana,W,14,14,
+2024-11-30,Killington,Giant Slalom,18,Zenere Asja,W,13,13,
+2024-11-30,Killington,Giant Slalom,19,Collomb Giorgia,W,12,12,
+2024-11-30,Killington,Giant Slalom,19,Aicher Emma,W,12,12,
+2024-11-30,Killington,Giant Slalom,21,Ghisalberti Ilaria,W,10,10,
+2024-11-30,Killington,Giant Slalom,22,Wild Simone,W,9,9,
+2024-11-30,Killington,Giant Slalom,23,Bocock Elisabeth,W,8,8,
+2024-11-30,Killington,Giant Slalom,24,Lysdahl Kristin,W,7,7,
+2024-11-30,Killington,Giant Slalom,25,Gisin Michelle,W,6,6,Pasi
+2024-11-30,Killington,Giant Slalom,26,Della Mea Lara,W,5,5,
+2024-11-30,Killington,Giant Slalom,27,Richardson Britt,W,4,4,
+2024-11-24,Gurgl,Slalom,1,Noel Clement,M,55,100,Lena
+2024-11-24,Gurgl,Slalom,2,Jakobsen Kristoffer,M,48,80,
+2024-11-24,Gurgl,Slalom,3,Mcgrath Atle Lie,M,43,60,Pasi
+2024-11-24,Gurgl,Slalom,4,Amiez Steven,M,38,50,Pasi
+2024-11-24,Gurgl,Slalom,5,Meillard Loic,M,35,45,Lena
+2024-11-24,Gurgl,Slalom,6,Kristoffersen Henrik,M,32,40,Maurus
+2024-11-24,Gurgl,Slalom,7,Ryding Dave,M,29,36,
+2024-11-24,Gurgl,Slalom,8,Hallberg Eduard,M,26,32,
+2024-11-24,Gurgl,Slalom,9,Gstrein Fabio,M,24,29,
+2024-11-24,Gurgl,Slalom,9,Haugan Timon,M,24,29,Sarah
+2024-11-24,Gurgl,Slalom,11,Marchant Armand,M,20,24,
+2024-11-24,Gurgl,Slalom,12,Raschner Dominik,M,19,22,
+2024-11-24,Gurgl,Slalom,13,Yule Daniel,M,18,20,
+2024-11-24,Gurgl,Slalom,14,Rassat Paco,M,17,18,
+2024-11-24,Gurgl,Slalom,15,Steen Olsen Alexander,M,16,16,Lea
+2024-11-24,Gurgl,Slalom,16,Kolega Samuel,M,15,15,
+2024-11-24,Gurgl,Slalom,17,Vinatzer Alex,M,14,14,Sarah
+2024-11-24,Gurgl,Slalom,18,Popov Albert,M,13,13,
+2024-11-24,Gurgl,Slalom,19,Ginnis Aj,M,12,12,
+2024-11-24,Gurgl,Slalom,20,Pertl Adrian,M,11,11,
+2024-11-24,Gurgl,Slalom,21,Ritchie Benjamin,M,10,10,
+2024-11-24,Gurgl,Slalom,22,Nef Tanguy,M,9,9,
+2024-11-24,Gurgl,Slalom,23,Taylor Laurie,M,8,8,
+2024-11-24,Gurgl,Slalom,24,Aerni Luca,M,7,7,
+2024-11-24,Gurgl,Slalom,25,Sturm Joshua,M,6,6,
+2024-11-24,Gurgl,Slalom,26,Kastlunger Tobias,M,5,5,
+2024-11-24,Gurgl,Slalom,27,Ax Swartz Fabian,M,4,4,
+2024-11-24,Gurgl,Slalom,28,Gross Stefano,M,3,3,
+2024-11-24,Gurgl,Slalom,29,Matt Michael,M,2,2,
+2024-11-24,Gurgl,Slalom,30,Zenhaeusern Ramon,M,1,1,
+2024-11-23,Gurgl,Slalom,1,Shiffrin Mikaela,W,55,100,Lea
+2024-11-23,Gurgl,Slalom,2,Colturi Lara,W,48,80,Pasi
+2024-11-23,Gurgl,Slalom,3,Rast Camille,W,43,60,Maurus
+2024-11-23,Gurgl,Slalom,4,Holdener Wendy,W,38,50,Lena
+2024-11-23,Gurgl,Slalom,5,Duerr Lena,W,35,45,Melissa
+2024-11-23,Gurgl,Slalom,6,Moltzan Paula,W,32,40,Sarah
+2024-11-23,Gurgl,Slalom,7,Liensberger Katharina,W,29,36,Lea
+2024-11-23,Gurgl,Slalom,8,Hector Sara,W,26,32,Melissa
+2024-11-23,Gurgl,Slalom,9,Ljutic Zrinka,W,24,29,Lea
+2024-11-23,Gurgl,Slalom,10,Meillard Melanie,W,22,26,
+2024-11-23,Gurgl,Slalom,11,St-Germain Laurence,W,20,24,
+2024-11-23,Gurgl,Slalom,12,Slokar Andreja,W,19,22,
+2024-11-23,Gurgl,Slalom,12,Huber Katharina,W,19,22,
+2024-11-23,Gurgl,Slalom,14,Oehlund Cornelia,W,17,18,
+2024-11-23,Gurgl,Slalom,15,Swenn Larsson Anna,W,16,16,Sarah
+2024-11-23,Gurgl,Slalom,16,Gallhuber Katharina,W,15,15,
+2024-11-23,Gurgl,Slalom,17,Alphand Estelle,W,14,14,
+2024-11-23,Gurgl,Slalom,18,Nullmeyer Ali,W,13,13,
+2024-11-23,Gurgl,Slalom,19,Dvornik Neja,W,12,12,
+2024-11-23,Gurgl,Slalom,20,Peterlini Martina,W,11,11,
+2024-11-23,Gurgl,Slalom,21,Sola Beatrice,W,10,10,
+2024-11-23,Gurgl,Slalom,22,Dubovska Martina,W,9,9,
+2024-11-23,Gurgl,Slalom,23,Breche Clarisse,W,8,8,
+2024-11-23,Gurgl,Slalom,24,Holtmann Mina Fuerst,W,7,7,Lea
+2024-11-23,Gurgl,Slalom,25,Popovic Leona,W,6,6,Lena
+2024-11-23,Gurgl,Slalom,26,Pogneaux Chiara,W,5,5,
+2024-11-17,Levi,Slalom,1,Noel Clement,M,55,100,Lena
+2024-11-17,Levi,Slalom,2,Kristoffersen Henrik,M,48,80,Maurus
+2024-11-17,Levi,Slalom,3,Meillard Loic,M,43,60,Lena
+2024-11-17,Levi,Slalom,4,Pinheiro Braathen Lucas,M,38,50,Lea
+2024-11-17,Levi,Slalom,5,Nef Tanguy,M,35,45,
+2024-11-17,Levi,Slalom,6,Amiez Steven,M,32,40,
+2024-11-17,Levi,Slalom,7,Strasser Linus,M,29,36,Sarah
+2024-11-17,Levi,Slalom,8,Steen Olsen Alexander,M,26,32,Lea
+2024-11-17,Levi,Slalom,9,Kolega Samuel,M,24,29,
+2024-11-17,Levi,Slalom,10,Zubcic Filip,M,22,26,Maurus
+2024-11-17,Levi,Slalom,11,Jakobsen Kristoffer,M,20,24,
+2024-11-17,Levi,Slalom,12,Mcgrath Atle Lie,M,19,22,Pasi
+2024-11-17,Levi,Slalom,13,Ritchie Benjamin,M,18,20,
+2024-11-17,Levi,Slalom,14,Haugan Timon,M,17,18,Sarah
+2024-11-17,Levi,Slalom,15,Pertl Adrian,M,16,16,
+2024-11-17,Levi,Slalom,16,Raschner Dominik,M,15,15,
+2024-11-17,Levi,Slalom,16,Ryding Dave,M,15,15,
+2024-11-17,Levi,Slalom,18,Popov Albert,M,13,13,
+2024-11-17,Levi,Slalom,19,Foss-Solevaag Sebastian,M,12,12,
+2024-11-17,Levi,Slalom,20,Zenhaeusern Ramon,M,11,11,
+2024-11-17,Levi,Slalom,21,Sturm Joshua,M,10,10,
+2024-11-17,Levi,Slalom,22,Yule Daniel,M,9,9,Pasi
+2024-11-17,Levi,Slalom,23,Solberg Eirik Hystad,M,8,8,
+2024-11-17,Levi,Slalom,24,Hallberg Eduard,M,7,7,
+2024-11-17,Levi,Slalom,25,Matt Michael,M,6,6,
+2024-11-17,Levi,Slalom,26,Rodes Istok,M,5,5,
+2024-11-17,Levi,Slalom,27,Laine Tormis,M,4,4,
+2024-11-16,Levi,Slalom,1,Shiffrin Mikaela,W,55,100,Lea
+2024-11-16,Levi,Slalom,2,Liensberger Katharina,W,48,80,Lea
+2024-11-16,Levi,Slalom,3,Duerr Lena,W,43,60,Melissa
+2024-11-16,Levi,Slalom,4,Swenn Larsson Anna,W,38,50,Sarah
+2024-11-16,Levi,Slalom,5,Rast Camille,W,35,45,Maurus
+2024-11-16,Levi,Slalom,6,Ljutic Zrinka,W,32,40,Lea
+2024-11-16,Levi,Slalom,7,Meillard Melanie,W,29,36,
+2024-11-16,Levi,Slalom,8,Moltzan Paula,W,26,32,Sarah
+2024-11-16,Levi,Slalom,9,Aicher Emma,W,24,29,
+2024-11-16,Levi,Slalom,10,St-Germain Laurence,W,22,26,
+2024-11-16,Levi,Slalom,11,Lamure Marie,W,20,24,
+2024-11-16,Levi,Slalom,12,Breche Clarisse,W,19,22,
+2024-11-16,Levi,Slalom,13,Popovic Leona,W,18,20,Lena
+2024-11-16,Levi,Slalom,14,Aronsson Elfman Hanna,W,17,18,
+2024-11-16,Levi,Slalom,15,Dvornik Neja,W,16,16,
+2024-11-16,Levi,Slalom,16,Holdener Wendy,W,15,15,Lena
+2024-11-16,Levi,Slalom,17,Oehlund Cornelia,W,14,14,
+2024-11-16,Levi,Slalom,17,Peterlini Martina,W,14,14,
+2024-11-16,Levi,Slalom,19,Truppe Katharina,W,12,12,
+2024-11-16,Levi,Slalom,19,Hector Sara,W,12,12,Melissa
+2024-11-16,Levi,Slalom,21,Germane Dzenifera,W,10,10,
+2024-11-16,Levi,Slalom,22,Bucik Jogan Ana,W,9,9,
+2024-11-16,Levi,Slalom,23,Smart Amelia,W,8,8,
+2024-11-16,Levi,Slalom,24,Gisin Michelle,W,7,7,Pasi
+2024-11-16,Levi,Slalom,25,Gallhuber Katharina,W,6,6,
+2024-10-27,Soelden,Giant Slalom,1,Steen Olsen Alexander,M,55,100,Lea
+2024-10-27,Soelden,Giant Slalom,2,Kristoffersen Henrik,M,48,80,Maurus
+2024-10-27,Soelden,Giant Slalom,3,Mcgrath Atle Lie,M,43,60,Pasi
+2024-10-27,Soelden,Giant Slalom,4,Pinheiro Braathen Lucas,M,38,50,Lea
+2024-10-27,Soelden,Giant Slalom,5,Vinatzer Alex,M,35,45,Sarah
+2024-10-27,Soelden,Giant Slalom,6,Kranjec Zan,M,32,40,Lena
+2024-10-27,Soelden,Giant Slalom,7,Haaser Raphael,M,29,36,Simon
+2024-10-27,Soelden,Giant Slalom,8,Feurstein Patrick,M,26,32,
+2024-10-27,Soelden,Giant Slalom,9,Caviezel Gino,M,24,29,Lea
+2024-10-27,Soelden,Giant Slalom,10,De Aliprandini Luca,M,22,26,
+2024-10-27,Soelden,Giant Slalom,11,Radamus River,M,20,24,
+2024-10-27,Soelden,Giant Slalom,12,Maes Sam,M,19,22,
+2024-10-27,Soelden,Giant Slalom,12,Haugan Timon,M,19,22,Sarah
+2024-10-27,Soelden,Giant Slalom,14,Tumler Thomas,M,17,18,
+2024-10-27,Soelden,Giant Slalom,15,Favrot Thibaut,M,16,16,
+2024-10-27,Soelden,Giant Slalom,16,Schmid Alexander,M,15,15,
+2024-10-27,Soelden,Giant Slalom,17,Murisier Justin,M,14,14,Simon
+2024-10-27,Soelden,Giant Slalom,18,Hansson William,M,13,13,
+2024-10-27,Soelden,Giant Slalom,19,Borsotti Giovanni,M,12,12,
+2024-10-27,Soelden,Giant Slalom,20,Windingstad Rasmus,M,11,11,
+2024-10-27,Soelden,Giant Slalom,21,Ford Tommy,M,10,10,
+2024-10-27,Soelden,Giant Slalom,22,Strasser Linus,M,9,9,Sarah
+2024-10-27,Soelden,Giant Slalom,23,Hirscher Marcel,M,8,8,Pasi
+2024-10-27,Soelden,Giant Slalom,24,Anguenot Leo,M,7,7,
+2024-10-27,Soelden,Giant Slalom,25,Stockinger Jonas,M,6,6,
+2024-10-27,Soelden,Giant Slalom,26,Muffat-Jeandet Victor,M,5,5,
+2024-10-27,Soelden,Giant Slalom,27,Simonet Livio,M,4,4,
+2024-10-27,Soelden,Giant Slalom,28,Sarrazin Cyprien,M,3,3,Lena
+2024-10-26,Soelden,Giant Slalom,1,Brignone Federica,W,55,100,Maurus
+2024-10-26,Soelden,Giant Slalom,2,Robinson Alice,W,48,80,Melissa
+2024-10-26,Soelden,Giant Slalom,3,Scheib Julia,W,43,60,
+2024-10-26,Soelden,Giant Slalom,4,Hensien Katie,W,38,50,
+2024-10-26,Soelden,Giant Slalom,5,Shiffrin Mikaela,W,35,45,Lea
+2024-10-26,Soelden,Giant Slalom,6,Stjernesund Thea Louise,W,32,40,Sarah
+2024-10-26,Soelden,Giant Slalom,7,O Brien Nina,W,29,36,
+2024-10-26,Soelden,Giant Slalom,8,Liensberger Katharina,W,26,32,Lea
+2024-10-26,Soelden,Giant Slalom,9,Holtmann Mina Fuerst,W,24,29,Lea
+2024-10-26,Soelden,Giant Slalom,10,Duerr Lena,W,22,26,Melissa
+2024-10-26,Soelden,Giant Slalom,11,Moltzan Paula,W,20,24,Sarah
+2024-10-26,Soelden,Giant Slalom,12,Rast Camille,W,19,22,Maurus
+2024-10-26,Soelden,Giant Slalom,13,Bassino Marta,W,18,20,Simon
+2024-10-26,Soelden,Giant Slalom,14,Brunner Stephanie,W,17,18,
+2024-10-26,Soelden,Giant Slalom,15,Hector Sara,W,16,16,Melissa
+2024-10-26,Soelden,Giant Slalom,16,Colturi Lara,W,15,15,Pasi
+2024-10-26,Soelden,Giant Slalom,17,Richardson Britt,W,14,14,
+2024-10-26,Soelden,Giant Slalom,18,Ljutic Zrinka,W,13,13,Lea
+2024-10-26,Soelden,Giant Slalom,19,Direz Clara,W,12,12,
+2024-10-26,Soelden,Giant Slalom,20,Zenere Asja,W,11,11,
+2024-10-26,Soelden,Giant Slalom,21,Bucik Jogan Ana,W,10,10,
+2024-10-26,Soelden,Giant Slalom,22,Gisin Michelle,W,9,9,Pasi
+2024-10-26,Soelden,Giant Slalom,23,Alphand Estelle,W,8,8,
+2024-10-26,Soelden,Giant Slalom,24,Dorigo Fabiana,W,7,7,
+2024-10-26,Soelden,Giant Slalom,25,Holdener Wendy,W,6,6,Lena
+2024-10-26,Soelden,Giant Slalom,25,Gasienica-Daniel Maryna,W,6,6,
+2024-10-26,Soelden,Giant Slalom,27,Gritsch Franziska,W,4,4,
+2024-10-26,Soelden,Giant Slalom,28,Wild Simone,W,3,3,
