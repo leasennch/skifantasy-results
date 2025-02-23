@@ -1,34 +1,64 @@
 Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-02-23,Crans Montana,Super G,1,Odermatt Marco,M,55,100,Reich
+2025-02-23,Sestriere,Slalom,1,Shiffrin Mikaela,W,55,100,Fehr
 2025-02-23,Crans Montana,Super G,2,Monney Alexis,M,48,80,Knuchel
+2025-02-23,Sestriere,Slalom,2,Ljutic Zrinka,W,48,80,Bulleri
 2025-02-23,Crans Montana,Super G,3,Paris Dominik,M,43,60,Helfenberger
+2025-02-23,Sestriere,Slalom,3,Moltzan Paula,W,43,60,Reich
 2025-02-23,Crans Montana,Super G,4,Haaser Raphael,M,38,50,Helfenberger
+2025-02-23,Sestriere,Slalom,4,Liensberger Katharina,W,38,50,Bulleri
 2025-02-23,Crans Montana,Super G,5,Casse Mattia,M,35,45,Helbling
+2025-02-23,Sestriere,Slalom,5,Oehlund Cornelia,W,35,45,
 2025-02-23,Crans Montana,Super G,6,Sejersted Adrian Smiseth,M,32,40,Reich
+2025-02-23,Sestriere,Slalom,6,Aicher Emma,W,32,40,Meile
 2025-02-23,Crans Montana,Super G,7,Von Allmen Franjo,M,29,36,Meile
+2025-02-23,Sestriere,Slalom,7,Duerr Lena,W,29,36,Woerlen
 2025-02-23,Crans Montana,Super G,8,Hrobat Miha,M,26,32,Rizzi
+2025-02-23,Sestriere,Slalom,8,Swenn Larsson Anna,W,26,32,Bürgler
 2025-02-23,Crans Montana,Super G,9,Feurstein Lukas,M,24,29,Meier
+2025-02-23,Sestriere,Slalom,9,Holdener Wendy,W,24,29,Manser
 2025-02-23,Crans Montana,Super G,10,Allegre Nils,M,22,26,Rizzi
+2025-02-23,Sestriere,Slalom,10,Slokar Andreja,W,22,26,Woerlen
 2025-02-23,Crans Montana,Super G,11,Ploier Andreas,M,20,24,
+2025-02-23,Sestriere,Slalom,11,Nullmeyer Ali,W,20,24,
 2025-02-23,Crans Montana,Super G,12,Innerhofer Christof,M,19,22,
 2025-02-23,Crans Montana,Super G,12,Eichberger Stefan,M,19,22,
+2025-02-23,Sestriere,Slalom,12,Truppe Katharina,W,19,22,Reich
+2025-02-23,Sestriere,Slalom,13,Hurt A J,W,18,20,Fehr
+2025-02-23,Sestriere,Slalom,13,Colturi Lara,W,18,20,Meile
 2025-02-23,Crans Montana,Super G,14,Zabystran Jan,M,17,18,Käslin
 2025-02-23,Crans Montana,Super G,15,Hemetsberger Daniel,M,16,16,Bürgler
+2025-02-23,Sestriere,Slalom,15,Holtmann Mina Fuerst,W,16,16,Rizzi
 2025-02-23,Crans Montana,Super G,16,Rogentin Stefan,M,15,15,Conzett
+2025-02-23,Sestriere,Slalom,16,Rossetti Marta,W,15,15,
 2025-02-23,Crans Montana,Super G,17,Kriechmayr Vincent,M,14,14,Käslin
+2025-02-23,Sestriere,Slalom,17,Hector Sara,W,14,14,Helfenberger
 2025-02-23,Crans Montana,Super G,18,Monsen Felix,M,13,13,
+2025-02-23,Sestriere,Slalom,18,Huber Katharina,W,13,13,Manser
 2025-02-23,Crans Montana,Super G,19,Lehto Elian,M,12,12,
+2025-02-23,Sestriere,Slalom,19,Peterlini Martina,W,12,12,
+2025-02-23,Sestriere,Slalom,19,Lamure Marie,W,12,12,Conzett
 2025-02-23,Crans Montana,Super G,20,Negomir Kyle,M,11,11,
 2025-02-23,Crans Montana,Super G,21,Baumann Romed,M,10,10,
+2025-02-23,Sestriere,Slalom,21,Della Mea Lara,W,10,10,Bürgler
 2025-02-23,Crans Montana,Super G,22,Murisier Justin,M,9,9,Fehr
+2025-02-23,Sestriere,Slalom,22,Aronsson Elfman Hanna,W,9,9,
 2025-02-23,Crans Montana,Super G,23,Schieder Florian,M,8,8,
 2025-02-23,Crans Montana,Super G,23,Theaux Adrien,M,8,8,
 2025-02-23,Crans Montana,Super G,23,Cochran-Siegle Ryan,M,8,8,Meile
+2025-02-23,Sestriere,Slalom,23,Bucik Jogan Ana,W,8,8,Käslin
+2025-02-23,Sestriere,Slalom,24,Gallhuber Katharina,W,7,7,
+2025-02-23,Sestriere,Slalom,25,Dvornik Neja,W,6,6,Reich
 2025-02-23,Crans Montana,Super G,26,Babinsky Stefan,M,5,5,Meier
+2025-02-23,Sestriere,Slalom,26,Meillard Melanie,W,5,5,Rizzi
 2025-02-23,Crans Montana,Super G,27,Meillard Loic,M,4,4,Meile
+2025-02-23,Sestriere,Slalom,27,Danioth Aline,W,4,4,
+2025-02-23,Sestriere,Slalom,27,St-Germain Laurence,W,4,4,Knuchel
 2025-02-23,Crans Montana,Super G,28,Radamus River,M,3,3,Fehr
 2025-02-23,Crans Montana,Super G,29,Read Jeffrey,M,2,2,
+2025-02-23,Sestriere,Slalom,29,Hilzinger Jessica,W,2,2,
 2025-02-23,Crans Montana,Super G,30,Franzoso Matteo,M,1,1,
+2025-02-23,Sestriere,Slalom,30,Ando Asa,W,1,1,
 2025-02-22,Crans Montana,Downhill,1,Von Allmen Franjo,M,55,100,Meile
 2025-02-22,Sestriere,Giant Slalom,1,Brignone Federica,W,55,100,Bürgler
 2025-02-22,Crans Montana,Downhill,2,Odermatt Marco,M,48,80,Reich
