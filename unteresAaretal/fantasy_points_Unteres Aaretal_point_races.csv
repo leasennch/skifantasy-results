@@ -1,4 +1,61 @@
 Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
+2025-03-08,Kvitfjell,Downhill,1,Von Allmen Franjo,M,55,100,Simon
+2025-03-08,Are,Giant Slalom,1,Brignone Federica,W,55,100,Maurus
+2025-03-08,Kvitfjell,Downhill,2,Odermatt Marco,M,48,80,Sarah
+2025-03-08,Are,Giant Slalom,2,Robinson Alice,W,48,80,Melissa
+2025-03-08,Kvitfjell,Downhill,3,Rogentin Stefan,M,43,60,Melissa
+2025-03-08,Are,Giant Slalom,3,Colturi Lara,W,43,60,Pasi
+2025-03-08,Kvitfjell,Downhill,4,Hrobat Miha,M,38,50,Pasi
+2025-03-08,Are,Giant Slalom,4,Stjernesund Thea Louise,W,38,50,Sarah
+2025-03-08,Kvitfjell,Downhill,5,Sejersted Adrian Smiseth,M,35,45,Maurus
+2025-03-08,Are,Giant Slalom,5,Grenier Valerie,W,35,45,
+2025-03-08,Kvitfjell,Downhill,6,Paris Dominik,M,32,40,Lea
+2025-03-08,Are,Giant Slalom,6,Moltzan Paula,W,32,40,Sarah
+2025-03-08,Kvitfjell,Downhill,7,Naralocnik Nejc,M,29,36,
+2025-03-08,Are,Giant Slalom,7,Scheib Julia,W,29,36,
+2025-03-08,Kvitfjell,Downhill,8,Crawford James,M,26,32,Melissa
+2025-03-08,Are,Giant Slalom,8,Rast Camille,W,26,32,Maurus
+2025-03-08,Kvitfjell,Downhill,9,Kriechmayr Vincent,M,24,29,Melissa
+2025-03-08,Are,Giant Slalom,9,Gut-Behrami Lara,W,24,29,Simon
+2025-03-08,Kvitfjell,Downhill,10,Murisier Justin,M,22,26,Simon
+2025-03-08,Are,Giant Slalom,10,Hector Sara,W,22,26,Melissa
+2025-03-08,Kvitfjell,Downhill,11,Eichberger Stefan,M,20,24,
+2025-03-08,Are,Giant Slalom,11,O Brien Nina,W,20,24,
+2025-03-08,Kvitfjell,Downhill,12,Monney Alexis,M,19,22,Sarah
+2025-03-08,Are,Giant Slalom,12,Nyberg Lisa,W,19,22,
+2025-03-08,Kvitfjell,Downhill,13,Schieder Florian,M,18,20,
+2025-03-08,Are,Giant Slalom,13,Holtmann Mina Fuerst,W,18,20,
+2025-03-08,Kvitfjell,Downhill,14,Molteni Nicolo,M,17,18,
+2025-03-08,Are,Giant Slalom,14,Bocock Elisabeth,W,17,18,
+2025-03-08,Kvitfjell,Downhill,15,Muzaton Maxence,M,16,16,
+2025-03-08,Are,Giant Slalom,15,Richardson Britt,W,16,16,
+2025-03-08,Kvitfjell,Downhill,16,Alliod Benjamin Jacques,M,15,15,
+2025-03-08,Are,Giant Slalom,16,Sylvester-Davik Madeleine,W,15,15,
+2025-03-08,Are,Giant Slalom,16,Holdener Wendy,W,15,15,Lena
+2025-03-08,Kvitfjell,Downhill,17,Allegre Nils,M,14,14,Maurus
+2025-03-08,Kvitfjell,Downhill,18,Striedinger Otmar,M,13,13,
+2025-03-08,Are,Giant Slalom,18,Alphand Estelle,W,13,13,
+2025-03-08,Kvitfjell,Downhill,19,Cochran-Siegle Ryan,M,12,12,
+2025-03-08,Are,Giant Slalom,19,Hurt A J,W,12,12,
+2025-03-08,Kvitfjell,Downhill,20,Theaux Adrien,M,11,11,
+2025-03-08,Are,Giant Slalom,20,Ljutic Zrinka,W,11,11,Lea
+2025-03-08,Kvitfjell,Downhill,21,Ploier Andreas,M,10,10,
+2025-03-08,Are,Giant Slalom,21,Dvornik Neja,W,10,10,
+2025-03-08,Kvitfjell,Downhill,22,Babinsky Stefan,M,9,9,
+2025-03-08,Are,Giant Slalom,22,Duerr Lena,W,9,9,Melissa
+2025-03-08,Kvitfjell,Downhill,23,Kohler Marco,M,8,8,
+2025-03-08,Are,Giant Slalom,23,Gasienica-Daniel Maryna,W,8,8,
+2025-03-08,Kvitfjell,Downhill,24,Moeller Fredrik,M,7,7,Lea
+2025-03-08,Are,Giant Slalom,24,Lysdahl Kristin,W,7,7,
+2025-03-08,Kvitfjell,Downhill,25,Negomir Kyle,M,6,6,
+2025-03-08,Are,Giant Slalom,25,Loevblom Hilma,W,6,6,
+2025-03-08,Kvitfjell,Downhill,26,Rieser Stefan,M,5,5,
+2025-03-08,Kvitfjell,Downhill,26,Franzoni Giovanni,M,5,5,
+2025-03-08,Are,Giant Slalom,26,Gritsch Franziska,W,5,5,
+2025-03-08,Are,Giant Slalom,27,Melesi Roberta,W,4,4,
+2025-03-08,Kvitfjell,Downhill,28,Read Jeffrey,M,3,3,
+2025-03-08,Kvitfjell,Downhill,29,Roesti Lars,M,2,2,
+2025-03-08,Kvitfjell,Downhill,30,Goldberg Jared,M,1,1,
 2025-03-07,Kvitfjell,Downhill,1,Paris Dominik,M,55,100,Lea
 2025-03-07,Kvitfjell,Downhill,2,Odermatt Marco,M,48,80,Sarah
 2025-03-07,Kvitfjell,Downhill,3,Rogentin Stefan,M,43,60,Melissa
