@@ -1,465 +1,117 @@
 Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
-2025-11-16,Levi,Slalom,1,"Braathen Lucas Pinheiro                            
-
-
-Atomic",M,55,100,
-2025-11-16,Levi,Slalom,2,"Noel Clement                            
-
-
-Dynastar",M,48,80,
-2025-11-16,Levi,Slalom,3,"Hallberg Eduard                            
-
-
-Fischer",M,43,60,
-2025-11-16,Levi,Slalom,4,"Taylor Laurie                            
-
-
-Head",M,38,50,
-2025-11-16,Levi,Slalom,5,"Haugan Timon                            
-
-
-Van Deer",M,35,45,
-2025-11-16,Levi,Slalom,6,"Rassat Paco                            
-
-
-Head",M,32,40,
-2025-11-16,Levi,Slalom,7,"Ryding Dave                            
-
-
-Head",M,29,36,
-2025-11-16,Levi,Slalom,8,"Amiez Steven                            
-
-
-Rossignol",M,26,32,
-2025-11-16,Levi,Slalom,9,"Matt Michael                            
-
-
-Blizzard",M,24,29,
-2025-11-16,Levi,Slalom,10,"Gstrein Fabio                            
-
-
-Atomic",M,22,26,
-2025-11-16,Levi,Slalom,11,"Feller Manuel                            
-
-
-Atomic",M,20,24,
-2025-11-16,Levi,Slalom,12,"Kastlunger Tobias                            
-
-
-Head",M,19,22,
-2025-11-16,Levi,Slalom,13,"Kristoffersen Henrik                            
-
-
-Van Deer",M,18,20,
-2025-11-16,Levi,Slalom,14,"Meillard Loic                            
-
-
-Rossignol",M,17,18,
-2025-11-16,Levi,Slalom,15,"Strasser Linus                            
-
-
-Head",M,16,16,
-2025-11-16,Levi,Slalom,16,"Kolega Samuel                            
-
-
-Rossignol",M,15,15,
-2025-11-16,Levi,Slalom,17,"Solberg Eirik Hystad                            
-
-
-Fischer",M,14,14,
-2025-11-16,Levi,Slalom,18,"Zubcic Filip                            
-
-
-Atomic",M,13,13,
-2025-11-16,Levi,Slalom,19,"Schwarz Marco                            
-
-
-Atomic",M,12,12,
-2025-11-16,Levi,Slalom,20,"Muffat-Jeandet Victor                            
-
-
-Salomon",M,11,11,
-2025-11-16,Levi,Slalom,21,"Nef Tanguy                            
-
-
-Atomic",M,10,10,
-2025-11-16,Levi,Slalom,22,"Yule Daniel                            
-
-
-Atomic",M,9,9,
-2025-11-16,Levi,Slalom,23,"Popov Albert                            
-
-
-Head",M,8,8,
-2025-11-16,Levi,Slalom,24,"Strolz Johannes                            
-
-
-Head",M,7,7,
-2025-11-16,Levi,Slalom,25,"Maes Sam                            
-
-
-Voelkl",M,6,6,
-2025-11-16,Levi,Slalom,26,"Puckett Cooper                            
-
-
-Head",M,5,5,
-2025-11-16,Levi,Slalom,27,"Major Billy                            
-
-
-Head",M,4,4,
-2025-11-16,Levi,Slalom,28,"Koyama Yohei                            
-
-
-Head",M,3,3,
-2025-11-15,Levi,Slalom,1,"Shiffrin Mikaela                            
-
-
-Atomic",W,55,100,
-2025-11-15,Levi,Slalom,2,"Colturi Lara                            
-
-
-Blizzard",W,48,80,
-2025-11-15,Levi,Slalom,3,"Aicher Emma                            
-
-
-Head",W,43,60,
-2025-11-15,Levi,Slalom,4,"Moltzan Paula                            
-
-
-Rossignol",W,38,50,
-2025-11-15,Levi,Slalom,4,"Duerr Lena                            
-
-
-Head",W,38,50,
-2025-11-15,Levi,Slalom,6,"Ljutic Zrinka                            
-
-
-Atomic",W,32,40,
-2025-11-15,Levi,Slalom,7,"Dvornik Neja                            
-
-
-Rossignol",W,29,36,
-2025-11-15,Levi,Slalom,8,"Holdener Wendy                            
-
-
-Head",W,26,32,
-2025-11-15,Levi,Slalom,9,"Chevrier Marion                            
-
-
-Atomic",W,24,29,
-2025-11-15,Levi,Slalom,10,"Liensberger Katharina                            
-
-
-Rossignol",W,22,26,
-2025-11-15,Levi,Slalom,11,"Hector Sara                            
-
-
-Head",W,20,24,
-2025-11-15,Levi,Slalom,11,"Swenn Larsson Anna                            
-
-
-Head",W,20,24,
-2025-11-15,Levi,Slalom,13,"Mcfarlane Caitlin                            
-
-
-Rossignol",W,18,20,
-2025-11-15,Levi,Slalom,14,"Westhoff Bianca Bakke                            
-
-
-Atomic",W,17,18,
-2025-11-15,Levi,Slalom,15,"Rast Camille                            
-
-
-Head",W,16,16,
-2025-11-15,Levi,Slalom,16,"Truppe Katharina                            
-
-
-Voelkl",W,15,15,
-2025-11-15,Levi,Slalom,16,"Huber Katharina                            
-
-
-Voelkl",W,15,15,
-2025-11-15,Levi,Slalom,18,"Oehlund Cornelia                            
-
-
-Head",W,13,13,
-2025-11-15,Levi,Slalom,19,"Aronsson Elfman Hanna                            
-
-
-Rossignol",W,12,12,
-2025-11-15,Levi,Slalom,20,"Bucik Jogan Ana                            
-
-
-Salomon",W,11,11,
-2025-11-15,Levi,Slalom,21,"Germane Dzenifera                            
-
-
-Head",W,10,10,
-2025-11-15,Levi,Slalom,22,"Meillard Melanie                            
-
-
-Rossignol",W,9,9,
-2025-11-15,Levi,Slalom,23,"Hoerhager Lisa                            
-
-
-Atomic",W,8,8,
-2025-11-15,Levi,Slalom,24,"Gallhuber Katharina                            
-
-
-Atomic",W,7,7,
-2025-11-15,Levi,Slalom,25,"Toth Zita                            
-
-
-Head",W,6,6,
-2025-11-15,Levi,Slalom,26,"Ando Asa                            
-
-
-Atomic",W,5,5,
-2025-11-15,Levi,Slalom,27,"Mondinelli Emilia                            
-
-
-Salomon",W,4,4,
-2025-11-15,Levi,Slalom,28,"Pohjolainen Rosa                            
-
-
-Atomic",W,3,3,
-2025-10-26,Soelden,Giant Slalom,1,"Odermatt Marco                            
-
-
-Stoeckli",M,55,100,
-2025-10-26,Soelden,Giant Slalom,2,"Schwarz Marco                            
-
-
-Atomic",M,48,80,
-2025-10-26,Soelden,Giant Slalom,3,"Mcgrath Atle Lie                            
-
-
-Head",M,43,60,
-2025-10-26,Soelden,Giant Slalom,4,"Brennsteiner Stefan                            
-
-
-Fischer",M,38,50,
-2025-10-26,Soelden,Giant Slalom,5,"Favrot Thibaut                            
-
-
-Dynastar",M,35,45,
-2025-10-26,Soelden,Giant Slalom,6,"Haaser Raphael                            
-
-
-Atomic",M,32,40,
-2025-10-26,Soelden,Giant Slalom,7,"Kristoffersen Henrik                            
-
-
-Van Deer",M,29,36,
-2025-10-26,Soelden,Giant Slalom,8,"Vinatzer Alex                            
-
-
-Atomic",M,26,32,
-2025-10-26,Soelden,Giant Slalom,9,"Kranjec Zan                            
-
-
-Rossignol",M,24,29,
-2025-10-26,Soelden,Giant Slalom,10,"Vitale Flavio                            
-
-
-Head",M,22,26,
-2025-10-26,Soelden,Giant Slalom,11,"Grammel Anton                            
-
-
-Head",M,20,24,
-2025-10-26,Soelden,Giant Slalom,12,"Verdu Joan                            
-
-
-Van Deer",M,19,22,
-2025-10-26,Soelden,Giant Slalom,12,"Haugan Timon                            
-
-
-Van Deer",M,19,22,
-2025-10-26,Soelden,Giant Slalom,14,"Meillard Loic                            
-
-
-Rossignol",M,17,18,
-2025-10-26,Soelden,Giant Slalom,15,"Zubcic Filip                            
-
-
-Atomic",M,16,16,
-2025-10-26,Soelden,Giant Slalom,16,"Tumler Thomas                            
-
-
-Stoeckli",M,15,15,
-2025-10-26,Soelden,Giant Slalom,17,"Gratz Fabian                            
-
-
-Fischer",M,14,14,
-2025-10-26,Soelden,Giant Slalom,18,"Pinturault Alexis                            
-
-
-Head",M,13,13,
-2025-10-26,Soelden,Giant Slalom,19,"Stockinger Jonas                            
-
-
-Voelkl",M,12,12,
-2025-10-26,Soelden,Giant Slalom,20,"Maes Sam                            
-
-
-Voelkl",M,11,11,
-2025-10-26,Soelden,Giant Slalom,21,"Radamus River                            
-
-
-Rossignol",M,10,10,
-2025-10-26,Soelden,Giant Slalom,22,"De Aliprandini Luca                            
-
-
-Salomon",M,9,9,
-2025-10-26,Soelden,Giant Slalom,23,"Laine Tormis                            
-
-
-Voelkl",M,8,8,
-2025-10-26,Soelden,Giant Slalom,24,"Borsotti Giovanni                            
-
-
-Rossignol",M,7,7,
-2025-10-26,Soelden,Giant Slalom,25,"Solberg Eirik Hystad                            
-
-
-Fischer",M,6,6,
-2025-10-26,Soelden,Giant Slalom,25,"Elezi Cannaferina Alban                            
-
-
-Rossignol",M,6,6,
-2025-10-26,Soelden,Giant Slalom,27,"Schmid Alexander                            
-
-
-Head",M,4,4,
-2025-10-26,Soelden,Giant Slalom,28,"Zampa Andreas                            
-
-
-Salomon",M,3,3,
-2025-10-26,Soelden,Giant Slalom,29,"Kriechmayr Vincent                            
-
-
-Head",M,2,2,
-2025-10-26,Soelden,Giant Slalom,30,"Aerni Luca                            
-
-
-Fischer",M,1,1,
-2025-10-25,Soelden,Giant Slalom,1,"Scheib Julia                            
-
-
-Rossignol",W,55,100,
-2025-10-25,Soelden,Giant Slalom,2,"Moltzan Paula                            
-
-
-Rossignol",W,48,80,
-2025-10-25,Soelden,Giant Slalom,3,"Gut-Behrami Lara                            
-
-
-Head",W,43,60,
-2025-10-25,Soelden,Giant Slalom,4,"Shiffrin Mikaela                            
-
-
-Atomic",W,38,50,
-2025-10-25,Soelden,Giant Slalom,5,"Stjernesund Thea Louise                            
-
-
-Rossignol",W,35,45,
-2025-10-25,Soelden,Giant Slalom,6,"O Brien Nina                            
-
-
-Rossignol",W,32,40,
-2025-10-25,Soelden,Giant Slalom,7,"Colturi Lara                            
-
-
-Blizzard",W,29,36,
-2025-10-25,Soelden,Giant Slalom,8,"Robinson Alice                            
-
-
-Salomon",W,26,32,
-2025-10-25,Soelden,Giant Slalom,9,"Hector Sara                            
-
-
-Head",W,24,29,
-2025-10-25,Soelden,Giant Slalom,10,"Ljutic Zrinka                            
-
-
-Atomic",W,22,26,
-2025-10-25,Soelden,Giant Slalom,11,"Grenier Valerie                            
-
-
-Rossignol",W,20,24,
-2025-10-25,Soelden,Giant Slalom,12,"Hensien Katie                            
-
-
-Rossignol",W,19,22,
-2025-10-25,Soelden,Giant Slalom,13,"Hurt A J                            
-
-
-Head",W,18,20,
-2025-10-25,Soelden,Giant Slalom,14,"Duerr Lena                            
-
-
-Head",W,17,18,
-2025-10-25,Soelden,Giant Slalom,15,"Rast Camille                            
-
-
-Head",W,16,16,
-2025-10-25,Soelden,Giant Slalom,16,"Lie Kajsa Vickhoff                            
-
-
-Head",W,15,15,
-2025-10-25,Soelden,Giant Slalom,17,"Zenere Asja                            
-
-
-Salomon",W,14,14,
-2025-10-25,Soelden,Giant Slalom,17,"Gasienica-Daniel Maryna                            
-
-
-Atomic",W,14,14,
-2025-10-25,Soelden,Giant Slalom,19,"Bocock Elisabeth                            
-
-
-Rossignol",W,12,12,
-2025-10-25,Soelden,Giant Slalom,20,"Richardson Britt                            
-
-
-Dynastar",W,11,11,
-2025-10-25,Soelden,Giant Slalom,21,"Holtmann Mina Fuerst                            
-
-
-Atomic",W,10,10,
-2025-10-25,Soelden,Giant Slalom,22,"Pykalainen Erika                            
-
-
-Atomic",W,9,9,
-2025-10-25,Soelden,Giant Slalom,23,"Brunner Stephanie                            
-
-
-Head",W,8,8,
-2025-10-25,Soelden,Giant Slalom,24,"Astner Nina                            
-
-
-Atomic",W,7,7,
-2025-10-25,Soelden,Giant Slalom,25,"Direz Clara                            
-
-
-Dynastar",W,6,6,
-2025-10-25,Soelden,Giant Slalom,26,"Dvornik Neja                            
-
-
-Rossignol",W,5,5,
-2025-10-25,Soelden,Giant Slalom,27,"Liensberger Katharina                            
-
-
-Rossignol",W,4,4,
-2025-10-25,Soelden,Giant Slalom,28,"Aicher Emma                            
-
-
-Head",W,3,3,
-2025-10-25,Soelden,Giant Slalom,29,"Kasper Vanessa                            
-
-
-Head",W,2,2,
-2025-10-25,Soelden,Giant Slalom,30,"Holdener Wendy                            
-
-
-Head",W,1,1,
+2025-11-16,Levi,Slalom,1,Braathen Lucas Pinheiro,M,55,100,Käslin
+2025-11-16,Levi,Slalom,2,Noel Clement,M,48,80,Manser
+2025-11-16,Levi,Slalom,3,Hallberg Eduard,M,43,60,
+2025-11-16,Levi,Slalom,4,Taylor Laurie,M,38,50,
+2025-11-16,Levi,Slalom,5,Haugan Timon,M,35,45,Meier
+2025-11-16,Levi,Slalom,6,Rassat Paco,M,32,40,
+2025-11-16,Levi,Slalom,7,Ryding Dave,M,29,36,Helfenberger
+2025-11-16,Levi,Slalom,8,Amiez Steven,M,26,32,Bulleri
+2025-11-16,Levi,Slalom,9,Matt Michael,M,24,29,
+2025-11-16,Levi,Slalom,10,Gstrein Fabio,M,22,26,Meile
+2025-11-16,Levi,Slalom,11,Feller Manuel,M,20,24,Meier
+2025-11-16,Levi,Slalom,12,Kastlunger Tobias,M,19,22,
+2025-11-16,Levi,Slalom,13,Kristoffersen Henrik,M,18,20,Rizzi
+2025-11-16,Levi,Slalom,14,Meillard Loic,M,17,18,Zappella
+2025-11-16,Levi,Slalom,15,Strasser Linus,M,16,16,Zappella
+2025-11-16,Levi,Slalom,16,Kolega Samuel,M,15,15,Woerlen
+2025-11-16,Levi,Slalom,17,Solberg Eirik Hystad,M,14,14,
+2025-11-16,Levi,Slalom,18,Zubcic Filip,M,13,13,Bürgler
+2025-11-16,Levi,Slalom,19,Schwarz Marco,M,12,12,Bulleri
+2025-11-16,Levi,Slalom,20,Muffat-Jeandet Victor,M,11,11,
+2025-11-16,Levi,Slalom,21,Nef Tanguy,M,10,10,Helbling
+2025-11-16,Levi,Slalom,22,Yule Daniel,M,9,9,Meile
+2025-11-16,Levi,Slalom,23,Popov Albert,M,8,8,Zappella
+2025-11-16,Levi,Slalom,24,Strolz Johannes,M,7,7,
+2025-11-16,Levi,Slalom,25,Maes Sam,M,6,6,Fehr
+2025-11-16,Levi,Slalom,26,Puckett Cooper,M,5,5,
+2025-11-16,Levi,Slalom,27,Major Billy,M,4,4,
+2025-11-16,Levi,Slalom,28,Koyama Yohei,M,3,3,
+2025-11-15,Levi,Slalom,1,Shiffrin Mikaela,W,55,100,Fehr
+2025-11-15,Levi,Slalom,2,Colturi Lara,W,48,80,Meile
+2025-11-15,Levi,Slalom,3,Aicher Emma,W,43,60,Helbling
+2025-11-15,Levi,Slalom,4,Moltzan Paula,W,38,50,Reich
+2025-11-15,Levi,Slalom,4,Duerr Lena,W,38,50,Conzett
+2025-11-15,Levi,Slalom,6,Ljutic Zrinka,W,32,40,Woerlen
+2025-11-15,Levi,Slalom,7,Dvornik Neja,W,29,36,Woerlen
+2025-11-15,Levi,Slalom,8,Holdener Wendy,W,26,32,Conzett
+2025-11-15,Levi,Slalom,9,Chevrier Marion,W,24,29,
+2025-11-15,Levi,Slalom,10,Liensberger Katharina,W,22,26,Helfenberger
+2025-11-15,Levi,Slalom,11,Hector Sara,W,20,24,Bulleri
+2025-11-15,Levi,Slalom,11,Swenn Larsson Anna,W,20,24,Manser
+2025-11-15,Levi,Slalom,13,Mcfarlane Caitlin,W,18,20,
+2025-11-15,Levi,Slalom,14,Westhoff Bianca Bakke,W,17,18,
+2025-11-15,Levi,Slalom,15,Rast Camille,W,16,16,Rizzi
+2025-11-15,Levi,Slalom,16,Truppe Katharina,W,15,15,Reich
+2025-11-15,Levi,Slalom,16,Huber Katharina,W,15,15,Helfenberger
+2025-11-15,Levi,Slalom,18,Oehlund Cornelia,W,13,13,Meile
+2025-11-15,Levi,Slalom,19,Aronsson Elfman Hanna,W,12,12,Rizzi
+2025-11-15,Levi,Slalom,20,Bucik Jogan Ana,W,11,11,Zappella
+2025-11-15,Levi,Slalom,21,Germane Dzenifera,W,10,10,
+2025-11-15,Levi,Slalom,22,Meillard Melanie,W,9,9,Knuchel
+2025-11-15,Levi,Slalom,23,Hoerhager Lisa,W,8,8,
+2025-11-15,Levi,Slalom,24,Gallhuber Katharina,W,7,7,
+2025-11-15,Levi,Slalom,25,Toth Zita,W,6,6,
+2025-11-15,Levi,Slalom,26,Ando Asa,W,5,5,
+2025-11-15,Levi,Slalom,27,Mondinelli Emilia,W,4,4,
+2025-11-15,Levi,Slalom,28,Pohjolainen Rosa,W,3,3,
+2025-10-26,Soelden,Giant Slalom,1,Odermatt Marco,M,55,100,Reich
+2025-10-26,Soelden,Giant Slalom,2,Schwarz Marco,M,48,80,Bulleri
+2025-10-26,Soelden,Giant Slalom,3,Mcgrath Atle Lie,M,43,60,Conzett
+2025-10-26,Soelden,Giant Slalom,4,Brennsteiner Stefan,M,38,50,Reich
+2025-10-26,Soelden,Giant Slalom,5,Favrot Thibaut,M,35,45,
+2025-10-26,Soelden,Giant Slalom,6,Haaser Raphael,M,32,40,Käslin
+2025-10-26,Soelden,Giant Slalom,7,Kristoffersen Henrik,M,29,36,Rizzi
+2025-10-26,Soelden,Giant Slalom,8,Vinatzer Alex,M,26,32,Helfenberger
+2025-10-26,Soelden,Giant Slalom,9,Kranjec Zan,M,24,29,Conzett
+2025-10-26,Soelden,Giant Slalom,10,Vitale Flavio,M,22,26,
+2025-10-26,Soelden,Giant Slalom,11,Grammel Anton,M,20,24,
+2025-10-26,Soelden,Giant Slalom,12,Verdu Joan,M,19,22,Bulleri
+2025-10-26,Soelden,Giant Slalom,12,Haugan Timon,M,19,22,Meier
+2025-10-26,Soelden,Giant Slalom,14,Meillard Loic,M,17,18,Zappella
+2025-10-26,Soelden,Giant Slalom,15,Zubcic Filip,M,16,16,Bürgler
+2025-10-26,Soelden,Giant Slalom,16,Tumler Thomas,M,15,15,Käslin
+2025-10-26,Soelden,Giant Slalom,17,Gratz Fabian,M,14,14,
+2025-10-26,Soelden,Giant Slalom,18,Pinturault Alexis,M,13,13,Käslin
+2025-10-26,Soelden,Giant Slalom,19,Stockinger Jonas,M,12,12,
+2025-10-26,Soelden,Giant Slalom,20,Maes Sam,M,11,11,Fehr
+2025-10-26,Soelden,Giant Slalom,21,Radamus River,M,10,10,Fehr
+2025-10-26,Soelden,Giant Slalom,22,De Aliprandini Luca,M,9,9,Manser
+2025-10-26,Soelden,Giant Slalom,23,Laine Tormis,M,8,8,
+2025-10-26,Soelden,Giant Slalom,24,Borsotti Giovanni,M,7,7,
+2025-10-26,Soelden,Giant Slalom,25,Solberg Eirik Hystad,M,6,6,
+2025-10-26,Soelden,Giant Slalom,25,Elezi Cannaferina Alban,M,6,6,
+2025-10-26,Soelden,Giant Slalom,27,Schmid Alexander,M,4,4,
+2025-10-26,Soelden,Giant Slalom,28,Zampa Andreas,M,3,3,
+2025-10-26,Soelden,Giant Slalom,29,Kriechmayr Vincent,M,2,2,Helbling
+2025-10-26,Soelden,Giant Slalom,30,Aerni Luca,M,1,1,Helbling
+2025-10-25,Soelden,Giant Slalom,1,Scheib Julia,W,55,100,Helbling
+2025-10-25,Soelden,Giant Slalom,2,Moltzan Paula,W,48,80,Reich
+2025-10-25,Soelden,Giant Slalom,3,Gut-Behrami Lara,W,43,60,Knuchel
+2025-10-25,Soelden,Giant Slalom,4,Shiffrin Mikaela,W,38,50,Fehr
+2025-10-25,Soelden,Giant Slalom,5,Stjernesund Thea Louise,W,35,45,Käslin
+2025-10-25,Soelden,Giant Slalom,6,O Brien Nina,W,32,40,Fehr
+2025-10-25,Soelden,Giant Slalom,7,Colturi Lara,W,29,36,Meile
+2025-10-25,Soelden,Giant Slalom,8,Robinson Alice,W,26,32,Bürgler
+2025-10-25,Soelden,Giant Slalom,9,Hector Sara,W,24,29,Bulleri
+2025-10-25,Soelden,Giant Slalom,10,Ljutic Zrinka,W,22,26,Woerlen
+2025-10-25,Soelden,Giant Slalom,11,Grenier Valerie,W,20,24,Bulleri
+2025-10-25,Soelden,Giant Slalom,12,Hensien Katie,W,19,22,Helbling
+2025-10-25,Soelden,Giant Slalom,13,Hurt A J,W,18,20,Knuchel
+2025-10-25,Soelden,Giant Slalom,14,Duerr Lena,W,17,18,Conzett
+2025-10-25,Soelden,Giant Slalom,15,Rast Camille,W,16,16,Rizzi
+2025-10-25,Soelden,Giant Slalom,16,Lie Kajsa Vickhoff,W,15,15,Meier
+2025-10-25,Soelden,Giant Slalom,17,Zenere Asja,W,14,14,
+2025-10-25,Soelden,Giant Slalom,17,Gasienica-Daniel Maryna,W,14,14,
+2025-10-25,Soelden,Giant Slalom,19,Bocock Elisabeth,W,12,12,
+2025-10-25,Soelden,Giant Slalom,20,Richardson Britt,W,11,11,Conzett
+2025-10-25,Soelden,Giant Slalom,21,Holtmann Mina Fuerst,W,10,10,Manser
+2025-10-25,Soelden,Giant Slalom,22,Pykalainen Erika,W,9,9,
+2025-10-25,Soelden,Giant Slalom,23,Brunner Stephanie,W,8,8,
+2025-10-25,Soelden,Giant Slalom,24,Astner Nina,W,7,7,
+2025-10-25,Soelden,Giant Slalom,25,Direz Clara,W,6,6,
+2025-10-25,Soelden,Giant Slalom,26,Dvornik Neja,W,5,5,Woerlen
+2025-10-25,Soelden,Giant Slalom,27,Liensberger Katharina,W,4,4,Helfenberger
+2025-10-25,Soelden,Giant Slalom,28,Aicher Emma,W,3,3,Helbling
+2025-10-25,Soelden,Giant Slalom,29,Kasper Vanessa,W,2,2,
+2025-10-25,Soelden,Giant Slalom,30,Holdener Wendy,W,1,1,Conzett
