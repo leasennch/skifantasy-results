@@ -1,33 +1,63 @@
 Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
+2026-01-17,Wengen,Downhill,1,Odermatt Marco,M,55,100,Céline
 2026-01-17,Tarvisio,Downhill,1,Delago Nicol,W,55,100,
+2026-01-17,Wengen,Downhill,2,Kriechmayr Vincent,M,48,80,Janic
 2026-01-17,Tarvisio,Downhill,2,Weidle-Winkelmann Kira,W,48,80,Daniel
+2026-01-17,Wengen,Downhill,3,Franzoni Giovanni,M,43,60,Sara
 2026-01-17,Tarvisio,Downhill,3,Vonn Lindsey,W,43,60,Janic
+2026-01-17,Wengen,Downhill,4,Von Allmen Franjo,M,38,50,Gabi
 2026-01-17,Tarvisio,Downhill,4,Ortlieb Nina,W,38,50,
+2026-01-17,Wengen,Downhill,5,Monney Alexis,M,35,45,Basil
 2026-01-17,Tarvisio,Downhill,5,Aicher Emma,W,35,45,Daniel
+2026-01-17,Wengen,Downhill,6,Paris Dominik,M,32,40,Sara
 2026-01-17,Tarvisio,Downhill,6,Johnson Breezy,W,32,40,
 2026-01-17,Tarvisio,Downhill,6,Pirovano Laura,W,32,40,Gabi
+2026-01-17,Wengen,Downhill,7,Alexander Cameron,M,29,36,
+2026-01-17,Wengen,Downhill,8,Hemetsberger Daniel,M,26,32,
 2026-01-17,Tarvisio,Downhill,8,Stuhec Ilka,W,26,32,
+2026-01-17,Wengen,Downhill,9,Allegre Nils,M,24,29,Daniel
 2026-01-17,Tarvisio,Downhill,9,Monsen Marte,W,24,29,
+2026-01-17,Wengen,Downhill,10,Innerhofer Christof,M,22,26,
 2026-01-17,Tarvisio,Downhill,10,Delago Nadia,W,22,26,
+2026-01-17,Wengen,Downhill,11,Muzaton Maxence,M,20,24,
 2026-01-17,Tarvisio,Downhill,11,Goggia Sofia,W,20,24,Basil
 2026-01-17,Tarvisio,Downhill,11,Puchner Mirjam,W,20,24,
+2026-01-17,Wengen,Downhill,12,Schieder Florian,M,19,22,
+2026-01-17,Wengen,Downhill,13,Kohler Marco,M,18,20,
 2026-01-17,Tarvisio,Downhill,13,Wiles Jacqueline,W,18,20,
+2026-01-17,Wengen,Downhill,14,Rogentin Stefan,M,17,18,Gabi
 2026-01-17,Tarvisio,Downhill,14,Lie Kajsa Vickhoff,W,17,18,Manuel
+2026-01-17,Wengen,Downhill,15,Cochran-Siegle Ryan,M,16,16,Manuel
 2026-01-17,Tarvisio,Downhill,15,Suter Corinne,W,16,16,
+2026-01-17,Wengen,Downhill,16,Von Appen Henrik,M,15,15,
 2026-01-17,Tarvisio,Downhill,16,Ledecka Ester,W,15,15,
+2026-01-17,Wengen,Downhill,17,Murisier Justin,M,14,14,
 2026-01-17,Tarvisio,Downhill,17,Miradoli Romane,W,14,14,Gabi
+2026-01-17,Wengen,Downhill,18,Cater Martin,M,13,13,
 2026-01-17,Tarvisio,Downhill,18,Huetter Cornelia,W,13,13,Gabi
+2026-01-17,Wengen,Downhill,19,Haaser Raphael,M,12,12,Daniel
 2026-01-17,Tarvisio,Downhill,19,Mollin Allison,W,12,12,
+2026-01-17,Wengen,Downhill,20,Bennett Bryce,M,11,11,
 2026-01-17,Tarvisio,Downhill,20,Raedler Ariane,W,11,11,Basil
+2026-01-17,Wengen,Downhill,21,Hintermann Niels,M,10,10,
 2026-01-17,Tarvisio,Downhill,21,Schmitt Janine,W,10,10,
+2026-01-17,Wengen,Downhill,22,Jocher Simon,M,9,9,
 2026-01-17,Tarvisio,Downhill,22,Haaser Ricarda,W,9,9,
+2026-01-17,Wengen,Downhill,23,Alliod Benjamin Jacques,M,8,8,
 2026-01-17,Tarvisio,Downhill,23,Cutler Haley,W,8,8,
+2026-01-17,Wengen,Downhill,24,Hrobat Miha,M,7,7,Manuel
 2026-01-17,Tarvisio,Downhill,24,Curtoni Elena,W,7,7,Céline
+2026-01-17,Wengen,Downhill,25,Ploier Andreas,M,6,6,
 2026-01-17,Tarvisio,Downhill,25,Schoepf Emily,W,6,6,
+2026-01-17,Wengen,Downhill,26,Crawford James,M,5,5,
 2026-01-17,Tarvisio,Downhill,26,Ming-Nufer Priska,W,5,5,
+2026-01-17,Wengen,Downhill,27,Elezi Cannaferina Alban,M,4,4,
 2026-01-17,Tarvisio,Downhill,27,Ager Christina,W,4,4,
+2026-01-17,Wengen,Downhill,28,Casse Mattia,M,3,3,
 2026-01-17,Tarvisio,Downhill,28,Durrer Delia,W,3,3,
+2026-01-17,Wengen,Downhill,29,Lehto Elian,M,2,2,
 2026-01-17,Tarvisio,Downhill,29,Wright Isabella,W,2,2,
+2026-01-17,Wengen,Downhill,30,Roesti Lars,M,1,1,
 2026-01-17,Tarvisio,Downhill,30,Flury Jasmine,W,1,1,
 2026-01-17,Tarvisio,Downhill,30,Blanc Malorie,W,1,1,
 2026-01-16,Wengen,Super G,1,Franzoni Giovanni,M,55,100,Sara
