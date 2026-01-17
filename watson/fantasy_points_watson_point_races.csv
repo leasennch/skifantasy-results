@@ -19,7 +19,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-17,Tarvisio,Downhill,9,Monsen Marte,W,24,29,Fehr
 2026-01-17,Wengen,Downhill,10,Innerhofer Christof,M,22,26,
 2026-01-17,Tarvisio,Downhill,10,Delago Nadia,W,22,26,
-2026-01-17,Wengen,Downhill,11,Muzaton Maxence,M,20,24,
+2026-01-17,Wengen,Downhill,11,Muzaton Maxence,M,20,24,Käslin
 2026-01-17,Tarvisio,Downhill,11,Goggia Sofia,W,20,24,Manser
 2026-01-17,Tarvisio,Downhill,11,Puchner Mirjam,W,20,24,Meile
 2026-01-17,Wengen,Downhill,12,Schieder Florian,M,19,22,Reich
@@ -167,7 +167,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-10,Adelboden,Giant Slalom,10,Aerni Luca,M,22,26,Helbling
 2026-01-10,Adelboden,Giant Slalom,11,Mcgrath Atle Lie,M,20,24,Conzett
 2026-01-10,Zauchensee,Downhill,12,Weidle-Winkelmann Kira,W,19,22,Helfenberger
-2026-01-10,Adelboden,Giant Slalom,12,Pinturault Alexis,M,19,22,Käslin
+2026-01-10,Adelboden,Giant Slalom,12,Pinturault Alexis,M,19,22,
 2026-01-10,Adelboden,Giant Slalom,12,Tumler Thomas,M,19,22,Käslin
 2026-01-10,Zauchensee,Downhill,13,Blanc Malorie,W,18,20,Fehr
 2026-01-10,Zauchensee,Downhill,14,Mollin Allison,W,17,18,
@@ -179,7 +179,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-10,Zauchensee,Downhill,17,Goggia Sofia,W,14,14,Manser
 2026-01-10,Adelboden,Giant Slalom,17,Elezi Cannaferina Alban,M,14,14,
 2026-01-10,Zauchensee,Downhill,18,Delago Nadia,W,13,13,
-2026-01-10,Zauchensee,Downhill,18,Cashman Keely,W,13,13,
+2026-01-10,Zauchensee,Downhill,18,Cashman Keely,W,13,13,Zappella
 2026-01-10,Adelboden,Giant Slalom,18,De Aliprandini Luca,M,13,13,
 2026-01-10,Adelboden,Giant Slalom,19,Maes Sam,M,12,12,Fehr
 2026-01-10,Zauchensee,Downhill,20,Huetter Cornelia,W,11,11,Käslin
@@ -410,7 +410,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-21,Alta Badia,Giant Slalom,9,Haugan Timon,M,24,29,Meier
 2025-12-21,Alta Badia,Giant Slalom,10,Meillard Loic,M,22,26,Zappella
 2025-12-21,Val d'Isere,Super G,11,Aicher Emma,W,20,24,Helbling
-2025-12-21,Val d'Isere,Super G,11,Cashman Keely,W,20,24,
+2025-12-21,Val d'Isere,Super G,11,Cashman Keely,W,20,24,Zappella
 2025-12-21,Alta Badia,Giant Slalom,11,Kristoffersen Henrik,M,20,24,Rizzi
 2025-12-21,Alta Badia,Giant Slalom,12,Kranjec Zan,M,19,22,Conzett
 2025-12-21,Val d'Isere,Super G,13,Melesi Roberta,W,18,20,Käslin
@@ -424,7 +424,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-21,Val d'Isere,Super G,17,Pirovano Laura,W,14,14,Rizzi
 2025-12-21,Alta Badia,Giant Slalom,17,Maes Sam,M,14,14,Fehr
 2025-12-21,Val d'Isere,Super G,18,Egger Magdalena,W,13,13,Zappella
-2025-12-21,Alta Badia,Giant Slalom,18,Pinturault Alexis,M,13,13,Käslin
+2025-12-21,Alta Badia,Giant Slalom,18,Pinturault Alexis,M,13,13,
 2025-12-21,Val d'Isere,Super G,19,Grenier Valerie,W,12,12,Bulleri
 2025-12-21,Alta Badia,Giant Slalom,19,Verdu Joan,M,12,12,
 2025-12-21,Val d'Isere,Super G,20,Blanc Malorie,W,11,11,Fehr
@@ -492,7 +492,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-20,Val d'Isere,Downhill,21,Robinson Alice,W,10,10,Bürgler
 2025-12-20,Val Gardena-Groeden Südtirol,Downhill,22,Rieser Stefan,M,9,9,
 2025-12-20,Val d'Isere,Downhill,22,Mollin Allison,W,9,9,
-2025-12-20,Val Gardena-Groeden Südtirol,Downhill,23,Muzaton Maxence,M,8,8,
+2025-12-20,Val Gardena-Groeden Südtirol,Downhill,23,Muzaton Maxence,M,8,8,Käslin
 2025-12-20,Val d'Isere,Downhill,23,Grenier Valerie,W,8,8,Bulleri
 2025-12-20,Val Gardena-Groeden Südtirol,Downhill,24,Morse Sam,M,7,7,
 2025-12-20,Val d'Isere,Downhill,24,Egger Magdalena,W,7,7,Zappella
@@ -503,7 +503,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-20,Val Gardena-Groeden Südtirol,Downhill,27,Crawford James,M,4,4,Manser
 2025-12-20,Val d'Isere,Downhill,27,Cutler Haley,W,4,4,
 2025-12-20,Val Gardena-Groeden Südtirol,Downhill,28,Bailet Matthieu,M,3,3,
-2025-12-20,Val d'Isere,Downhill,28,Cashman Keely,W,3,3,
+2025-12-20,Val d'Isere,Downhill,28,Cashman Keely,W,3,3,Zappella
 2025-12-20,Val Gardena-Groeden Südtirol,Downhill,29,Vogt Luis,M,2,2,
 2025-12-20,Val d'Isere,Downhill,29,Ager Christina,W,2,2,Manser
 2025-12-20,Val Gardena-Groeden Südtirol,Downhill,30,Monsen Felix,M,1,1,
@@ -619,7 +619,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-14,Val d'Isere,Slalom,12,Taylor Laurie,M,19,22,
 2025-12-14,Val d'Isere,Slalom,12,Hallberg Eduard,M,19,22,Manser
 2025-12-14,St. Moritz,Super G,13,Ortlieb Nina,W,18,20,Zappella
-2025-12-14,St. Moritz,Super G,14,Cashman Keely,W,17,18,
+2025-12-14,St. Moritz,Super G,14,Cashman Keely,W,17,18,Zappella
 2025-12-14,St. Moritz,Super G,15,Egger Magdalena,W,16,16,Zappella
 2025-12-14,Val d'Isere,Slalom,15,Matt Michael,M,16,16,
 2025-12-14,Val d'Isere,Slalom,15,Gstrein Fabio,M,16,16,Meile
@@ -687,10 +687,10 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-13,Val d'Isere,Giant Slalom,19,Anguenot Leo,M,12,12,Knuchel
 2025-12-13,St. Moritz,Downhill,20,Wiles Jacqueline,W,11,11,Meile
 2025-12-13,Val d'Isere,Giant Slalom,20,Kranjec Zan,M,11,11,Conzett
-2025-12-13,St. Moritz,Downhill,21,Cashman Keely,W,10,10,
+2025-12-13,St. Moritz,Downhill,21,Cashman Keely,W,10,10,Zappella
 2025-12-13,Val d'Isere,Giant Slalom,21,Sturm Joshua,M,10,10,
 2025-12-13,St. Moritz,Downhill,22,Mollin Allison,W,9,9,
-2025-12-13,Val d'Isere,Giant Slalom,22,Pinturault Alexis,M,9,9,Käslin
+2025-12-13,Val d'Isere,Giant Slalom,22,Pinturault Alexis,M,9,9,
 2025-12-13,Val d'Isere,Giant Slalom,22,Tumler Thomas,M,9,9,Käslin
 2025-12-13,St. Moritz,Downhill,23,Ming-Nufer Priska,W,8,8,
 2025-12-13,St. Moritz,Downhill,24,Melesi Roberta,W,7,7,Käslin
@@ -727,7 +727,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-12,St. Moritz,Downhill,20,Wechner Lena,W,11,11,
 2025-12-12,St. Moritz,Downhill,22,Ledecka Ester,W,9,9,Helbling
 2025-12-12,St. Moritz,Downhill,23,Schmitt Janine,W,8,8,
-2025-12-12,St. Moritz,Downhill,24,Cashman Keely,W,7,7,
+2025-12-12,St. Moritz,Downhill,24,Cashman Keely,W,7,7,Zappella
 2025-12-12,St. Moritz,Downhill,25,Melesi Roberta,W,6,6,Käslin
 2025-12-12,St. Moritz,Downhill,26,Moreno Cande,W,5,5,
 2025-12-12,St. Moritz,Downhill,27,Mollin Allison,W,4,4,
@@ -754,7 +754,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-07,Tremblant,Giant Slalom,9,Della Mea Lara,W,24,29,Bulleri
 2025-12-07,Beaver Creek,Giant Slalom,10,Feurstein Lukas,M,22,26,Meier
 2025-12-07,Tremblant,Giant Slalom,10,Duerr Lena,W,22,26,Conzett
-2025-12-07,Beaver Creek,Giant Slalom,11,Pinturault Alexis,M,20,24,Käslin
+2025-12-07,Beaver Creek,Giant Slalom,11,Pinturault Alexis,M,20,24,
 2025-12-07,Tremblant,Giant Slalom,11,Goggia Sofia,W,20,24,Manser
 2025-12-07,Beaver Creek,Giant Slalom,12,Maes Sam,M,19,22,Fehr
 2025-12-07,Tremblant,Giant Slalom,12,Richardson Britt,W,19,22,Conzett
@@ -856,7 +856,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-04,Beaver Creek,Downhill,10,Alexander Cameron,M,22,26,Fehr
 2025-12-04,Beaver Creek,Downhill,11,Kilde Aleksander Aamodt,M,20,24,Zappella
 2025-12-04,Beaver Creek,Downhill,12,Allegre Nils,M,19,22,Rizzi
-2025-12-04,Beaver Creek,Downhill,13,Muzaton Maxence,M,18,20,
+2025-12-04,Beaver Creek,Downhill,13,Muzaton Maxence,M,18,20,Käslin
 2025-12-04,Beaver Creek,Downhill,14,Schieder Florian,M,17,18,Reich
 2025-12-04,Beaver Creek,Downhill,15,Seger Brodie,M,16,16,
 2025-12-04,Beaver Creek,Downhill,16,Hrobat Miha,M,15,15,Knuchel
@@ -941,7 +941,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-11-28,"Copper Mountain, CO",Giant Slalom,9,Tumler Thomas,M,24,29,Käslin
 2025-11-28,"Copper Mountain, CO",Giant Slalom,10,Schmid Alexander,M,22,26,
 2025-11-28,"Copper Mountain, CO",Giant Slalom,10,Pinheiro Braathen Lucas,M,22,26,Käslin
-2025-11-28,"Copper Mountain, CO",Giant Slalom,12,Pinturault Alexis,M,19,22,Käslin
+2025-11-28,"Copper Mountain, CO",Giant Slalom,12,Pinturault Alexis,M,19,22,
 2025-11-28,"Copper Mountain, CO",Giant Slalom,13,Gratz Fabian,M,18,20,
 2025-11-28,"Copper Mountain, CO",Giant Slalom,14,Solberg Eirik Hystad,M,17,18,Reich
 2025-11-28,"Copper Mountain, CO",Giant Slalom,15,Radamus River,M,16,16,Fehr
