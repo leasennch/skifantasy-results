@@ -1,30 +1,56 @@
 Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-24,Kitzbuehel,Downhill,1,Franzoni Giovanni,M,55,100,Rizzi
+2026-01-24,Spindleruv Mlyn,Giant Slalom,1,Hector Sara,W,55,100,Bulleri
 2026-01-24,Kitzbuehel,Downhill,2,Odermatt Marco,M,48,80,Reich
+2026-01-24,Spindleruv Mlyn,Giant Slalom,2,Moltzan Paula,W,48,80,Reich
 2026-01-24,Kitzbuehel,Downhill,3,Muzaton Maxence,M,43,60,Käslin
+2026-01-24,Spindleruv Mlyn,Giant Slalom,3,Shiffrin Mikaela,W,43,60,Fehr
 2026-01-24,Kitzbuehel,Downhill,4,Schieder Florian,M,38,50,Reich
+2026-01-24,Spindleruv Mlyn,Giant Slalom,4,Rast Camille,W,38,50,Rizzi
 2026-01-24,Kitzbuehel,Downhill,5,Allegre Nils,M,35,45,Rizzi
+2026-01-24,Spindleruv Mlyn,Giant Slalom,5,O Brien Nina,W,35,45,Fehr
 2026-01-24,Kitzbuehel,Downhill,6,Hintermann Niels,M,32,40,Conzett
+2026-01-24,Spindleruv Mlyn,Giant Slalom,6,Piller Sue,W,32,40,
 2026-01-24,Kitzbuehel,Downhill,7,Paris Dominik,M,29,36,Woerlen
+2026-01-24,Spindleruv Mlyn,Giant Slalom,7,Della Mea Lara,W,29,36,Bulleri
 2026-01-24,Kitzbuehel,Downhill,8,Vogt Luis,M,26,32,
+2026-01-24,Spindleruv Mlyn,Giant Slalom,8,Hurt A J,W,26,32,Knuchel
 2026-01-24,Kitzbuehel,Downhill,9,Hrobat Miha,M,24,29,Knuchel
+2026-01-24,Spindleruv Mlyn,Giant Slalom,9,Richardson Britt,W,24,29,Conzett
 2026-01-24,Kitzbuehel,Downhill,10,Monsen Felix,M,22,26,
+2026-01-24,Spindleruv Mlyn,Giant Slalom,10,Aicher Emma,W,22,26,Helbling
 2026-01-24,Kitzbuehel,Downhill,11,Casse Mattia,M,20,24,Bürgler
+2026-01-24,Spindleruv Mlyn,Giant Slalom,11,Kasper Vanessa,W,20,24,
 2026-01-24,Kitzbuehel,Downhill,12,Elezi Cannaferina Alban,M,19,22,
+2026-01-24,Spindleruv Mlyn,Giant Slalom,12,Colturi Lara,W,19,22,Meile
 2026-01-24,Kitzbuehel,Downhill,13,Kriechmayr Vincent,M,18,20,Helbling
+2026-01-24,Spindleruv Mlyn,Giant Slalom,13,Astner Nina,W,18,20,
 2026-01-24,Kitzbuehel,Downhill,14,Alexander Cameron,M,17,18,Fehr
+2026-01-24,Spindleruv Mlyn,Giant Slalom,14,Gray Cassidy,W,17,18,
 2026-01-24,Kitzbuehel,Downhill,15,Gamel Seigneur Charles,M,16,16,
+2026-01-24,Spindleruv Mlyn,Giant Slalom,15,Aronsson Elfman Hanna,W,16,16,
 2026-01-24,Kitzbuehel,Downhill,16,Lehto Elian,M,15,15,
 2026-01-24,Kitzbuehel,Downhill,16,Von Allmen Franjo,M,15,15,Helfenberger
+2026-01-24,Spindleruv Mlyn,Giant Slalom,16,Brunner Stephanie,W,15,15,Rizzi
+2026-01-24,Spindleruv Mlyn,Giant Slalom,17,Dorigo Fabiana,W,14,14,
 2026-01-24,Kitzbuehel,Downhill,18,Bailet Matthieu,M,13,13,
+2026-01-24,Spindleruv Mlyn,Giant Slalom,18,Ghisalberti Ilaria,W,13,13,
 2026-01-24,Kitzbuehel,Downhill,19,Arvidsson Erik,M,12,12,
 2026-01-24,Kitzbuehel,Downhill,19,Maple Wiley,M,12,12,
+2026-01-24,Spindleruv Mlyn,Giant Slalom,19,Haaser Ricarda,W,12,12,Bürgler
+2026-01-24,Spindleruv Mlyn,Giant Slalom,20,Holdener Wendy,W,11,11,Conzett
 2026-01-24,Kitzbuehel,Downhill,21,Giezendanner Blaise,M,10,10,
 2026-01-24,Kitzbuehel,Downhill,21,Sejersted Adrian Smiseth,M,10,10,Helfenberger
+2026-01-24,Spindleruv Mlyn,Giant Slalom,21,Sylvester-Davik Madeleine,W,10,10,
+2026-01-24,Spindleruv Mlyn,Giant Slalom,22,Duerr Lena,W,9,9,Conzett
 2026-01-24,Kitzbuehel,Downhill,23,Crawford James,M,8,8,Manser
+2026-01-24,Spindleruv Mlyn,Giant Slalom,23,Collomb Giorgia,W,8,8,
 2026-01-24,Kitzbuehel,Downhill,24,Traninger Manuel,M,7,7,
+2026-01-24,Spindleruv Mlyn,Giant Slalom,24,Escane Doriane,W,7,7,
 2026-01-24,Kitzbuehel,Downhill,25,Haaser Raphael,M,6,6,Käslin
+2026-01-24,Spindleruv Mlyn,Giant Slalom,25,Stjernesund Thea Louise,W,6,6,Käslin
 2026-01-24,Kitzbuehel,Downhill,26,Miggiano Alessio,M,5,5,
+2026-01-24,Spindleruv Mlyn,Giant Slalom,26,Alphand Estelle,W,5,5,Zappella
 2026-01-24,Kitzbuehel,Downhill,27,Read Jeffrey,M,4,4,
 2026-01-24,Kitzbuehel,Downhill,28,Innerhofer Christof,M,3,3,Bulleri
 2026-01-24,Kitzbuehel,Downhill,29,Seger Brodie,M,2,2,
