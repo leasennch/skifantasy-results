@@ -170,7 +170,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-24,Kitzbuehel,Downhill,4,Schieder Florian,M,38,50,Reich
 2026-01-24,Spindleruv Mlyn,Giant Slalom,4,Rast Camille,W,38,50,Rizzi
 2026-01-24,Kitzbuehel,Downhill,5,Allegre Nils,M,35,45,Rizzi
-2026-01-24,Spindleruv Mlyn,Giant Slalom,5,O Brien Nina,W,35,45,Fehr
+2026-01-24,Spindleruv Mlyn,Giant Slalom,5,O'Brien Nina,W,35,45,
 2026-01-24,Kitzbuehel,Downhill,6,Hintermann Niels,M,32,40,Conzett
 2026-01-24,Spindleruv Mlyn,Giant Slalom,6,Piller Sue,W,32,40,
 2026-01-24,Kitzbuehel,Downhill,7,Paris Dominik,M,29,36,Woerlen
@@ -435,7 +435,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-13,Flachau,Slalom,10,Huber Katharina,W,22,26,Helfenberger
 2026-01-13,Flachau,Slalom,11,Della Mea Lara,W,20,24,Bulleri
 2026-01-13,Flachau,Slalom,12,Lamure Marie,W,19,22,
-2026-01-13,Flachau,Slalom,13,O Brien Nina,W,18,20,Fehr
+2026-01-13,Flachau,Slalom,13,O'Brien Nina,W,18,20,
 2026-01-13,Flachau,Slalom,14,Hoerhager Lisa,W,17,18,
 2026-01-13,Flachau,Slalom,15,Bucik Jogan Ana,W,16,16,
 2026-01-13,Flachau,Slalom,16,Peterlini Martina,W,15,15,
@@ -572,7 +572,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-04,Kranjska Gora,Slalom,16,Huber Katharina,W,15,15,Helfenberger
 2026-01-04,Kranjska Gora,Slalom,17,Alphand Estelle,W,14,14,Zappella
 2026-01-04,Kranjska Gora,Slalom,18,Valleriani Giulia,W,13,13,
-2026-01-04,Kranjska Gora,Slalom,19,O Brien Nina,W,12,12,Fehr
+2026-01-04,Kranjska Gora,Slalom,19,O'Brien Nina,W,12,12,
 2026-01-04,Kranjska Gora,Slalom,20,Lamure Marie,W,11,11,
 2026-01-04,Kranjska Gora,Slalom,21,Gallhuber Katharina,W,10,10,Bürgler
 2026-01-04,Kranjska Gora,Slalom,22,Chevrier Marion,W,9,9,Knuchel
@@ -591,7 +591,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-03,Kranjska Gora,Giant Slalom,5,Shiffrin Mikaela,W,35,45,Fehr
 2026-01-03,Kranjska Gora,Giant Slalom,6,Colturi Lara,W,32,40,Meile
 2026-01-03,Kranjska Gora,Giant Slalom,7,Gasienica-Daniel Maryna,W,29,36,
-2026-01-03,Kranjska Gora,Giant Slalom,8,O Brien Nina,W,26,32,Fehr
+2026-01-03,Kranjska Gora,Giant Slalom,8,O'Brien Nina,W,26,32,
 2026-01-03,Kranjska Gora,Giant Slalom,9,Grenier Valerie,W,24,29,Bulleri
 2026-01-03,Kranjska Gora,Giant Slalom,10,Della Mea Lara,W,22,26,Bulleri
 2026-01-03,Kranjska Gora,Giant Slalom,11,Goggia Sofia,W,20,24,Manser
@@ -1132,7 +1132,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-06,Tremblant,Giant Slalom,7,Alphand Estelle,W,29,36,Zappella
 2025-12-06,Tremblant,Giant Slalom,8,Goggia Sofia,W,26,32,Manser
 2025-12-06,Tremblant,Giant Slalom,9,Della Mea Lara,W,24,29,Bulleri
-2025-12-06,Tremblant,Giant Slalom,10,O Brien Nina,W,22,26,Fehr
+2025-12-06,Tremblant,Giant Slalom,10,O'Brien Nina,W,22,26,
 2025-12-06,Tremblant,Giant Slalom,11,Brunner Stephanie,W,20,24,Rizzi
 2025-12-06,Tremblant,Giant Slalom,12,Aicher Emma,W,19,22,Helbling
 2025-12-06,Tremblant,Giant Slalom,13,Moltzan Paula,W,18,20,Reich
@@ -1232,7 +1232,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-11-30,"Copper Mountain, CO",Slalom,23,Della Mea Lara,W,8,8,Bulleri
 2025-11-30,"Copper Mountain, CO",Slalom,24,Ando Asa,W,7,7,
 2025-11-30,"Copper Mountain, CO",Slalom,25,Smart Amelia,W,6,6,
-2025-11-30,"Copper Mountain, CO",Slalom,26,O Brien Nina,W,5,5,Fehr
+2025-11-30,"Copper Mountain, CO",Slalom,26,O'Brien Nina,W,5,5,
 2025-11-30,"Copper Mountain, CO",Slalom,27,Braendli Anuk,W,4,4,
 2025-11-29,"Copper Mountain, CO",Giant Slalom,1,Robinson Alice,W,55,100,Bürgler
 2025-11-29,"Copper Mountain, CO",Giant Slalom,2,Scheib Julia,W,48,80,Helbling
@@ -1244,7 +1244,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-11-29,"Copper Mountain, CO",Giant Slalom,8,Holtmann Mina Fuerst,W,26,32,Manser
 2025-11-29,"Copper Mountain, CO",Giant Slalom,9,Zenere Asja,W,24,29,
 2025-11-29,"Copper Mountain, CO",Giant Slalom,10,Liensberger Katharina,W,22,26,Helfenberger
-2025-11-29,"Copper Mountain, CO",Giant Slalom,11,O Brien Nina,W,20,24,Fehr
+2025-11-29,"Copper Mountain, CO",Giant Slalom,11,O'Brien Nina,W,20,24,
 2025-11-29,"Copper Mountain, CO",Giant Slalom,12,Colturi Lara,W,19,22,Meile
 2025-11-29,"Copper Mountain, CO",Giant Slalom,13,Grenier Valerie,W,18,20,Bulleri
 2025-11-29,"Copper Mountain, CO",Giant Slalom,14,Shiffrin Mikaela,W,17,18,Fehr
@@ -1466,7 +1466,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-10-25,Soelden,Giant Slalom,3,Gut-Behrami Lara,W,43,60,Knuchel
 2025-10-25,Soelden,Giant Slalom,4,Shiffrin Mikaela,W,38,50,Fehr
 2025-10-25,Soelden,Giant Slalom,5,Stjernesund Thea Louise,W,35,45,Käslin
-2025-10-25,Soelden,Giant Slalom,6,O Brien Nina,W,32,40,Fehr
+2025-10-25,Soelden,Giant Slalom,6,O'Brien Nina,W,32,40,
 2025-10-25,Soelden,Giant Slalom,7,Colturi Lara,W,29,36,Meile
 2025-10-25,Soelden,Giant Slalom,8,Robinson Alice,W,26,32,Bürgler
 2025-10-25,Soelden,Giant Slalom,9,Hector Sara,W,24,29,Bulleri
