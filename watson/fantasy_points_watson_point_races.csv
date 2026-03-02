@@ -6,10 +6,10 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-03-01,Soldeu,Super G,5,Pirovano Laura,W,35,45,Rizzi
 2026-03-01,Soldeu,Super G,6,Ledecka Ester,W,32,40,Helbling
 2026-03-01,Soldeu,Super G,7,Robinson Alice,W,29,36,Bürgler
-2026-03-01,Soldeu,Super G,8,Brignone Federica,W,26,32,Reich
+2026-03-01,Soldeu,Super G,8,Brignone Federica,W,26,32,
 2026-03-01,Soldeu,Super G,9,Ortlieb Nina,W,24,29,Zappella
 2026-03-01,Soldeu,Super G,9,Miradoli Romane,W,24,29,Rizzi
-2026-03-01,Soldeu,Super G,11,Bocock Mary,W,20,24,
+2026-03-01,Soldeu,Super G,11,Bocock Mary,W,20,24,Reich
 2026-03-01,Soldeu,Super G,12,Cashman Keely,W,19,22,Zappella
 2026-03-01,Soldeu,Super G,13,Cerutti Camille,W,18,20,Rizzi
 2026-03-01,Soldeu,Super G,14,Weidle-Winkelmann Kira,W,17,18,Helfenberger
@@ -58,11 +58,11 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-02-28,Garmisch Partenkirchen,Downhill,13,Allegre Nils,M,18,20,Rizzi
 2026-02-28,Soldeu,Super G,14,Puchner Mirjam,W,17,18,Meile
 2026-02-28,Garmisch Partenkirchen,Downhill,14,Alexander Cameron,M,17,18,Fehr
-2026-02-28,Soldeu,Super G,15,Brignone Federica,W,16,16,Reich
+2026-02-28,Soldeu,Super G,15,Brignone Federica,W,16,16,
 2026-02-28,Garmisch Partenkirchen,Downhill,15,Sejersted Adrian Smiseth,M,16,16,Helfenberger
 2026-02-28,Soldeu,Super G,16,Stuhec Ilka,W,15,15,Meier
 2026-02-28,Garmisch Partenkirchen,Downhill,16,Giezendanner Blaise,M,15,15,
-2026-02-28,Soldeu,Super G,17,Bocock Mary,W,14,14,
+2026-02-28,Soldeu,Super G,17,Bocock Mary,W,14,14,Reich
 2026-02-28,Garmisch Partenkirchen,Downhill,17,Monsen Felix,M,14,14,
 2026-02-28,Soldeu,Super G,18,Curtoni Elena,W,13,13,Meier
 2026-02-28,Garmisch Partenkirchen,Downhill,18,Roesti Lars,M,13,13,
