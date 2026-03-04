@@ -183,7 +183,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-28,Schladming,Slalom,1,Kristoffersen Henrik,M,55,100,Rizzi
 2026-01-28,Schladming,Slalom,2,Mcgrath Atle Lie,M,48,80,Conzett
 2026-01-28,Schladming,Slalom,3,Noel Clement,M,43,60,Manser
-2026-01-28,Schladming,Slalom,4,Pinheiro Braathen Lucas,M,38,50,Käslin
+2026-01-28,Schladming,Slalom,4,Braathen Lucas Pinheiro,M,38,50,Käslin
 2026-01-28,Schladming,Slalom,5,Gstrein Fabio,M,35,45,Meile
 2026-01-28,Schladming,Slalom,6,Haugan Timon,M,32,40,Meier
 2026-01-28,Schladming,Slalom,7,Vinatzer Alex,M,29,36,Helfenberger
@@ -202,7 +202,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-28,Schladming,Slalom,20,Zenhaeusern Ramon,M,11,11,
 2026-01-28,Schladming,Slalom,21,Braekken Theodor,M,10,10,
 2026-01-27,Schladming,Giant Slalom,1,Meillard Loic,M,55,100,Zappella
-2026-01-27,Schladming,Giant Slalom,2,Pinheiro Braathen Lucas,M,48,80,Käslin
+2026-01-27,Schladming,Giant Slalom,2,Braathen Lucas Pinheiro,M,48,80,Käslin
 2026-01-27,Schladming,Giant Slalom,3,Elezi Cannaferina Alban,M,43,60,Fehr
 2026-01-27,Schladming,Giant Slalom,4,Odermatt Marco,M,38,50,Reich
 2026-01-27,Schladming,Giant Slalom,5,Haugan Timon,M,35,45,Meier
@@ -234,7 +234,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-25,Spindleruv Mlyn,Slalom,2,Rast Camille,W,48,80,Rizzi
 2026-01-25,Kitzbuehel,Slalom,3,Strasser Linus,M,43,60,Zappella
 2026-01-25,Spindleruv Mlyn,Slalom,3,Aicher Emma,W,43,60,Helbling
-2026-01-25,Kitzbuehel,Slalom,4,Pinheiro Braathen Lucas,M,38,50,Käslin
+2026-01-25,Kitzbuehel,Slalom,4,Braathen Lucas Pinheiro,M,38,50,Käslin
 2026-01-25,Spindleruv Mlyn,Slalom,4,Truppe Katharina,W,38,50,Reich
 2026-01-25,Kitzbuehel,Slalom,5,Hallberg Eduard,M,35,45,Manser
 2026-01-25,Spindleruv Mlyn,Slalom,5,Holdener Wendy,W,35,45,Conzett
@@ -397,7 +397,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-20,Kronplatz,Giant Slalom,27,Piller Sue,W,4,4,
 2026-01-18,Wengen,Slalom,1,Mcgrath Atle Lie,M,55,100,Conzett
 2026-01-18,Tarvisio,Super G,1,Aicher Emma,W,55,100,Helbling
-2026-01-18,Wengen,Slalom,2,Pinheiro Braathen Lucas,M,48,80,Käslin
+2026-01-18,Wengen,Slalom,2,Braathen Lucas Pinheiro,M,48,80,Käslin
 2026-01-18,Tarvisio,Super G,2,Vonn Lindsey,W,48,80,Zappella
 2026-01-18,Wengen,Slalom,3,Kristoffersen Henrik,M,43,60,Rizzi
 2026-01-18,Tarvisio,Super G,3,Ledecka Ester,W,43,60,Helbling
@@ -573,7 +573,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-11,Adelboden,Slalom,1,Rassat Paco,M,55,100,Manser
 2026-01-11,Adelboden,Slalom,2,Mcgrath Atle Lie,M,48,80,Conzett
 2026-01-11,Adelboden,Slalom,3,Kristoffersen Henrik,M,43,60,Rizzi
-2026-01-11,Adelboden,Slalom,4,Pinheiro Braathen Lucas,M,38,50,Käslin
+2026-01-11,Adelboden,Slalom,4,Braathen Lucas Pinheiro,M,38,50,Käslin
 2026-01-11,Adelboden,Slalom,5,Feller Manuel,M,35,45,Meier
 2026-01-11,Adelboden,Slalom,6,Hallberg Eduard,M,32,40,Manser
 2026-01-11,Adelboden,Slalom,7,Amiez Steven,M,29,36,Bulleri
@@ -601,7 +601,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-10,Zauchensee,Downhill,1,Vonn Lindsey,W,55,100,Zappella
 2026-01-10,Adelboden,Giant Slalom,1,Odermatt Marco,M,55,100,Reich
 2026-01-10,Zauchensee,Downhill,2,Lie Kajsa Vickhoff,W,48,80,Meier
-2026-01-10,Adelboden,Giant Slalom,2,Pinheiro Braathen Lucas,M,48,80,Käslin
+2026-01-10,Adelboden,Giant Slalom,2,Braathen Lucas Pinheiro,M,48,80,Käslin
 2026-01-10,Zauchensee,Downhill,3,Wiles Jacqueline,W,43,60,Meile
 2026-01-10,Adelboden,Giant Slalom,3,Anguenot Leo,M,43,60,Knuchel
 2026-01-10,Zauchensee,Downhill,4,Pirovano Laura,W,38,50,Rizzi
@@ -657,7 +657,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-07,Madonna di Campiglio,Slalom,1,Noel Clement,M,55,100,Manser
 2026-01-07,Madonna di Campiglio,Slalom,2,Hallberg Eduard,M,48,80,Manser
 2026-01-07,Madonna di Campiglio,Slalom,3,Rassat Paco,M,43,60,Manser
-2026-01-07,Madonna di Campiglio,Slalom,4,Pinheiro Braathen Lucas,M,38,50,Käslin
+2026-01-07,Madonna di Campiglio,Slalom,4,Braathen Lucas Pinheiro,M,38,50,Käslin
 2026-01-07,Madonna di Campiglio,Slalom,5,Solberg Eirik Hystad,M,35,45,
 2026-01-07,Madonna di Campiglio,Slalom,6,Marchant Armand,M,32,40,
 2026-01-07,Madonna di Campiglio,Slalom,6,Haugan Timon,M,32,40,Meier
@@ -818,7 +818,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-22,Alta Badia,Slalom,2,Noel Clement,M,48,80,Manser
 2025-12-22,Alta Badia,Slalom,3,Meillard Loic,M,43,60,Zappella
 2025-12-22,Alta Badia,Slalom,4,Haugan Timon,M,38,50,Meier
-2025-12-22,Alta Badia,Slalom,5,Pinheiro Braathen Lucas,M,35,45,Käslin
+2025-12-22,Alta Badia,Slalom,5,Braathen Lucas Pinheiro,M,35,45,Käslin
 2025-12-22,Alta Badia,Slalom,6,Rassat Paco,M,32,40,
 2025-12-22,Alta Badia,Slalom,7,Nef Tanguy,M,29,36,Bürgler
 2025-12-22,Alta Badia,Slalom,8,Hallberg Eduard,M,26,32,Manser
@@ -846,7 +846,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-21,Val d'Isere,Super G,1,Goggia Sofia,W,55,100,Manser
 2025-12-21,Alta Badia,Giant Slalom,1,Schwarz Marco,M,55,100,Bulleri
 2025-12-21,Val d'Isere,Super G,2,Robinson Alice,W,48,80,Bürgler
-2025-12-21,Alta Badia,Giant Slalom,2,Pinheiro Braathen Lucas,M,48,80,Käslin
+2025-12-21,Alta Badia,Giant Slalom,2,Braathen Lucas Pinheiro,M,48,80,Käslin
 2025-12-21,Val d'Isere,Super G,3,Vonn Lindsey,W,43,60,Zappella
 2025-12-21,Alta Badia,Giant Slalom,3,Brennsteiner Stefan,M,43,60,Reich
 2025-12-21,Val d'Isere,Super G,4,Curtoni Elena,W,38,50,Meier
@@ -1114,7 +1114,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-13,St. Moritz,Downhill,6,Pirovano Laura,W,32,40,Rizzi
 2025-12-13,Val d'Isere,Giant Slalom,6,Radamus River,M,32,40,Fehr
 2025-12-13,St. Moritz,Downhill,7,Egger Magdalena,W,29,36,Zappella
-2025-12-13,Val d'Isere,Giant Slalom,7,Pinheiro Braathen Lucas,M,29,36,Käslin
+2025-12-13,Val d'Isere,Giant Slalom,7,Braathen Lucas Pinheiro,M,29,36,Käslin
 2025-12-13,St. Moritz,Downhill,8,Ortlieb Nina,W,26,32,Zappella
 2025-12-13,Val d'Isere,Giant Slalom,8,Vinatzer Alex,M,26,32,Helfenberger
 2025-12-13,St. Moritz,Downhill,9,Monsen Marte,W,24,29,Fehr
@@ -1197,7 +1197,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-07,Beaver Creek,Giant Slalom,4,Brennsteiner Stefan,M,38,50,Reich
 2025-12-07,Tremblant,Giant Slalom,4,Rast Camille,W,38,50,Rizzi
 2025-12-07,Tremblant,Giant Slalom,4,Shiffrin Mikaela,W,38,50,Fehr
-2025-12-07,Beaver Creek,Giant Slalom,5,Pinheiro Braathen Lucas,M,35,45,Käslin
+2025-12-07,Beaver Creek,Giant Slalom,5,Braathen Lucas Pinheiro,M,35,45,Käslin
 2025-12-07,Beaver Creek,Giant Slalom,6,Radamus River,M,32,40,Fehr
 2025-12-07,Tremblant,Giant Slalom,6,Moltzan Paula,W,32,40,Reich
 2025-12-07,Beaver Creek,Giant Slalom,7,Mcgrath Atle Lie,M,29,36,Conzett
@@ -1394,7 +1394,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-11-28,"Copper Mountain, CO",Giant Slalom,7,Anguenot Leo,M,29,36,Knuchel
 2025-11-28,"Copper Mountain, CO",Giant Slalom,9,Tumler Thomas,M,24,29,Käslin
 2025-11-28,"Copper Mountain, CO",Giant Slalom,10,Schmid Alexander,M,22,26,
-2025-11-28,"Copper Mountain, CO",Giant Slalom,10,Pinheiro Braathen Lucas,M,22,26,Käslin
+2025-11-28,"Copper Mountain, CO",Giant Slalom,10,Braathen Lucas Pinheiro,M,22,26,Käslin
 2025-11-28,"Copper Mountain, CO",Giant Slalom,12,Pinturault Alexis,M,19,22,Käslin
 2025-11-28,"Copper Mountain, CO",Giant Slalom,13,Gratz Fabian,M,18,20,
 2025-11-28,"Copper Mountain, CO",Giant Slalom,14,Solberg Eirik Hystad,M,17,18,
@@ -1478,7 +1478,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-11-22,Gurgl,Slalom,7,Muffat-Jeandet Victor,M,29,36,
 2025-11-22,Gurgl,Slalom,8,Strasser Linus,M,26,32,Zappella
 2025-11-22,Gurgl,Slalom,9,Popov Albert,M,24,29,Zappella
-2025-11-22,Gurgl,Slalom,10,Pinheiro Braathen Lucas,M,22,26,Käslin
+2025-11-22,Gurgl,Slalom,10,Braathen Lucas Pinheiro,M,22,26,Käslin
 2025-11-22,Gurgl,Slalom,11,Yule Daniel,M,20,24,Meile
 2025-11-22,Gurgl,Slalom,12,Rueland Simon,M,19,22,
 2025-11-22,Gurgl,Slalom,12,Kristoffersen Henrik,M,19,22,Rizzi
