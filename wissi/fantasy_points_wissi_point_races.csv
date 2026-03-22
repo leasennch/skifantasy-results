@@ -22,7 +22,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-03-21,Lillehammer,Downhill,11,Franzoni Giovanni,M,20,24,Sara
 2026-03-21,Lillehammer,Downhill,11,Delago Nadia,W,20,24,
 2026-03-21,Lillehammer,Downhill,12,Alexander Cameron,M,19,22,
-2026-03-21,Lillehammer,Downhill,12,Ortlieb Nina,W,19,22,
+2026-03-21,Lillehammer,Downhill,12,Ortlieb Nina,W,19,22,Céline
 2026-03-21,Lillehammer,Downhill,13,Sejersted Adrian Smiseth,M,18,20,
 2026-03-21,Lillehammer,Downhill,13,Puchner Mirjam,W,18,20,
 2026-03-21,Lillehammer,Downhill,14,Allegre Nils,M,17,18,Daniel
@@ -429,7 +429,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-31,Crans Montana,Super G,17,Wiles Jacqueline,W,14,14,
 2026-01-31,Crans Montana,Super G,18,Brignone Federica,W,13,13,Gabi
 2026-01-31,Crans Montana,Super G,19,Mangan Tricia,W,12,12,
-2026-01-31,Crans Montana,Super G,20,Ortlieb Nina,W,11,11,Céline
+2026-01-31,Crans Montana,Super G,20,Ortlieb Nina,W,11,11,
 2026-01-31,Crans Montana,Super G,21,Scheib Julia,W,10,10,Daniel
 2026-01-31,Crans Montana,Super G,22,Muzaferija Elvedina,W,9,9,
 2026-01-31,Crans Montana,Super G,23,Suter Corinne,W,8,8,
@@ -688,7 +688,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-18,Wengen,Slalom,16,Sturm Joshua,M,15,15,
 2026-01-18,Tarvisio,Super G,16,Curtoni Elena,W,15,15,Céline
 2026-01-18,Wengen,Slalom,17,Grahl-Madsen Hans,M,14,14,
-2026-01-18,Tarvisio,Super G,17,Ortlieb Nina,W,14,14,Céline
+2026-01-18,Tarvisio,Super G,17,Ortlieb Nina,W,14,14,
 2026-01-18,Wengen,Slalom,18,Yule Daniel,M,13,13,
 2026-01-18,Tarvisio,Super G,18,Raedler Ariane,W,13,13,Basil
 2026-01-18,Wengen,Slalom,19,Rodes Istok,M,12,12,
@@ -720,7 +720,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2026-01-17,Wengen,Downhill,3,Franzoni Giovanni,M,43,60,Sara
 2026-01-17,Tarvisio,Downhill,3,Vonn Lindsey,W,43,60,Janic
 2026-01-17,Wengen,Downhill,4,Von Allmen Franjo,M,38,50,Gabi
-2026-01-17,Tarvisio,Downhill,4,Ortlieb Nina,W,38,50,Céline
+2026-01-17,Tarvisio,Downhill,4,Ortlieb Nina,W,38,50,
 2026-01-17,Wengen,Downhill,5,Monney Alexis,M,35,45,Basil
 2026-01-17,Tarvisio,Downhill,5,Aicher Emma,W,35,45,Daniel
 2026-01-17,Wengen,Downhill,6,Paris Dominik,M,32,40,Sara
@@ -1131,7 +1131,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-21,Alta Badia,Giant Slalom,13,Aerni Luca,M,18,20,
 2025-12-21,Val d'Isere,Super G,14,Lie Kajsa Vickhoff,W,17,18,Manuel
 2025-12-21,Alta Badia,Giant Slalom,14,Vinatzer Alex,M,17,18,Céline
-2025-12-21,Val d'Isere,Super G,15,Ortlieb Nina,W,16,16,Céline
+2025-12-21,Val d'Isere,Super G,15,Ortlieb Nina,W,16,16,
 2025-12-21,Alta Badia,Giant Slalom,15,Tumler Thomas,M,16,16,Gabi
 2025-12-21,Val d'Isere,Super G,16,Gauche Laura,W,15,15,
 2025-12-21,Alta Badia,Giant Slalom,16,Solberg Eirik Hystad,M,15,15,
@@ -1183,7 +1183,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-20,Val Gardena-Groeden Südtirol,Downhill,10,Lehto Elian,M,22,26,
 2025-12-20,Val d'Isere,Downhill,10,Aicher Emma,W,22,26,Daniel
 2025-12-20,Val Gardena-Groeden Südtirol,Downhill,11,Ploier Andreas,M,20,24,
-2025-12-20,Val d'Isere,Downhill,11,Ortlieb Nina,W,20,24,Céline
+2025-12-20,Val d'Isere,Downhill,11,Ortlieb Nina,W,20,24,
 2025-12-20,Val Gardena-Groeden Südtirol,Downhill,12,Franzoni Giovanni,M,19,22,
 2025-12-20,Val d'Isere,Downhill,12,Miradoli Romane,W,19,22,Gabi
 2025-12-20,Val Gardena-Groeden Südtirol,Downhill,13,Kriechmayr Vincent,M,18,20,Janic
@@ -1332,7 +1332,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-14,Val d'Isere,Slalom,12,Desgrippes Hugo,M,19,22,
 2025-12-14,Val d'Isere,Slalom,12,Taylor Laurie,M,19,22,
 2025-12-14,Val d'Isere,Slalom,12,Hallberg Eduard,M,19,22,Gabi
-2025-12-14,St. Moritz,Super G,13,Ortlieb Nina,W,18,20,Céline
+2025-12-14,St. Moritz,Super G,13,Ortlieb Nina,W,18,20,
 2025-12-14,St. Moritz,Super G,14,Cashman Keely,W,17,18,
 2025-12-14,St. Moritz,Super G,15,Egger Magdalena,W,16,16,
 2025-12-14,Val d'Isere,Slalom,15,Matt Michael,M,16,16,
@@ -1375,7 +1375,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-13,Val d'Isere,Giant Slalom,6,Radamus River,M,32,40,Basil
 2025-12-13,St. Moritz,Downhill,7,Egger Magdalena,W,29,36,
 2025-12-13,Val d'Isere,Giant Slalom,7,Braathen Lucas Pinheiro,M,29,36,Janic
-2025-12-13,St. Moritz,Downhill,8,Ortlieb Nina,W,26,32,Céline
+2025-12-13,St. Moritz,Downhill,8,Ortlieb Nina,W,26,32,
 2025-12-13,Val d'Isere,Giant Slalom,8,Vinatzer Alex,M,26,32,
 2025-12-13,St. Moritz,Downhill,9,Monsen Marte,W,24,29,
 2025-12-13,Val d'Isere,Giant Slalom,9,Feurstein Patrick,M,24,29,
@@ -1427,7 +1427,7 @@ Datum,Ort,Disziplin,Rang,Fahrer/in,Geschlecht,Fantasy Punkte,Weltcup Punkte,Team
 2025-12-12,St. Moritz,Downhill,6,Huetter Cornelia,W,32,40,Gabi
 2025-12-12,St. Moritz,Downhill,8,Pirovano Laura,W,26,32,Gabi
 2025-12-12,St. Moritz,Downhill,8,Weidle-Winkelmann Kira,W,26,32,
-2025-12-12,St. Moritz,Downhill,10,Ortlieb Nina,W,22,26,Céline
+2025-12-12,St. Moritz,Downhill,10,Ortlieb Nina,W,22,26,
 2025-12-12,St. Moritz,Downhill,11,Raedler Ariane,W,20,24,Basil
 2025-12-12,St. Moritz,Downhill,12,Delago Nicol,W,19,22,
 2025-12-12,St. Moritz,Downhill,13,Blanc Malorie,W,18,20,
